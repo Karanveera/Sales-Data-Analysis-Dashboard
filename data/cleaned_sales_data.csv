@@ -1,0 +1,1194 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,Category,Product_Name,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Total_Sales,Year,Month,Month_Name,Year_Month,Day_of_Week
+ORD-10550,2025-12-06,CUST-0163,Morgan Williams,West,Electronics,Wireless Headphones,6,99.99,0.1,Debit Card,Returned,539.95,2025,12,Dec,2025-12,Saturday
+ORD-11051,2025-08-08,CUST-0345,Chris Gonzalez,Central,Clothing,Winter Jacket,3,120.0,0.25,Debit Card,Returned,270.0,2025,8,Aug,2025-08,Friday
+ORD-10245,2025-10-11,CUST-0152,Morgan Martinez,South,Office Supplies,Gel Pen Set (12-pack),6,12.99,0.1,Cash,Returned,70.15,2025,10,Oct,2025-10,Saturday
+ORD-10554,2025-08-24,CUST-0309,Sam Brown,Central,Clothing,Running Shoes,1,85.0,0.1,Credit Card,Cancelled,76.5,2025,8,Aug,2025-08,Sunday
+ORD-11166,2025-10-29,CUST-0246,Reese Davis,North,Clothing,Running Shoes,1,85.0,0.1,Bank Transfer,Cancelled,76.5,2025,10,Oct,2025-10,Wednesday
+ORD-10908,2025-11-17,CUST-0158,Skyler Jones,East,Clothing,Cotton Hoodie,6,45.0,0.2,PayPal,Completed,216.0,2025,11,Nov,2025-11,Monday
+ORD-10733,2025-09-14,CUST-0169,Jordan Williams,South,Office Supplies,Notebook Pack,1,18.99,0.2,Debit Card,Cancelled,15.19,2025,9,Sep,2025-09,Sunday
+ORD-10527,2025-02-16,CUST-0108,Alex Garcia,North,Electronics,Smart Watch,3,199.99,0.0,Credit Card,Completed,599.97,2025,2,Feb,2025-02,Sunday
+ORD-10102,2025-03-23,CUST-0137,Skyler Martinez,South,Clothing,Cotton Hoodie,6,45.0,0.0,PayPal,Completed,270.0,2025,3,Mar,2025-03,Sunday
+ORD-10129,2025-12-07,CUST-0296,Morgan Hernandez,West,Electronics,USB-C Hub,10,29.99,0.2,PayPal,Completed,239.92,2025,12,Dec,2025-12,Sunday
+ORD-10421,2025-10-04,CUST-0344,Quinn Smith,West,Electronics,4K Monitor,8,349.99,0.05,Debit Card,Completed,2659.92,2025,10,Oct,2025-10,Saturday
+ORD-10979,2025-04-27,CUST-0244,Alex Lopez,West,Furniture,Standing Desk,7,499.99,0.25,Cash,Completed,2624.95,2025,4,Apr,2025-04,Sunday
+ORD-10211,2025-07-23,CUST-0320,Sam Rodriguez,Central,Electronics,Mechanical Keyboard,2,89.99,0.05,Cash,Completed,170.98,2025,7,Jul,2025-07,Wednesday
+ORD-11053,2025-03-11,CUST-0102,Cameron Smith,South,Office Supplies,Whiteboard Markers,2,8.99,0.05,Credit Card,Cancelled,17.08,2025,3,Mar,2025-03,Tuesday
+ORD-10981,2025-05-09,CUST-0238,Reese Hernandez,West,Furniture,Ergonomic Office Chair,1,249.99,0.15,PayPal,Completed,212.49,2025,5,May,2025-05,Friday
+ORD-10416,2025-07-17,CUST-0254,Reese Jones,Central,Clothing,Running Shoes,7,85.0,0.0,Bank Transfer,Completed,595.0,2025,7,Jul,2025-07,Thursday
+ORD-10666,2025-08-23,CUST-0200,Alex Martinez,East,Clothing,Cotton Hoodie,8,45.0,0.05,Cash,Returned,342.0,2025,8,Aug,2025-08,Saturday
+ORD-10366,2025-09-01,CUST-0293,Cameron Rodriguez,East,Clothing,Winter Jacket,1,120.0,0.15,Debit Card,Returned,102.0,2025,9,Sep,2025-09,Monday
+ORD-10901,2025-12-24,CUST-0145,Cameron Davis,East,Furniture,Ergonomic Office Chair,3,249.99,0.0,Bank Transfer,Completed,749.97,2025,12,Dec,2025-12,Wednesday
+ORD-10329,2025-07-27,CUST-0256,Reese Miller,Central,Clothing,Denim Jeans,1,55.0,0.15,Credit Card,Completed,46.75,2025,7,Jul,2025-07,Sunday
+ORD-10533,2025-10-04,CUST-0335,Dakota Brown,West,Furniture,File Cabinet,1,89.99,0.15,PayPal,Completed,76.49,2025,10,Oct,2025-10,Saturday
+ORD-10324,2025-03-12,CUST-0198,Casey Hernandez,South,Furniture,Desk Lamp,5,34.99,0.1,PayPal,Completed,157.46,2025,3,Mar,2025-03,Wednesday
+ORD-11030,2025-08-20,CUST-0165,Skyler Johnson,West,Electronics,Smart Watch,9,199.99,0.05,PayPal,Completed,1709.91,2025,8,Aug,2025-08,Wednesday
+ORD-11141,2025-09-22,CUST-0277,Sam Lopez,West,Electronics,Smart Watch,9,199.99,0.0,Credit Card,Completed,1799.91,2025,9,Sep,2025-09,Monday
+ORD-10266,2025-05-15,CUST-0246,Taylor Miller,North,Office Supplies,Notebook Pack,4,18.99,0.1,Debit Card,Completed,68.36,2025,5,May,2025-05,Thursday
+ORD-10986,2025-06-18,CUST-0141,Skyler Martinez,West,Furniture,Desk Lamp,8,34.99,0.1,Credit Card,Completed,251.93,2025,6,Jun,2025-06,Wednesday
+ORD-10804,2025-10-11,CUST-0122,Skyler Rodriguez,South,Furniture,Standing Desk,6,499.99,0.05,Cash,Cancelled,2849.94,2025,10,Oct,2025-10,Saturday
+ORD-11169,2025-05-23,CUST-0288,Taylor Lopez,West,Electronics,Wireless Headphones,10,99.99,0.05,PayPal,Returned,949.9,2025,5,May,2025-05,Friday
+ORD-10050,2025-08-12,CUST-0226,Jordan Davis,North,Office Supplies,Whiteboard Markers,8,8.99,0.15,Cash,Completed,61.13,2025,8,Aug,2025-08,Tuesday
+ORD-10044,2025-03-06,CUST-0293,Riley Johnson,West,Office Supplies,Stapler & Clips Set,1,14.99,0.15,Credit Card,Completed,12.74,2025,3,Mar,2025-03,Thursday
+ORD-10193,2025-03-08,CUST-0203,Chris Hernandez,Central,Electronics,USB-C Hub,1,29.99,0.05,Bank Transfer,Completed,28.49,2025,3,Mar,2025-03,Saturday
+ORD-10877,2025-06-17,CUST-0195,Taylor Garcia,North,Clothing,Denim Jeans,7,55.0,0.2,Credit Card,Completed,308.0,2025,6,Jun,2025-06,Tuesday
+ORD-10114,2025-01-27,CUST-0150,Chris Rodriguez,West,Clothing,Denim Jeans,10,55.0,0.0,Credit Card,Cancelled,550.0,2025,1,Jan,2025-01,Monday
+ORD-10356,2025-01-05,CUST-0231,Pat Williams,Central,Electronics,Bluetooth Speaker,9,49.99,0.1,Debit Card,Completed,404.92,2025,1,Jan,2025-01,Sunday
+ORD-10696,2025-04-12,CUST-0325,Riley Smith,Central,Clothing,Casual Polo Shirt,2,32.0,0.0,Credit Card,Completed,64.0,2025,4,Apr,2025-04,Saturday
+ORD-10606,2025-05-19,CUST-0120,Chris Martinez,South,Office Supplies,Paper Reams (5-Pack),2,24.99,0.0,Debit Card,Completed,49.98,2025,5,May,2025-05,Monday
+ORD-10579,2025-01-11,CUST-0189,Casey Smith,East,Furniture,Ergonomic Office Chair,1,249.99,0.1,Credit Card,Completed,224.99,2025,1,Jan,2025-01,Saturday
+ORD-10108,2025-06-27,CUST-0233,Cameron Jones,Central,Office Supplies,Gel Pen Set (12-pack),10,12.99,0.2,Cash,Completed,103.92,2025,6,Jun,2025-06,Friday
+ORD-10990,2025-08-15,CUST-0285,Dakota Rodriguez,South,Office Supplies,Stapler & Clips Set,6,14.99,0.0,Credit Card,Returned,89.94,2025,8,Aug,2025-08,Friday
+ORD-10156,2025-12-21,CUST-0318,Quinn Gonzalez,East,Clothing,Running Shoes,7,85.0,0.0,Cash,Completed,595.0,2025,12,Dec,2025-12,Sunday
+ORD-10907,2025-10-11,CUST-0239,Skyler Gonzalez,South,Furniture,File Cabinet,9,89.99,0.0,PayPal,Completed,809.91,2025,10,Oct,2025-10,Saturday
+ORD-10713,2025-09-27,CUST-0202,Quinn Davis,North,Office Supplies,Whiteboard Markers,4,8.99,0.25,Bank Transfer,Completed,26.97,2025,9,Sep,2025-09,Saturday
+ORD-10433,2025-09-14,CUST-0234,Dakota Martinez,North,Office Supplies,Stapler & Clips Set,6,14.99,0.2,PayPal,Completed,71.95,2025,9,Sep,2025-09,Sunday
+ORD-10983,2025-04-09,CUST-0141,Morgan Lopez,South,Furniture,Standing Desk,1,499.99,0.05,Credit Card,Returned,474.99,2025,4,Apr,2025-04,Wednesday
+ORD-10169,2025-04-16,CUST-0307,Alex Martinez,Central,Office Supplies,Notebook Pack,5,18.99,0.1,Cash,Returned,85.46,2025,4,Apr,2025-04,Wednesday
+ORD-10234,2025-07-10,CUST-0147,Jordan Miller,West,Clothing,Casual Polo Shirt,7,32.0,0.05,Credit Card,Cancelled,212.8,2025,7,Jul,2025-07,Thursday
+ORD-10616,2025-03-21,CUST-0138,Dakota Brown,West,Electronics,USB-C Hub,7,29.99,0.05,Credit Card,Returned,199.43,2025,3,Mar,2025-03,Friday
+ORD-10923,2025-01-12,CUST-0189,Unknown Customer,West,Clothing,Winter Jacket,4,120.0,0.1,PayPal,Shipped,432.0,2025,1,Jan,2025-01,Sunday
+ORD-10328,2025-01-17,CUST-0349,Alex Jones,South,Furniture,Standing Desk,8,499.99,0.15,Bank Transfer,Completed,3399.93,2025,1,Jan,2025-01,Friday
+ORD-10913,2025-03-13,CUST-0277,Sam Brown,Central,Office Supplies,Notebook Pack,10,18.99,0.0,Debit Card,Completed,189.9,2025,3,Mar,2025-03,Thursday
+ORD-10765,2025-08-02,CUST-0327,Reese Rodriguez,West,Electronics,4K Monitor,7,349.99,0.25,Debit Card,Shipped,1837.45,2025,8,Aug,2025-08,Saturday
+ORD-10993,2025-09-09,CUST-0297,Jordan Williams,Central,Office Supplies,Notebook Pack,8,18.99,0.15,Credit Card,Completed,129.13,2025,9,Sep,2025-09,Tuesday
+ORD-10307,2025-12-04,CUST-0314,Taylor Williams,West,Furniture,Ergonomic Office Chair,7,249.99,0.2,Cash,Completed,1399.94,2025,12,Dec,2025-12,Thursday
+ORD-10045,2025-10-23,CUST-0114,Taylor Williams,South,Office Supplies,Paper Reams (5-Pack),10,24.99,0.2,Cash,Completed,199.92,2025,10,Oct,2025-10,Thursday
+ORD-10291,2025-10-20,CUST-0333,Jordan Johnson,East,Furniture,Bookshelf,10,119.99,0.1,Debit Card,Shipped,1079.91,2025,10,Oct,2025-10,Monday
+ORD-11181,2025-06-19,CUST-0203,Avery Lopez,South,Office Supplies,Whiteboard Markers,6,8.99,0.1,Cash,Completed,48.55,2025,6,Jun,2025-06,Thursday
+ORD-10064,2025-03-26,CUST-0312,Riley Gonzalez,West,Office Supplies,Paper Reams (5-Pack),4,24.99,0.25,Bank Transfer,Cancelled,74.97,2025,3,Mar,2025-03,Wednesday
+ORD-10345,2025-03-20,CUST-0337,Riley Lopez,South,Office Supplies,Whiteboard Markers,9,8.99,0.05,Credit Card,Returned,76.86,2025,3,Mar,2025-03,Thursday
+ORD-10870,2025-03-08,CUST-0188,Reese Garcia,Central,Furniture,Bookshelf,8,119.99,0.05,Debit Card,Cancelled,911.92,2025,3,Mar,2025-03,Saturday
+ORD-10716,2025-05-23,CUST-0333,Reese Rodriguez,West,Clothing,Cotton Hoodie,9,45.0,0.15,Credit Card,Completed,344.25,2025,5,May,2025-05,Friday
+ORD-10618,2025-08-08,CUST-0293,Sam Williams,West,Clothing,Winter Jacket,7,120.0,0.25,Credit Card,Shipped,630.0,2025,8,Aug,2025-08,Friday
+ORD-10924,2025-11-27,CUST-0236,Quinn Brown,North,Clothing,Casual Polo Shirt,3,32.0,0.25,Debit Card,Completed,72.0,2025,11,Nov,2025-11,Thursday
+ORD-10781,2025-10-13,CUST-0152,Quinn Brown,North,Clothing,Casual Polo Shirt,8,32.0,0.2,Credit Card,Completed,204.8,2025,10,Oct,2025-10,Monday
+ORD-10779,2025-04-28,CUST-0221,Cameron Jones,East,Office Supplies,Whiteboard Markers,5,8.99,0.15,Credit Card,Completed,38.21,2025,4,Apr,2025-04,Monday
+ORD-10768,2025-09-25,CUST-0157,Cameron Garcia,South,Office Supplies,Whiteboard Markers,8,8.99,0.05,PayPal,Completed,68.32,2025,9,Sep,2025-09,Thursday
+ORD-10875,2025-07-12,CUST-0310,Skyler Smith,East,Furniture,Standing Desk,7,499.99,0.15,PayPal,Completed,2974.94,2025,7,Jul,2025-07,Saturday
+ORD-11081,2025-02-01,CUST-0151,Casey Smith,North,Electronics,Smart Watch,2,199.99,0.1,Cash,Completed,359.98,2025,2,Feb,2025-02,Saturday
+ORD-10077,2025-02-05,CUST-0263,Alex Johnson,West,Furniture,Desk Lamp,5,34.99,0.2,Credit Card,Cancelled,139.96,2025,2,Feb,2025-02,Wednesday
+ORD-11068,2025-02-17,CUST-0139,Dakota Martinez,North,Office Supplies,Paper Reams (5-Pack),9,24.99,0.2,Credit Card,Completed,179.93,2025,2,Feb,2025-02,Monday
+ORD-10934,2025-10-15,CUST-0107,Casey Brown,West,Office Supplies,Paper Reams (5-Pack),8,24.99,0.1,Credit Card,Shipped,179.93,2025,10,Oct,2025-10,Wednesday
+ORD-10992,2025-11-06,CUST-0139,Chris Garcia,East,Electronics,USB-C Hub,2,29.99,0.05,Cash,Completed,56.98,2025,11,Nov,2025-11,Thursday
+ORD-10079,2025-06-07,CUST-0202,Unknown Customer,South,Office Supplies,Gel Pen Set (12-pack),2,12.99,0.25,PayPal,Returned,19.48,2025,6,Jun,2025-06,Saturday
+ORD-10701,2025-05-26,CUST-0174,Sam Davis,East,Furniture,Bookshelf,4,119.99,0.05,Cash,Cancelled,455.96,2025,5,May,2025-05,Monday
+ORD-11122,2025-07-04,CUST-0210,Alex Rodriguez,West,Office Supplies,Paper Reams (5-Pack),9,24.99,0.25,Debit Card,Shipped,168.68,2025,7,Jul,2025-07,Friday
+ORD-10495,2025-01-12,CUST-0278,Dakota Rodriguez,West,Clothing,Cotton Hoodie,1,45.0,0.1,Bank Transfer,Returned,40.5,2025,1,Jan,2025-01,Sunday
+ORD-11003,2025-02-22,CUST-0283,Avery Davis,North,Electronics,USB-C Hub,10,29.99,0.25,PayPal,Returned,224.92,2025,2,Feb,2025-02,Saturday
+ORD-10244,2025-11-08,CUST-0296,Morgan Jones,West,Office Supplies,Whiteboard Markers,10,8.99,0.25,Cash,Returned,67.43,2025,11,Nov,2025-11,Saturday
+ORD-11082,2025-06-03,CUST-0203,Taylor Johnson,Central,Electronics,Wireless Headphones,9,99.99,0.15,Bank Transfer,Completed,764.92,2025,6,Jun,2025-06,Tuesday
+ORD-10543,2025-04-06,CUST-0151,Riley Williams,Central,Electronics,4K Monitor,1,349.99,0.05,Bank Transfer,Shipped,332.49,2025,4,Apr,2025-04,Sunday
+ORD-10885,2025-06-20,CUST-0343,Reese Miller,Central,Clothing,Winter Jacket,8,120.0,0.1,PayPal,Completed,864.0,2025,6,Jun,2025-06,Friday
+ORD-10754,2025-04-21,CUST-0212,Sam Lopez,Central,Furniture,Bookshelf,3,119.99,0.0,Unspecified,Completed,359.97,2025,4,Apr,2025-04,Monday
+ORD-10071,2025-07-05,CUST-0128,Riley Rodriguez,Central,Electronics,Mechanical Keyboard,1,89.99,0.15,Bank Transfer,Completed,76.49,2025,7,Jul,2025-07,Saturday
+ORD-10544,2025-02-25,CUST-0143,Jordan Jones,North,Electronics,Bluetooth Speaker,8,49.99,0.0,Debit Card,Completed,399.92,2025,2,Feb,2025-02,Tuesday
+ORD-10024,2025-05-23,CUST-0231,Pat Hernandez,North,Office Supplies,Paper Reams (5-Pack),10,24.99,0.0,Cash,Returned,249.9,2025,5,May,2025-05,Friday
+ORD-10809,2025-06-09,CUST-0298,Dakota Martinez,North,Clothing,Casual Polo Shirt,3,32.0,0.25,Debit Card,Completed,72.0,2025,6,Jun,2025-06,Monday
+ORD-10969,2025-01-31,CUST-0257,Dakota Miller,South,Office Supplies,Whiteboard Markers,10,8.99,0.05,Credit Card,Completed,85.4,2025,1,Jan,2025-01,Friday
+ORD-10059,2025-01-29,CUST-0196,Pat Williams,South,Clothing,Denim Jeans,7,55.0,0.05,Cash,Completed,365.75,2025,1,Jan,2025-01,Wednesday
+ORD-10629,2025-01-27,CUST-0340,Unknown Customer,West,Electronics,Wireless Headphones,3,99.99,0.05,Bank Transfer,Cancelled,284.97,2025,1,Jan,2025-01,Monday
+ORD-10950,2025-03-26,CUST-0207,Jordan Davis,North,Office Supplies,Gel Pen Set (12-pack),10,12.99,0.1,PayPal,Cancelled,116.91,2025,3,Mar,2025-03,Wednesday
+ORD-10644,2025-04-17,CUST-0295,Casey Rodriguez,South,Office Supplies,Stapler & Clips Set,3,14.99,0.1,Bank Transfer,Shipped,40.47,2025,4,Apr,2025-04,Thursday
+ORD-11176,2025-12-17,CUST-0298,Morgan Lopez,North,Clothing,Casual Polo Shirt,3,32.0,0.05,Bank Transfer,Cancelled,91.2,2025,12,Dec,2025-12,Wednesday
+ORD-10082,2025-06-20,CUST-0120,Casey Hernandez,East,Furniture,Bookshelf,3,119.99,0.05,PayPal,Cancelled,341.97,2025,6,Jun,2025-06,Friday
+ORD-10372,2025-08-09,CUST-0265,Jordan Davis,North,Electronics,Wireless Headphones,8,99.99,0.15,Credit Card,Returned,679.93,2025,8,Aug,2025-08,Saturday
+ORD-11037,2025-08-10,CUST-0254,Reese Lopez,East,Office Supplies,Gel Pen Set (12-pack),10,12.99,0.25,Credit Card,Completed,97.43,2025,8,Aug,2025-08,Sunday
+ORD-10175,2025-12-27,CUST-0155,Riley Johnson,West,Furniture,File Cabinet,2,89.99,0.15,Bank Transfer,Completed,152.98,2025,12,Dec,2025-12,Saturday
+ORD-10304,2025-12-19,CUST-0286,Taylor Jones,Central,Clothing,Winter Jacket,4,120.0,0.2,Bank Transfer,Cancelled,384.0,2025,12,Dec,2025-12,Friday
+ORD-10808,2025-06-29,CUST-0347,Sam Williams,Central,Electronics,Mechanical Keyboard,8,89.99,0.1,Credit Card,Shipped,647.93,2025,6,Jun,2025-06,Sunday
+ORD-10524,2025-07-24,CUST-0202,Alex Smith,West,Furniture,Bookshelf,9,119.99,0.25,PayPal,Completed,809.93,2025,7,Jul,2025-07,Thursday
+ORD-11133,2025-07-13,CUST-0246,Avery Martinez,West,Clothing,Denim Jeans,9,55.0,0.2,Cash,Shipped,396.0,2025,7,Jul,2025-07,Sunday
+ORD-10662,2025-02-01,CUST-0250,Dakota Rodriguez,South,Electronics,Mechanical Keyboard,8,89.99,0.25,PayPal,Completed,539.94,2025,2,Feb,2025-02,Saturday
+ORD-10171,2025-11-18,CUST-0216,Jordan Hernandez,Central,Electronics,4K Monitor,6,349.99,0.15,Credit Card,Cancelled,1784.95,2025,11,Nov,2025-11,Tuesday
+ORD-11033,2025-08-08,CUST-0338,Jordan Davis,West,Electronics,4K Monitor,3,349.99,0.0,Credit Card,Completed,1049.97,2025,8,Aug,2025-08,Friday
+ORD-10671,2025-12-14,CUST-0152,Reese Williams,Central,Furniture,Ergonomic Office Chair,2,249.99,0.05,Debit Card,Shipped,474.98,2025,12,Dec,2025-12,Sunday
+ORD-10052,2025-03-09,CUST-0213,Cameron Lopez,Central,Electronics,Mechanical Keyboard,5,89.99,0.2,PayPal,Completed,359.96,2025,3,Mar,2025-03,Sunday
+ORD-10679,2025-10-29,CUST-0206,Reese Gonzalez,South,Electronics,Wireless Headphones,3,99.99,0.0,Debit Card,Completed,299.97,2025,10,Oct,2025-10,Wednesday
+ORD-10661,2025-01-04,CUST-0296,Skyler Rodriguez,North,Electronics,Wireless Headphones,2,99.99,0.0,Cash,Completed,199.98,2025,1,Jan,2025-01,Saturday
+ORD-10592,2025-02-17,CUST-0218,Taylor Williams,East,Clothing,Running Shoes,3,85.0,0.25,Credit Card,Completed,191.25,2025,2,Feb,2025-02,Monday
+ORD-10964,2025-07-06,CUST-0179,Reese Jones,East,Electronics,Bluetooth Speaker,3,49.99,0.2,Credit Card,Completed,119.98,2025,7,Jul,2025-07,Sunday
+ORD-10902,2025-12-01,CUST-0298,Pat Smith,Central,Furniture,Bookshelf,8,119.99,0.0,PayPal,Shipped,959.92,2025,12,Dec,2025-12,Monday
+ORD-10124,2025-08-02,CUST-0146,Cameron Smith,South,Clothing,Winter Jacket,5,120.0,0.0,Cash,Completed,600.0,2025,8,Aug,2025-08,Saturday
+ORD-10210,2025-08-18,CUST-0143,Morgan Gonzalez,North,Electronics,4K Monitor,3,349.99,0.1,Credit Card,Shipped,944.97,2025,8,Aug,2025-08,Monday
+ORD-10381,2025-09-01,CUST-0153,Taylor Hernandez,South,Clothing,Winter Jacket,1,120.0,0.25,Credit Card,Cancelled,90.0,2025,9,Sep,2025-09,Monday
+ORD-10055,2025-10-03,CUST-0186,Casey Gonzalez,South,Clothing,Casual Polo Shirt,7,32.0,0.0,Bank Transfer,Cancelled,224.0,2025,10,Oct,2025-10,Friday
+ORD-10603,2025-03-18,CUST-0221,Reese Williams,West,Office Supplies,Stapler & Clips Set,1,14.99,0.05,Credit Card,Completed,14.24,2025,3,Mar,2025-03,Tuesday
+ORD-10364,2025-03-31,CUST-0290,Taylor Hernandez,South,Furniture,Bookshelf,1,119.99,0.0,Cash,Completed,119.99,2025,3,Mar,2025-03,Monday
+ORD-10719,2025-09-08,CUST-0181,Dakota Brown,Central,Clothing,Denim Jeans,2,55.0,0.15,Bank Transfer,Completed,93.5,2025,9,Sep,2025-09,Monday
+ORD-10057,2025-07-29,CUST-0349,Taylor Johnson,Central,Office Supplies,Whiteboard Markers,6,8.99,0.2,Debit Card,Cancelled,43.15,2025,7,Jul,2025-07,Tuesday
+ORD-10087,2025-12-14,CUST-0165,Reese Hernandez,North,Furniture,Bookshelf,6,119.99,0.25,Bank Transfer,Returned,539.95,2025,12,Dec,2025-12,Sunday
+ORD-10515,2025-08-25,CUST-0122,Chris Brown,West,Clothing,Running Shoes,6,85.0,0.05,Credit Card,Returned,484.5,2025,8,Aug,2025-08,Monday
+ORD-10835,2025-06-05,CUST-0191,Casey Smith,Central,Clothing,Denim Jeans,1,55.0,0.0,PayPal,Returned,55.0,2025,6,Jun,2025-06,Thursday
+ORD-10110,2025-09-12,CUST-0240,Sam Hernandez,West,Clothing,Running Shoes,1,85.0,0.15,PayPal,Completed,72.25,2025,9,Sep,2025-09,Friday
+ORD-10552,2025-10-15,CUST-0212,Quinn Brown,North,Electronics,Bluetooth Speaker,10,49.99,0.25,Cash,Cancelled,374.92,2025,10,Oct,2025-10,Wednesday
+ORD-11194,2025-01-26,CUST-0218,Alex Rodriguez,Central,Clothing,Cotton Hoodie,4,45.0,0.0,Credit Card,Completed,180.0,2025,1,Jan,2025-01,Sunday
+ORD-11193,2025-04-08,CUST-0255,Unknown Customer,South,Office Supplies,Stapler & Clips Set,4,14.99,0.0,Credit Card,Completed,59.96,2025,4,Apr,2025-04,Tuesday
+ORD-10574,2025-08-05,CUST-0144,Chris Johnson,North,Furniture,File Cabinet,5,89.99,0.25,Bank Transfer,Completed,337.46,2025,8,Aug,2025-08,Tuesday
+ORD-10938,2025-12-11,CUST-0121,Dakota Davis,East,Office Supplies,Notebook Pack,5,18.99,0.2,Debit Card,Completed,75.96,2025,12,Dec,2025-12,Thursday
+ORD-10424,2025-06-26,CUST-0206,Chris Smith,East,Furniture,Standing Desk,2,499.99,0.0,Credit Card,Completed,999.98,2025,6,Jun,2025-06,Thursday
+ORD-10786,2025-09-16,CUST-0184,Quinn Rodriguez,North,Office Supplies,Paper Reams (5-Pack),2,24.99,0.2,Credit Card,Completed,39.98,2025,9,Sep,2025-09,Tuesday
+ORD-10571,2025-04-28,CUST-0320,Jordan Jones,North,Office Supplies,Paper Reams (5-Pack),2,24.99,0.0,Debit Card,Completed,49.98,2025,4,Apr,2025-04,Monday
+ORD-10610,2025-08-18,CUST-0187,Sam Garcia,West,Clothing,Cotton Hoodie,10,45.0,0.05,Bank Transfer,Completed,427.5,2025,8,Aug,2025-08,Monday
+ORD-11195,2025-07-01,CUST-0344,Skyler Rodriguez,West,Furniture,Ergonomic Office Chair,7,249.99,0.1,Debit Card,Completed,1574.94,2025,7,Jul,2025-07,Tuesday
+ORD-10429,2025-04-06,CUST-0155,Dakota Lopez,Central,Office Supplies,Notebook Pack,10,18.99,0.0,Debit Card,Completed,189.9,2025,4,Apr,2025-04,Sunday
+ORD-10430,2025-03-19,CUST-0296,Sam Miller,South,Electronics,Mechanical Keyboard,5,89.99,0.1,PayPal,Completed,404.96,2025,3,Mar,2025-03,Wednesday
+ORD-10815,2025-07-03,CUST-0189,Chris Brown,West,Electronics,Bluetooth Speaker,3,49.99,0.2,Bank Transfer,Cancelled,119.98,2025,7,Jul,2025-07,Thursday
+ORD-10425,2025-08-24,CUST-0209,Avery Rodriguez,West,Office Supplies,Paper Reams (5-Pack),7,24.99,0.1,Bank Transfer,Returned,157.44,2025,8,Aug,2025-08,Sunday
+ORD-11197,2025-06-27,CUST-0272,Skyler Lopez,East,Furniture,Standing Desk,10,499.99,0.1,Credit Card,Completed,4499.91,2025,6,Jun,2025-06,Friday
+ORD-10542,2025-04-18,CUST-0202,Unknown Customer,North,Furniture,Desk Lamp,7,34.99,0.25,Bank Transfer,Completed,183.7,2025,4,Apr,2025-04,Friday
+ORD-10559,2025-03-02,CUST-0267,Chris Martinez,South,Furniture,Desk Lamp,8,34.99,0.2,Bank Transfer,Cancelled,223.94,2025,3,Mar,2025-03,Sunday
+ORD-10709,2025-03-07,CUST-0224,Skyler Gonzalez,North,Clothing,Running Shoes,7,85.0,0.1,Debit Card,Cancelled,535.5,2025,3,Mar,2025-03,Friday
+ORD-10876,2025-10-12,CUST-0214,Quinn Garcia,East,Office Supplies,Stapler & Clips Set,5,14.99,0.05,Credit Card,Cancelled,71.2,2025,10,Oct,2025-10,Sunday
+ORD-10378,2025-02-19,CUST-0144,Skyler Martinez,West,Electronics,Wireless Headphones,2,99.99,0.15,Bank Transfer,Returned,169.98,2025,2,Feb,2025-02,Wednesday
+ORD-10295,2025-10-04,CUST-0123,Riley Jones,East,Office Supplies,Gel Pen Set (12-pack),3,12.99,0.15,Bank Transfer,Completed,33.12,2025,10,Oct,2025-10,Saturday
+ORD-10847,2025-04-27,CUST-0133,Skyler Hernandez,West,Clothing,Winter Jacket,7,120.0,0.1,Bank Transfer,Shipped,756.0,2025,4,Apr,2025-04,Sunday
+ORD-11200,2025-12-03,CUST-0117,Chris Lopez,East,Clothing,Cotton Hoodie,3,45.0,0.25,Credit Card,Returned,101.25,2025,12,Dec,2025-12,Wednesday
+ORD-10705,2025-12-05,CUST-0261,Alex Hernandez,Central,Furniture,Standing Desk,4,499.99,0.05,PayPal,Completed,1899.96,2025,12,Dec,2025-12,Friday
+ORD-10627,2025-10-23,CUST-0316,Quinn Hernandez,South,Furniture,Bookshelf,1,119.99,0.2,Cash,Completed,95.99,2025,10,Oct,2025-10,Thursday
+ORD-10947,2025-05-04,CUST-0281,Taylor Smith,North,Electronics,Smart Watch,2,199.99,0.1,Cash,Completed,359.98,2025,5,May,2025-05,Sunday
+ORD-10439,2025-03-22,CUST-0283,Quinn Hernandez,West,Clothing,Casual Polo Shirt,5,32.0,0.2,Debit Card,Completed,128.0,2025,3,Mar,2025-03,Saturday
+ORD-10287,2025-12-18,CUST-0126,Reese Jones,South,Clothing,Winter Jacket,3,120.0,0.0,Bank Transfer,Cancelled,360.0,2025,12,Dec,2025-12,Thursday
+ORD-10856,2025-07-06,CUST-0150,Casey Jones,East,Electronics,4K Monitor,4,349.99,0.1,Bank Transfer,Completed,1259.96,2025,7,Jul,2025-07,Sunday
+ORD-10414,2025-04-22,CUST-0347,Sam Williams,North,Electronics,Mechanical Keyboard,8,89.99,0.2,Credit Card,Completed,575.94,2025,4,Apr,2025-04,Tuesday
+ORD-10963,2025-06-12,CUST-0238,Skyler Miller,East,Electronics,Wireless Headphones,5,99.99,0.05,Bank Transfer,Shipped,474.95,2025,6,Jun,2025-06,Thursday
+ORD-10655,2025-06-27,CUST-0349,Alex Davis,South,Furniture,Desk Lamp,9,34.99,0.1,Credit Card,Completed,283.42,2025,6,Jun,2025-06,Friday
+ORD-10728,2025-11-30,CUST-0107,Skyler Garcia,South,Office Supplies,Stapler & Clips Set,4,14.99,0.05,Credit Card,Completed,56.96,2025,11,Nov,2025-11,Sunday
+ORD-11125,2025-05-18,CUST-0153,Skyler Rodriguez,Central,Clothing,Running Shoes,2,85.0,0.0,Cash,Completed,170.0,2025,5,May,2025-05,Sunday
+ORD-10383,2025-03-18,CUST-0348,Cameron Davis,North,Furniture,Ergonomic Office Chair,7,249.99,0.2,Bank Transfer,Returned,1399.94,2025,3,Mar,2025-03,Tuesday
+ORD-10411,2025-03-30,CUST-0108,Reese Johnson,East,Furniture,Standing Desk,2,499.99,0.0,Bank Transfer,Completed,999.98,2025,3,Mar,2025-03,Sunday
+ORD-11154,2025-12-27,CUST-0134,Riley Martinez,East,Office Supplies,Notebook Pack,2,18.99,0.15,Cash,Completed,32.28,2025,12,Dec,2025-12,Saturday
+ORD-10011,2025-12-10,CUST-0213,Cameron Rodriguez,North,Furniture,Standing Desk,4,499.99,0.0,Credit Card,Completed,1999.96,2025,12,Dec,2025-12,Wednesday
+ORD-10148,2025-05-04,CUST-0318,Pat Hernandez,South,Office Supplies,Stapler & Clips Set,2,14.99,0.1,Bank Transfer,Completed,26.98,2025,5,May,2025-05,Sunday
+ORD-10860,2025-06-24,CUST-0259,Jordan Williams,North,Clothing,Casual Polo Shirt,3,32.0,0.25,PayPal,Completed,72.0,2025,6,Jun,2025-06,Tuesday
+ORD-11023,2025-11-10,CUST-0349,Skyler Smith,Central,Electronics,4K Monitor,2,349.99,0.2,Debit Card,Completed,559.98,2025,11,Nov,2025-11,Monday
+ORD-10454,2025-11-19,CUST-0122,Sam Davis,South,Clothing,Casual Polo Shirt,5,32.0,0.2,Cash,Completed,128.0,2025,11,Nov,2025-11,Wednesday
+ORD-11162,2025-05-25,CUST-0186,Cameron Davis,Central,Clothing,Casual Polo Shirt,10,32.0,0.15,Bank Transfer,Cancelled,272.0,2025,5,May,2025-05,Sunday
+ORD-10677,2025-02-23,CUST-0230,Morgan Hernandez,South,Clothing,Casual Polo Shirt,4,32.0,0.15,Credit Card,Completed,108.8,2025,2,Feb,2025-02,Sunday
+ORD-10568,2025-05-21,CUST-0197,Morgan Miller,Central,Electronics,Smart Watch,8,199.99,0.1,Debit Card,Shipped,1439.93,2025,5,May,2025-05,Wednesday
+ORD-10731,2025-12-28,CUST-0323,Skyler Williams,West,Electronics,Wireless Headphones,2,99.99,0.1,PayPal,Returned,179.98,2025,12,Dec,2025-12,Sunday
+ORD-10766,2025-11-19,CUST-0210,Quinn Johnson,North,Office Supplies,Notebook Pack,6,18.99,0.05,PayPal,Completed,108.24,2025,11,Nov,2025-11,Wednesday
+ORD-10729,2025-09-27,CUST-0251,Sam Garcia,Central,Office Supplies,Whiteboard Markers,1,8.99,0.25,Credit Card,Returned,6.74,2025,9,Sep,2025-09,Saturday
+ORD-10271,2025-12-17,CUST-0139,Avery Johnson,Central,Electronics,USB-C Hub,3,29.99,0.2,Bank Transfer,Completed,71.98,2025,12,Dec,2025-12,Wednesday
+ORD-10276,2025-12-23,CUST-0114,Taylor Miller,South,Electronics,Wireless Headphones,2,99.99,0.05,Cash,Completed,189.98,2025,12,Dec,2025-12,Tuesday
+ORD-11106,2025-03-11,CUST-0274,Taylor Smith,South,Clothing,Casual Polo Shirt,1,32.0,0.0,Bank Transfer,Completed,32.0,2025,3,Mar,2025-03,Tuesday
+ORD-10630,2025-04-17,CUST-0226,Quinn Smith,South,Clothing,Cotton Hoodie,6,45.0,0.15,PayPal,Completed,229.5,2025,4,Apr,2025-04,Thursday
+ORD-10278,2025-11-11,CUST-0110,Chris Brown,East,Furniture,Ergonomic Office Chair,7,249.99,0.05,Credit Card,Shipped,1662.43,2025,11,Nov,2025-11,Tuesday
+ORD-10614,2025-01-05,CUST-0127,Sam Miller,South,Clothing,Cotton Hoodie,2,45.0,0.15,Bank Transfer,Completed,76.5,2025,1,Jan,2025-01,Sunday
+ORD-10136,2025-12-05,CUST-0206,Sam Jones,Central,Furniture,Desk Lamp,7,34.99,0.1,Bank Transfer,Completed,220.44,2025,12,Dec,2025-12,Friday
+ORD-10209,2025-04-27,CUST-0316,Pat Rodriguez,South,Clothing,Denim Jeans,1,55.0,0.2,Cash,Cancelled,44.0,2025,4,Apr,2025-04,Sunday
+ORD-10221,2025-11-04,CUST-0182,Dakota Williams,East,Clothing,Casual Polo Shirt,1,32.0,0.2,Debit Card,Completed,25.6,2025,11,Nov,2025-11,Tuesday
+ORD-10839,2025-03-01,CUST-0303,Riley Johnson,East,Office Supplies,Gel Pen Set (12-pack),7,12.99,0.1,Cash,Cancelled,81.84,2025,3,Mar,2025-03,Saturday
+ORD-10487,2025-02-12,CUST-0229,Morgan Gonzalez,South,Office Supplies,Notebook Pack,7,18.99,0.2,Credit Card,Cancelled,106.34,2025,2,Feb,2025-02,Wednesday
+ORD-10159,2025-07-20,CUST-0274,Avery Lopez,West,Office Supplies,Paper Reams (5-Pack),2,24.99,0.25,Debit Card,Cancelled,37.48,2025,7,Jul,2025-07,Sunday
+ORD-10141,2025-05-14,CUST-0250,Avery Lopez,East,Furniture,Standing Desk,4,499.99,0.25,Debit Card,Cancelled,1499.97,2025,5,May,2025-05,Wednesday
+ORD-10199,2025-09-09,CUST-0115,Morgan Martinez,East,Clothing,Cotton Hoodie,3,45.0,0.05,Debit Card,Completed,128.25,2025,9,Sep,2025-09,Tuesday
+ORD-10293,2025-02-12,CUST-0259,Taylor Johnson,South,Clothing,Casual Polo Shirt,3,32.0,0.0,Debit Card,Completed,96.0,2025,2,Feb,2025-02,Wednesday
+ORD-10197,2025-10-27,CUST-0350,Taylor Johnson,Central,Furniture,Bookshelf,1,119.99,0.05,Bank Transfer,Cancelled,113.99,2025,10,Oct,2025-10,Monday
+ORD-11132,2025-11-11,CUST-0335,Avery Jones,Central,Clothing,Cotton Hoodie,9,45.0,0.15,PayPal,Completed,344.25,2025,11,Nov,2025-11,Tuesday
+ORD-10248,2025-12-23,CUST-0271,Alex Miller,North,Office Supplies,Notebook Pack,10,18.99,0.15,Debit Card,Shipped,161.41,2025,12,Dec,2025-12,Tuesday
+ORD-10520,2025-10-28,CUST-0284,Dakota Davis,West,Electronics,Smart Watch,4,199.99,0.2,Bank Transfer,Completed,639.97,2025,10,Oct,2025-10,Tuesday
+ORD-10918,2025-05-17,CUST-0191,Skyler Brown,South,Office Supplies,Gel Pen Set (12-pack),4,12.99,0.0,Credit Card,Shipped,51.96,2025,5,May,2025-05,Saturday
+ORD-10738,2025-05-13,CUST-0167,Alex Johnson,South,Furniture,Desk Lamp,10,34.99,0.2,Debit Card,Returned,279.92,2025,5,May,2025-05,Tuesday
+ORD-10972,2025-03-17,CUST-0302,Jordan Garcia,Central,Clothing,Winter Jacket,4,120.0,0.05,Debit Card,Returned,456.0,2025,3,Mar,2025-03,Monday
+ORD-10297,2025-05-15,CUST-0261,Morgan Rodriguez,Central,Office Supplies,Whiteboard Markers,2,8.99,0.1,Bank Transfer,Completed,16.18,2025,5,May,2025-05,Thursday
+ORD-10448,2025-01-21,CUST-0282,Casey Davis,South,Electronics,Mechanical Keyboard,5,89.99,0.05,Debit Card,Returned,427.45,2025,1,Jan,2025-01,Tuesday
+ORD-10359,2025-11-06,CUST-0260,Taylor Davis,East,Clothing,Winter Jacket,1,120.0,0.25,Cash,Shipped,90.0,2025,11,Nov,2025-11,Thursday
+ORD-10651,2025-04-27,CUST-0143,Quinn Williams,East,Electronics,Bluetooth Speaker,9,49.99,0.15,Unspecified,Completed,382.42,2025,4,Apr,2025-04,Sunday
+ORD-10185,2025-01-19,CUST-0334,Reese Lopez,South,Furniture,Bookshelf,5,119.99,0.2,Cash,Completed,479.96,2025,1,Jan,2025-01,Sunday
+ORD-10267,2025-11-06,CUST-0326,Taylor Davis,East,Electronics,USB-C Hub,6,29.99,0.0,Bank Transfer,Returned,179.94,2025,11,Nov,2025-11,Thursday
+ORD-10789,2025-06-17,CUST-0268,Dakota Brown,South,Office Supplies,Notebook Pack,5,18.99,0.0,Credit Card,Shipped,94.95,2025,6,Jun,2025-06,Tuesday
+ORD-10164,2025-06-06,CUST-0196,Reese Williams,South,Clothing,Denim Jeans,8,55.0,0.25,PayPal,Completed,330.0,2025,6,Jun,2025-06,Friday
+ORD-10434,2025-03-15,CUST-0155,Sam Davis,Central,Electronics,4K Monitor,6,349.99,0.15,Debit Card,Completed,1784.95,2025,3,Mar,2025-03,Saturday
+ORD-10985,2025-02-25,CUST-0141,Morgan Johnson,South,Electronics,4K Monitor,9,349.99,0.25,Cash,Shipped,2362.43,2025,2,Feb,2025-02,Tuesday
+ORD-10157,2025-10-01,CUST-0336,Skyler Lopez,Central,Electronics,Bluetooth Speaker,2,49.99,0.25,PayPal,Completed,74.98,2025,10,Oct,2025-10,Wednesday
+ORD-10591,2025-12-19,CUST-0268,Sam Hernandez,South,Furniture,Desk Lamp,7,34.99,0.05,Bank Transfer,Completed,232.68,2025,12,Dec,2025-12,Friday
+ORD-10368,2025-04-10,CUST-0274,Reese Williams,North,Electronics,Mechanical Keyboard,2,89.99,0.25,PayPal,Completed,134.98,2025,4,Apr,2025-04,Thursday
+ORD-10362,2025-10-21,CUST-0208,Chris Gonzalez,Central,Furniture,Ergonomic Office Chair,10,249.99,0.25,PayPal,Returned,1874.93,2025,10,Oct,2025-10,Tuesday
+ORD-10241,2025-11-21,CUST-0175,Casey Rodriguez,South,Electronics,Wireless Headphones,7,99.99,0.2,Credit Card,Completed,559.94,2025,11,Nov,2025-11,Friday
+ORD-10200,2025-10-28,CUST-0137,Quinn Johnson,East,Office Supplies,Paper Reams (5-Pack),10,24.99,0.1,PayPal,Completed,224.91,2025,10,Oct,2025-10,Tuesday
+ORD-11117,2025-05-18,CUST-0274,Pat Jones,West,Office Supplies,Whiteboard Markers,4,8.99,0.0,PayPal,Returned,35.96,2025,5,May,2025-05,Sunday
+ORD-10989,2025-10-03,CUST-0167,Chris Rodriguez,West,Furniture,Ergonomic Office Chair,3,249.99,0.05,Credit Card,Shipped,712.47,2025,10,Oct,2025-10,Friday
+ORD-10740,2025-12-22,CUST-0203,Riley Brown,East,Office Supplies,Notebook Pack,1,18.99,0.05,Cash,Completed,18.04,2025,12,Dec,2025-12,Monday
+ORD-10322,2025-09-18,CUST-0126,Cameron Garcia,South,Electronics,Smart Watch,1,199.99,0.2,Bank Transfer,Completed,159.99,2025,9,Sep,2025-09,Thursday
+ORD-10678,2025-07-18,CUST-0279,Taylor Miller,West,Furniture,Ergonomic Office Chair,6,249.99,0.1,Credit Card,Completed,1349.95,2025,7,Jul,2025-07,Friday
+ORD-11043,2025-05-07,CUST-0135,Dakota Rodriguez,South,Office Supplies,Stapler & Clips Set,10,14.99,0.1,Debit Card,Returned,134.91,2025,5,May,2025-05,Wednesday
+ORD-10232,2025-02-26,CUST-0272,Riley Williams,North,Electronics,Mechanical Keyboard,8,89.99,0.1,Credit Card,Completed,647.93,2025,2,Feb,2025-02,Wednesday
+ORD-10219,2025-11-26,CUST-0330,Pat Garcia,East,Furniture,Desk Lamp,7,34.99,0.0,Debit Card,Shipped,244.93,2025,11,Nov,2025-11,Wednesday
+ORD-10757,2025-07-19,CUST-0109,Dakota Martinez,East,Clothing,Denim Jeans,9,55.0,0.1,Bank Transfer,Completed,445.5,2025,7,Jul,2025-07,Saturday
+ORD-10459,2025-11-17,CUST-0238,Morgan Johnson,West,Clothing,Running Shoes,3,85.0,0.15,Unspecified,Completed,216.75,2025,11,Nov,2025-11,Monday
+ORD-11178,2025-01-21,CUST-0227,Avery Hernandez,South,Clothing,Running Shoes,2,85.0,0.2,Debit Card,Shipped,136.0,2025,1,Jan,2025-01,Tuesday
+ORD-10298,2025-12-25,CUST-0149,Chris Smith,North,Electronics,Smart Watch,8,199.99,0.05,Credit Card,Completed,1519.92,2025,12,Dec,2025-12,Thursday
+ORD-10351,2025-08-21,CUST-0117,Riley Johnson,East,Clothing,Running Shoes,3,85.0,0.15,Credit Card,Returned,216.75,2025,8,Aug,2025-08,Thursday
+ORD-11012,2025-03-15,CUST-0235,Skyler Jones,South,Electronics,Wireless Headphones,9,99.99,0.05,PayPal,Returned,854.91,2025,3,Mar,2025-03,Saturday
+ORD-10290,2025-05-26,CUST-0273,Casey Davis,West,Clothing,Cotton Hoodie,3,45.0,0.25,Debit Card,Shipped,101.25,2025,5,May,2025-05,Monday
+ORD-10590,2025-10-09,CUST-0135,Pat Martinez,North,Electronics,Mechanical Keyboard,5,89.99,0.0,Cash,Returned,449.95,2025,10,Oct,2025-10,Thursday
+ORD-10714,2025-05-19,CUST-0120,Jordan Rodriguez,North,Clothing,Cotton Hoodie,3,45.0,0.2,PayPal,Cancelled,108.0,2025,5,May,2025-05,Monday
+ORD-10537,2025-02-06,CUST-0284,Riley Brown,North,Furniture,Ergonomic Office Chair,6,249.99,0.15,Debit Card,Completed,1274.95,2025,2,Feb,2025-02,Thursday
+ORD-10097,2025-01-09,CUST-0118,Chris Brown,East,Electronics,USB-C Hub,6,29.99,0.05,Bank Transfer,Completed,170.94,2025,1,Jan,2025-01,Thursday
+ORD-10479,2025-08-04,CUST-0329,Sam Jones,North,Clothing,Cotton Hoodie,1,45.0,0.2,Bank Transfer,Cancelled,36.0,2025,8,Aug,2025-08,Monday
+ORD-10895,2025-07-28,CUST-0128,Morgan Hernandez,North,Furniture,Standing Desk,2,499.99,0.0,Debit Card,Completed,999.98,2025,7,Jul,2025-07,Monday
+ORD-10179,2025-04-07,CUST-0176,Dakota Smith,West,Furniture,Desk Lamp,10,34.99,0.0,Debit Card,Cancelled,349.9,2025,4,Apr,2025-04,Monday
+ORD-10032,2025-03-20,CUST-0117,Pat Miller,North,Clothing,Winter Jacket,10,120.0,0.0,Cash,Completed,1200.0,2025,3,Mar,2025-03,Thursday
+ORD-10562,2025-10-02,CUST-0236,Riley Johnson,North,Electronics,Smart Watch,3,199.99,0.15,Credit Card,Shipped,509.97,2025,10,Oct,2025-10,Thursday
+ORD-10905,2025-07-11,CUST-0223,Jordan Gonzalez,Central,Clothing,Cotton Hoodie,5,45.0,0.25,Debit Card,Cancelled,168.75,2025,7,Jul,2025-07,Friday
+ORD-11128,2025-02-12,CUST-0149,Chris Miller,South,Office Supplies,Paper Reams (5-Pack),6,24.99,0.25,Cash,Completed,112.46,2025,2,Feb,2025-02,Wednesday
+ORD-11151,2025-01-10,CUST-0307,Sam Lopez,South,Clothing,Cotton Hoodie,10,45.0,0.05,Debit Card,Completed,427.5,2025,1,Jan,2025-01,Friday
+ORD-10310,2025-11-23,CUST-0273,Riley Lopez,South,Electronics,Smart Watch,3,199.99,0.2,Debit Card,Shipped,479.98,2025,11,Nov,2025-11,Sunday
+ORD-10343,2025-07-01,CUST-0139,Sam Smith,South,Clothing,Denim Jeans,10,55.0,0.1,Debit Card,Completed,495.0,2025,7,Jul,2025-07,Tuesday
+ORD-10631,2025-12-04,CUST-0256,Skyler Smith,West,Office Supplies,Whiteboard Markers,1,8.99,0.25,Credit Card,Completed,6.74,2025,12,Dec,2025-12,Thursday
+ORD-10334,2025-03-02,CUST-0346,Morgan Smith,West,Office Supplies,Paper Reams (5-Pack),1,24.99,0.15,Cash,Completed,21.24,2025,3,Mar,2025-03,Sunday
+ORD-10810,2025-07-15,CUST-0166,Jordan Hernandez,East,Furniture,Desk Lamp,10,34.99,0.1,Bank Transfer,Completed,314.91,2025,7,Jul,2025-07,Tuesday
+ORD-10089,2025-09-06,CUST-0136,Taylor Johnson,Central,Electronics,USB-C Hub,1,29.99,0.2,Bank Transfer,Completed,23.99,2025,9,Sep,2025-09,Saturday
+ORD-10635,2025-11-20,CUST-0216,Taylor Smith,West,Office Supplies,Notebook Pack,9,18.99,0.0,Debit Card,Completed,170.91,2025,11,Nov,2025-11,Thursday
+ORD-10299,2025-08-04,CUST-0305,Riley Garcia,North,Electronics,Bluetooth Speaker,1,49.99,0.15,Bank Transfer,Cancelled,42.49,2025,8,Aug,2025-08,Monday
+ORD-10377,2025-10-02,CUST-0249,Unknown Customer,North,Furniture,Desk Lamp,1,34.99,0.25,PayPal,Completed,26.24,2025,10,Oct,2025-10,Thursday
+ORD-10755,2025-12-03,CUST-0169,Riley Martinez,South,Office Supplies,Paper Reams (5-Pack),4,24.99,0.1,Cash,Shipped,89.96,2025,12,Dec,2025-12,Wednesday
+ORD-11070,2025-12-05,CUST-0130,Avery Gonzalez,North,Electronics,Wireless Headphones,3,99.99,0.2,Bank Transfer,Completed,239.98,2025,12,Dec,2025-12,Friday
+ORD-10899,2025-02-14,CUST-0240,Jordan Johnson,West,Electronics,4K Monitor,8,349.99,0.1,Bank Transfer,Completed,2519.93,2025,2,Feb,2025-02,Friday
+ORD-10426,2025-04-16,CUST-0229,Quinn Gonzalez,East,Furniture,File Cabinet,8,89.99,0.0,Cash,Completed,719.92,2025,4,Apr,2025-04,Wednesday
+ORD-10812,2025-04-24,CUST-0271,Sam Johnson,Central,Clothing,Denim Jeans,9,55.0,0.25,Cash,Cancelled,371.25,2025,4,Apr,2025-04,Thursday
+ORD-10260,2025-03-07,CUST-0161,Jordan Jones,West,Furniture,Bookshelf,5,119.99,0.05,Debit Card,Completed,569.95,2025,3,Mar,2025-03,Friday
+ORD-10539,2025-12-23,CUST-0199,Cameron Miller,North,Furniture,Desk Lamp,1,34.99,0.25,Cash,Returned,26.24,2025,12,Dec,2025-12,Tuesday
+ORD-10771,2025-03-03,CUST-0192,Riley Davis,Central,Electronics,Mechanical Keyboard,6,89.99,0.15,Debit Card,Completed,458.95,2025,3,Mar,2025-03,Monday
+ORD-10723,2025-04-13,CUST-0238,Riley Garcia,South,Clothing,Denim Jeans,4,55.0,0.0,Debit Card,Cancelled,220.0,2025,4,Apr,2025-04,Sunday
+ORD-10309,2025-02-06,CUST-0120,Morgan Rodriguez,West,Furniture,File Cabinet,4,89.99,0.05,Cash,Completed,341.96,2025,2,Feb,2025-02,Thursday
+ORD-10060,2025-11-23,CUST-0166,Dakota Smith,Central,Clothing,Casual Polo Shirt,6,32.0,0.1,Bank Transfer,Completed,172.8,2025,11,Nov,2025-11,Sunday
+ORD-10980,2025-04-24,CUST-0156,Unknown Customer,West,Electronics,USB-C Hub,10,29.99,0.05,PayPal,Completed,284.9,2025,4,Apr,2025-04,Thursday
+ORD-10737,2025-10-27,CUST-0238,Avery Brown,East,Clothing,Casual Polo Shirt,9,32.0,0.25,Credit Card,Completed,216.0,2025,10,Oct,2025-10,Monday
+ORD-11011,2025-02-21,CUST-0297,Morgan Jones,West,Office Supplies,Paper Reams (5-Pack),10,24.99,0.25,Bank Transfer,Returned,187.42,2025,2,Feb,2025-02,Friday
+ORD-10865,2025-12-24,CUST-0274,Jordan Martinez,East,Office Supplies,Stapler & Clips Set,8,14.99,0.15,PayPal,Completed,101.93,2025,12,Dec,2025-12,Wednesday
+ORD-10483,2025-10-24,CUST-0307,Casey Martinez,North,Electronics,4K Monitor,1,349.99,0.1,Credit Card,Completed,314.99,2025,10,Oct,2025-10,Friday
+ORD-10462,2025-09-11,CUST-0266,Chris Davis,East,Electronics,Smart Watch,8,199.99,0.05,Debit Card,Cancelled,1519.92,2025,9,Sep,2025-09,Thursday
+ORD-10423,2025-09-11,CUST-0197,Avery Hernandez,North,Office Supplies,Whiteboard Markers,6,8.99,0.25,Debit Card,Completed,40.46,2025,9,Sep,2025-09,Thursday
+ORD-10353,2025-10-18,CUST-0240,Reese Brown,Central,Electronics,Mechanical Keyboard,10,89.99,0.2,Bank Transfer,Completed,719.92,2025,10,Oct,2025-10,Saturday
+ORD-10465,2025-09-15,CUST-0117,Chris Miller,Central,Furniture,Ergonomic Office Chair,6,249.99,0.0,Cash,Completed,1499.94,2025,9,Sep,2025-09,Monday
+ORD-10753,2025-05-12,CUST-0291,Cameron Johnson,South,Clothing,Cotton Hoodie,10,45.0,0.05,Credit Card,Completed,427.5,2025,5,May,2025-05,Monday
+ORD-10333,2025-07-13,CUST-0112,Quinn Williams,South,Furniture,Standing Desk,7,499.99,0.25,Bank Transfer,Completed,2624.95,2025,7,Jul,2025-07,Sunday
+ORD-10084,2025-01-29,CUST-0119,Sam Davis,East,Electronics,Bluetooth Speaker,2,49.99,0.2,Cash,Cancelled,79.98,2025,1,Jan,2025-01,Wednesday
+ORD-10130,2025-03-26,CUST-0234,Riley Johnson,Central,Clothing,Cotton Hoodie,3,45.0,0.15,Cash,Cancelled,114.75,2025,3,Mar,2025-03,Wednesday
+ORD-11038,2025-11-17,CUST-0218,Quinn Gonzalez,East,Clothing,Cotton Hoodie,9,45.0,0.15,Cash,Returned,344.25,2025,11,Nov,2025-11,Monday
+ORD-10466,2025-12-20,CUST-0255,Dakota Johnson,North,Clothing,Winter Jacket,10,120.0,0.0,Credit Card,Completed,1200.0,2025,12,Dec,2025-12,Saturday
+ORD-10949,2025-09-12,CUST-0348,Pat Gonzalez,South,Office Supplies,Stapler & Clips Set,7,14.99,0.2,Unspecified,Cancelled,83.94,2025,9,Sep,2025-09,Friday
+ORD-10468,2025-08-01,CUST-0102,Morgan Gonzalez,South,Office Supplies,Notebook Pack,7,18.99,0.25,Cash,Completed,99.7,2025,8,Aug,2025-08,Friday
+ORD-10261,2025-03-28,CUST-0164,Quinn Brown,East,Clothing,Casual Polo Shirt,8,32.0,0.1,Bank Transfer,Completed,230.4,2025,3,Mar,2025-03,Friday
+ORD-10813,2025-11-26,CUST-0248,Jordan Johnson,Central,Furniture,Bookshelf,7,119.99,0.25,Debit Card,Completed,629.95,2025,11,Nov,2025-11,Wednesday
+ORD-10573,2025-01-04,CUST-0280,Casey Lopez,West,Electronics,USB-C Hub,9,29.99,0.05,PayPal,Completed,256.41,2025,1,Jan,2025-01,Saturday
+ORD-10927,2025-10-01,CUST-0163,Quinn Smith,Central,Furniture,Bookshelf,1,119.99,0.0,PayPal,Completed,119.99,2025,10,Oct,2025-10,Wednesday
+ORD-10585,2025-04-08,CUST-0215,Cameron Johnson,West,Office Supplies,Whiteboard Markers,3,8.99,0.05,Debit Card,Cancelled,25.62,2025,4,Apr,2025-04,Tuesday
+ORD-10139,2025-06-20,CUST-0333,Alex Brown,West,Electronics,Mechanical Keyboard,4,89.99,0.05,Debit Card,Shipped,341.96,2025,6,Jun,2025-06,Friday
+ORD-10975,2025-04-23,CUST-0135,Alex Gonzalez,South,Clothing,Winter Jacket,3,120.0,0.25,Debit Card,Completed,270.0,2025,4,Apr,2025-04,Wednesday
+ORD-10142,2025-09-08,CUST-0265,Reese Davis,South,Office Supplies,Gel Pen Set (12-pack),9,12.99,0.0,Credit Card,Returned,116.91,2025,9,Sep,2025-09,Monday
+ORD-10869,2025-12-28,CUST-0175,Taylor Brown,West,Clothing,Running Shoes,3,85.0,0.1,Bank Transfer,Shipped,229.5,2025,12,Dec,2025-12,Sunday
+ORD-11143,2025-01-23,CUST-0159,Skyler Gonzalez,North,Furniture,Standing Desk,7,499.99,0.0,Bank Transfer,Returned,3499.93,2025,1,Jan,2025-01,Thursday
+ORD-10406,2025-11-27,CUST-0131,Quinn Jones,East,Electronics,USB-C Hub,5,29.99,0.15,Credit Card,Returned,127.46,2025,11,Nov,2025-11,Thursday
+ORD-10140,2025-11-29,CUST-0167,Chris Rodriguez,West,Clothing,Cotton Hoodie,4,45.0,0.0,PayPal,Completed,180.0,2025,11,Nov,2025-11,Saturday
+ORD-10391,2025-08-07,CUST-0279,Avery Rodriguez,Central,Furniture,Ergonomic Office Chair,1,249.99,0.25,Credit Card,Completed,187.49,2025,8,Aug,2025-08,Thursday
+ORD-10886,2025-01-01,CUST-0259,Alex Smith,West,Electronics,Bluetooth Speaker,3,49.99,0.1,PayPal,Returned,134.97,2025,1,Jan,2025-01,Wednesday
+ORD-10225,2025-06-20,CUST-0146,Chris Hernandez,South,Clothing,Casual Polo Shirt,3,32.0,0.0,Bank Transfer,Completed,96.0,2025,6,Jun,2025-06,Friday
+ORD-10937,2025-08-02,CUST-0327,Taylor Miller,North,Office Supplies,Gel Pen Set (12-pack),1,12.99,0.15,PayPal,Completed,11.04,2025,8,Aug,2025-08,Saturday
+ORD-10275,2025-06-26,CUST-0202,Reese Williams,South,Electronics,Mechanical Keyboard,3,89.99,0.2,Debit Card,Shipped,215.98,2025,6,Jun,2025-06,Thursday
+ORD-10410,2025-10-10,CUST-0306,Jordan Miller,South,Electronics,Wireless Headphones,5,99.99,0.05,Cash,Completed,474.95,2025,10,Oct,2025-10,Friday
+ORD-10732,2025-01-09,CUST-0273,Skyler Garcia,East,Furniture,File Cabinet,7,89.99,0.25,Credit Card,Cancelled,472.45,2025,1,Jan,2025-01,Thursday
+ORD-10833,2025-04-13,CUST-0135,Riley Gonzalez,West,Clothing,Winter Jacket,8,120.0,0.2,Bank Transfer,Cancelled,768.0,2025,4,Apr,2025-04,Sunday
+ORD-10395,2025-09-12,CUST-0153,Unknown Customer,South,Clothing,Denim Jeans,1,55.0,0.0,PayPal,Shipped,55.0,2025,9,Sep,2025-09,Friday
+ORD-10600,2025-04-28,CUST-0249,Reese Miller,South,Furniture,Ergonomic Office Chair,1,249.99,0.15,Credit Card,Completed,212.49,2025,4,Apr,2025-04,Monday
+ORD-11088,2025-02-20,CUST-0225,Sam Smith,South,Office Supplies,Gel Pen Set (12-pack),7,12.99,0.25,Cash,Shipped,68.2,2025,2,Feb,2025-02,Thursday
+ORD-10702,2025-03-28,CUST-0332,Alex Rodriguez,West,Furniture,Ergonomic Office Chair,4,249.99,0.2,Bank Transfer,Cancelled,799.97,2025,3,Mar,2025-03,Friday
+ORD-10915,2025-07-12,CUST-0201,Alex Johnson,West,Office Supplies,Stapler & Clips Set,5,14.99,0.15,Credit Card,Returned,63.71,2025,7,Jul,2025-07,Saturday
+ORD-11019,2025-03-02,CUST-0331,Reese Martinez,Central,Office Supplies,Paper Reams (5-Pack),7,24.99,0.1,PayPal,Completed,157.44,2025,3,Mar,2025-03,Sunday
+ORD-10891,2025-03-25,CUST-0331,Chris Lopez,East,Furniture,Bookshelf,6,119.99,0.1,PayPal,Cancelled,647.95,2025,3,Mar,2025-03,Tuesday
+ORD-10498,2025-02-25,CUST-0346,Chris Smith,Central,Furniture,Ergonomic Office Chair,8,249.99,0.0,Credit Card,Cancelled,1999.92,2025,2,Feb,2025-02,Tuesday
+ORD-10622,2025-06-21,CUST-0146,Riley Miller,West,Furniture,File Cabinet,7,89.99,0.25,Credit Card,Cancelled,472.45,2025,6,Jun,2025-06,Saturday
+ORD-10332,2025-05-09,CUST-0267,Cameron Lopez,North,Electronics,Wireless Headphones,2,99.99,0.15,Cash,Completed,169.98,2025,5,May,2025-05,Friday
+ORD-10669,2025-04-29,CUST-0128,Riley Hernandez,North,Furniture,Standing Desk,7,499.99,0.15,Credit Card,Completed,2974.94,2025,4,Apr,2025-04,Tuesday
+ORD-10888,2025-03-31,CUST-0123,Reese Brown,North,Office Supplies,Whiteboard Markers,3,8.99,0.15,Credit Card,Completed,22.92,2025,3,Mar,2025-03,Monday
+ORD-10722,2025-08-30,CUST-0340,Chris Lopez,Central,Furniture,Standing Desk,6,499.99,0.05,Credit Card,Completed,2849.94,2025,8,Aug,2025-08,Saturday
+ORD-10040,2025-10-19,CUST-0198,Chris Smith,West,Office Supplies,Gel Pen Set (12-pack),6,12.99,0.2,Debit Card,Shipped,62.35,2025,10,Oct,2025-10,Sunday
+ORD-10031,2025-11-23,CUST-0300,Casey Davis,North,Office Supplies,Stapler & Clips Set,6,14.99,0.2,PayPal,Returned,71.95,2025,11,Nov,2025-11,Sunday
+ORD-10243,2025-01-25,CUST-0211,Skyler Martinez,South,Furniture,File Cabinet,7,89.99,0.2,Cash,Completed,503.94,2025,1,Jan,2025-01,Saturday
+ORD-10763,2025-05-03,CUST-0340,Reese Brown,North,Office Supplies,Paper Reams (5-Pack),4,24.99,0.15,PayPal,Shipped,84.97,2025,5,May,2025-05,Saturday
+ORD-10137,2025-04-05,CUST-0222,Morgan Brown,North,Furniture,Desk Lamp,9,34.99,0.15,PayPal,Completed,267.67,2025,4,Apr,2025-04,Saturday
+ORD-10311,2025-06-16,CUST-0206,Quinn Hernandez,South,Office Supplies,Notebook Pack,9,18.99,0.1,Bank Transfer,Completed,153.82,2025,6,Jun,2025-06,Monday
+ORD-11028,2025-07-14,CUST-0293,Pat Brown,West,Office Supplies,Gel Pen Set (12-pack),6,12.99,0.05,Credit Card,Shipped,74.04,2025,7,Jul,2025-07,Monday
+ORD-10528,2025-10-15,CUST-0260,Morgan Rodriguez,South,Clothing,Cotton Hoodie,3,45.0,0.25,Bank Transfer,Completed,101.25,2025,10,Oct,2025-10,Wednesday
+ORD-11146,2025-04-20,CUST-0286,Unknown Customer,South,Office Supplies,Paper Reams (5-Pack),10,24.99,0.25,Bank Transfer,Completed,187.42,2025,4,Apr,2025-04,Sunday
+ORD-10004,2025-05-23,CUST-0314,Chris Williams,North,Furniture,Bookshelf,4,119.99,0.15,Cash,Completed,407.97,2025,5,May,2025-05,Friday
+ORD-10507,2025-06-06,CUST-0195,Quinn Garcia,North,Clothing,Cotton Hoodie,4,45.0,0.15,Debit Card,Returned,153.0,2025,6,Jun,2025-06,Friday
+ORD-10650,2025-06-21,CUST-0350,Sam Johnson,East,Electronics,USB-C Hub,8,29.99,0.15,Credit Card,Completed,203.93,2025,6,Jun,2025-06,Saturday
+ORD-11064,2025-10-26,CUST-0148,Avery Williams,East,Furniture,Ergonomic Office Chair,8,249.99,0.15,PayPal,Cancelled,1699.93,2025,10,Oct,2025-10,Sunday
+ORD-11062,2025-03-15,CUST-0143,Chris Hernandez,Central,Furniture,File Cabinet,5,89.99,0.0,Bank Transfer,Completed,449.95,2025,3,Mar,2025-03,Saturday
+ORD-10866,2025-01-22,CUST-0205,Riley Davis,West,Clothing,Winter Jacket,7,120.0,0.0,Debit Card,Cancelled,840.0,2025,1,Jan,2025-01,Wednesday
+ORD-10782,2025-12-19,CUST-0281,Riley Brown,North,Clothing,Cotton Hoodie,9,45.0,0.1,PayPal,Completed,364.5,2025,12,Dec,2025-12,Friday
+ORD-11094,2025-11-01,CUST-0296,Dakota Hernandez,West,Furniture,File Cabinet,3,89.99,0.15,Cash,Returned,229.47,2025,11,Nov,2025-11,Saturday
+ORD-10315,2025-08-11,CUST-0323,Jordan Gonzalez,West,Electronics,Mechanical Keyboard,6,89.99,0.05,PayPal,Returned,512.94,2025,8,Aug,2025-08,Monday
+ORD-10320,2025-01-12,CUST-0290,Casey Brown,West,Office Supplies,Notebook Pack,1,18.99,0.25,Debit Card,Completed,14.24,2025,1,Jan,2025-01,Sunday
+ORD-10998,2025-03-14,CUST-0259,Dakota Jones,East,Office Supplies,Stapler & Clips Set,7,14.99,0.05,Cash,Completed,99.68,2025,3,Mar,2025-03,Friday
+ORD-10440,2025-07-08,CUST-0325,Pat Martinez,Central,Electronics,USB-C Hub,8,29.99,0.25,Credit Card,Completed,179.94,2025,7,Jul,2025-07,Tuesday
+ORD-10006,2025-10-15,CUST-0292,Avery Miller,South,Clothing,Casual Polo Shirt,8,32.0,0.0,PayPal,Cancelled,256.0,2025,10,Oct,2025-10,Wednesday
+ORD-10101,2025-08-07,CUST-0214,Chris Davis,West,Office Supplies,Notebook Pack,1,18.99,0.25,Cash,Returned,14.24,2025,8,Aug,2025-08,Thursday
+ORD-10672,2025-10-07,CUST-0188,Taylor Hernandez,South,Clothing,Running Shoes,6,85.0,0.2,Credit Card,Returned,408.0,2025,10,Oct,2025-10,Tuesday
+ORD-10535,2025-05-27,CUST-0348,Dakota Brown,East,Clothing,Cotton Hoodie,8,45.0,0.2,PayPal,Cancelled,288.0,2025,5,May,2025-05,Tuesday
+ORD-10514,2025-07-26,CUST-0311,Avery Gonzalez,South,Clothing,Denim Jeans,4,55.0,0.2,Cash,Returned,176.0,2025,7,Jul,2025-07,Saturday
+ORD-10873,2025-05-17,CUST-0200,Quinn Brown,East,Office Supplies,Gel Pen Set (12-pack),4,12.99,0.0,Cash,Completed,51.96,2025,5,May,2025-05,Saturday
+ORD-10463,2025-12-03,CUST-0327,Sam Lopez,West,Clothing,Casual Polo Shirt,10,32.0,0.25,Bank Transfer,Completed,240.0,2025,12,Dec,2025-12,Wednesday
+ORD-10724,2025-08-07,CUST-0179,Chris Martinez,Central,Office Supplies,Notebook Pack,10,18.99,0.25,PayPal,Completed,142.42,2025,8,Aug,2025-08,Thursday
+ORD-11005,2025-10-10,CUST-0235,Unknown Customer,North,Furniture,Standing Desk,2,499.99,0.15,PayPal,Shipped,849.98,2025,10,Oct,2025-10,Friday
+ORD-10228,2025-07-03,CUST-0143,Cameron Gonzalez,South,Furniture,Standing Desk,9,499.99,0.1,Credit Card,Returned,4049.92,2025,7,Jul,2025-07,Thursday
+ORD-10840,2025-03-03,CUST-0327,Cameron Brown,South,Clothing,Running Shoes,8,85.0,0.0,Bank Transfer,Cancelled,680.0,2025,3,Mar,2025-03,Monday
+ORD-10553,2025-06-10,CUST-0248,Reese Smith,West,Furniture,Desk Lamp,3,34.99,0.2,Credit Card,Shipped,83.98,2025,6,Jun,2025-06,Tuesday
+ORD-10673,2025-07-12,CUST-0246,Jordan Williams,North,Office Supplies,Paper Reams (5-Pack),9,24.99,0.05,Debit Card,Completed,213.66,2025,7,Jul,2025-07,Saturday
+ORD-10412,2025-04-11,CUST-0304,Dakota Rodriguez,East,Clothing,Cotton Hoodie,1,45.0,0.0,PayPal,Completed,45.0,2025,4,Apr,2025-04,Friday
+ORD-10067,2025-02-19,CUST-0238,Taylor Miller,South,Clothing,Denim Jeans,8,55.0,0.0,Debit Card,Completed,440.0,2025,2,Feb,2025-02,Wednesday
+ORD-10068,2025-05-01,CUST-0126,Dakota Garcia,West,Office Supplies,Paper Reams (5-Pack),8,24.99,0.05,Cash,Completed,189.92,2025,5,May,2025-05,Thursday
+ORD-10436,2025-03-04,CUST-0161,Skyler Davis,East,Clothing,Casual Polo Shirt,4,32.0,0.05,Debit Card,Cancelled,121.6,2025,3,Mar,2025-03,Tuesday
+ORD-10212,2025-02-24,CUST-0126,Quinn Jones,East,Office Supplies,Stapler & Clips Set,10,14.99,0.05,PayPal,Returned,142.4,2025,2,Feb,2025-02,Monday
+ORD-10013,2025-01-28,CUST-0266,Jordan Smith,South,Office Supplies,Paper Reams (5-Pack),3,24.99,0.1,Credit Card,Cancelled,67.47,2025,1,Jan,2025-01,Tuesday
+ORD-10534,2025-04-15,CUST-0145,Avery Rodriguez,Central,Furniture,Standing Desk,5,499.99,0.05,PayPal,Completed,2374.95,2025,4,Apr,2025-04,Tuesday
+ORD-11001,2025-04-26,CUST-0195,Morgan Rodriguez,East,Furniture,Bookshelf,10,119.99,0.0,Debit Card,Returned,1199.9,2025,4,Apr,2025-04,Saturday
+ORD-10300,2025-05-09,CUST-0313,Alex Johnson,West,Furniture,Desk Lamp,4,34.99,0.0,PayPal,Returned,139.96,2025,5,May,2025-05,Friday
+ORD-10619,2025-04-12,CUST-0271,Avery Martinez,South,Office Supplies,Paper Reams (5-Pack),8,24.99,0.0,Bank Transfer,Returned,199.92,2025,4,Apr,2025-04,Saturday
+ORD-10965,2025-05-16,CUST-0182,Cameron Johnson,North,Furniture,File Cabinet,9,89.99,0.0,Cash,Cancelled,809.91,2025,5,May,2025-05,Friday
+ORD-11177,2025-03-02,CUST-0348,Taylor Jones,East,Clothing,Running Shoes,6,85.0,0.05,Cash,Returned,484.5,2025,3,Mar,2025-03,Sunday
+ORD-11058,2025-08-26,CUST-0237,Taylor Gonzalez,West,Electronics,Mechanical Keyboard,6,89.99,0.1,Debit Card,Completed,485.95,2025,8,Aug,2025-08,Tuesday
+ORD-10736,2025-04-01,CUST-0167,Reese Davis,Central,Clothing,Casual Polo Shirt,9,32.0,0.25,PayPal,Cancelled,216.0,2025,4,Apr,2025-04,Tuesday
+ORD-11168,2025-03-28,CUST-0223,Taylor Smith,East,Furniture,File Cabinet,4,89.99,0.05,Credit Card,Completed,341.96,2025,3,Mar,2025-03,Friday
+ORD-11134,2025-12-16,CUST-0225,Quinn Martinez,Central,Electronics,Bluetooth Speaker,2,49.99,0.0,Cash,Completed,99.98,2025,12,Dec,2025-12,Tuesday
+ORD-10494,2025-10-19,CUST-0144,Casey Brown,Central,Furniture,Ergonomic Office Chair,5,249.99,0.05,Debit Card,Returned,1187.45,2025,10,Oct,2025-10,Sunday
+ORD-11150,2025-06-16,CUST-0227,Dakota Lopez,Central,Electronics,Mechanical Keyboard,2,89.99,0.15,Bank Transfer,Returned,152.98,2025,6,Jun,2025-06,Monday
+ORD-10598,2025-12-05,CUST-0168,Quinn Lopez,South,Electronics,Smart Watch,8,199.99,0.0,Debit Card,Completed,1599.92,2025,12,Dec,2025-12,Friday
+ORD-10491,2025-12-27,CUST-0201,Casey Johnson,North,Electronics,USB-C Hub,8,29.99,0.1,Bank Transfer,Completed,215.93,2025,12,Dec,2025-12,Saturday
+ORD-10274,2025-10-27,CUST-0319,Casey Miller,South,Office Supplies,Stapler & Clips Set,8,14.99,0.2,Debit Card,Shipped,95.94,2025,10,Oct,2025-10,Monday
+ORD-10428,2025-11-30,CUST-0230,Quinn Jones,West,Office Supplies,Gel Pen Set (12-pack),8,12.99,0.2,Credit Card,Shipped,83.14,2025,11,Nov,2025-11,Sunday
+ORD-10363,2025-05-30,CUST-0260,Alex Jones,North,Furniture,File Cabinet,3,89.99,0.1,Credit Card,Shipped,242.97,2025,5,May,2025-05,Friday
+ORD-10238,2025-03-26,CUST-0226,Chris Brown,Central,Office Supplies,Paper Reams (5-Pack),7,24.99,0.0,Cash,Cancelled,174.93,2025,3,Mar,2025-03,Wednesday
+ORD-11040,2025-10-22,CUST-0230,Riley Lopez,Central,Furniture,Bookshelf,1,119.99,0.2,Unspecified,Returned,95.99,2025,10,Oct,2025-10,Wednesday
+ORD-10003,2025-01-23,CUST-0238,Jordan Miller,East,Office Supplies,Notebook Pack,1,18.99,0.1,PayPal,Completed,17.09,2025,1,Jan,2025-01,Thursday
+ORD-10007,2025-12-15,CUST-0117,Pat Miller,East,Clothing,Denim Jeans,1,55.0,0.0,Cash,Cancelled,55.0,2025,12,Dec,2025-12,Monday
+ORD-10452,2025-07-26,CUST-0293,Dakota Williams,East,Clothing,Winter Jacket,6,120.0,0.1,Bank Transfer,Completed,648.0,2025,7,Jul,2025-07,Saturday
+ORD-10312,2025-01-01,CUST-0173,Avery Smith,East,Office Supplies,Paper Reams (5-Pack),6,24.99,0.25,Cash,Shipped,112.46,2025,1,Jan,2025-01,Wednesday
+ORD-11059,2025-09-05,CUST-0140,Skyler Martinez,Central,Office Supplies,Gel Pen Set (12-pack),8,12.99,0.25,Credit Card,Shipped,77.94,2025,9,Sep,2025-09,Friday
+ORD-10382,2025-06-04,CUST-0102,Casey Brown,East,Electronics,USB-C Hub,9,29.99,0.25,Debit Card,Completed,202.43,2025,6,Jun,2025-06,Wednesday
+ORD-11148,2025-05-09,CUST-0339,Casey Rodriguez,East,Office Supplies,Gel Pen Set (12-pack),5,12.99,0.05,Debit Card,Completed,61.7,2025,5,May,2025-05,Friday
+ORD-11078,2025-08-20,CUST-0329,Quinn Jones,Central,Office Supplies,Stapler & Clips Set,6,14.99,0.05,Debit Card,Completed,85.44,2025,8,Aug,2025-08,Wednesday
+ORD-10216,2025-01-17,CUST-0336,Chris Lopez,Central,Office Supplies,Stapler & Clips Set,1,14.99,0.15,PayPal,Completed,12.74,2025,1,Jan,2025-01,Friday
+ORD-10028,2025-09-21,CUST-0259,Chris Johnson,South,Furniture,Bookshelf,1,119.99,0.15,Credit Card,Returned,101.99,2025,9,Sep,2025-09,Sunday
+ORD-11188,2025-03-17,CUST-0214,Riley Davis,East,Clothing,Winter Jacket,1,120.0,0.0,Credit Card,Returned,120.0,2025,3,Mar,2025-03,Monday
+ORD-11121,2025-12-25,CUST-0290,Jordan Rodriguez,West,Clothing,Winter Jacket,2,120.0,0.1,Debit Card,Returned,216.0,2025,12,Dec,2025-12,Thursday
+ORD-10595,2025-06-19,CUST-0163,Alex Rodriguez,North,Electronics,Wireless Headphones,9,99.99,0.15,Unspecified,Completed,764.92,2025,6,Jun,2025-06,Thursday
+ORD-10824,2025-01-15,CUST-0226,Pat Lopez,South,Furniture,Desk Lamp,5,34.99,0.2,Cash,Completed,139.96,2025,1,Jan,2025-01,Wednesday
+ORD-10894,2025-02-23,CUST-0166,Cameron Rodriguez,East,Furniture,Standing Desk,6,499.99,0.15,Bank Transfer,Completed,2549.95,2025,2,Feb,2025-02,Sunday
+ORD-11120,2025-01-22,CUST-0283,Unknown Customer,Central,Furniture,Bookshelf,10,119.99,0.1,Unspecified,Cancelled,1079.91,2025,1,Jan,2025-01,Wednesday
+ORD-10773,2025-04-01,CUST-0256,Sam Rodriguez,South,Furniture,Ergonomic Office Chair,4,249.99,0.2,Credit Card,Cancelled,799.97,2025,4,Apr,2025-04,Tuesday
+ORD-10984,2025-04-15,CUST-0294,Cameron Gonzalez,North,Clothing,Running Shoes,7,85.0,0.0,PayPal,Completed,595.0,2025,4,Apr,2025-04,Tuesday
+ORD-10355,2025-03-18,CUST-0175,Pat Martinez,East,Furniture,Standing Desk,5,499.99,0.15,Debit Card,Shipped,2124.96,2025,3,Mar,2025-03,Tuesday
+ORD-11080,2025-08-19,CUST-0296,Jordan Davis,North,Electronics,USB-C Hub,6,29.99,0.05,Credit Card,Returned,170.94,2025,8,Aug,2025-08,Tuesday
+ORD-10443,2025-05-01,CUST-0333,Morgan Garcia,North,Clothing,Cotton Hoodie,7,45.0,0.25,Bank Transfer,Completed,236.25,2025,5,May,2025-05,Thursday
+ORD-10257,2025-07-15,CUST-0270,Alex Davis,West,Furniture,Standing Desk,5,499.99,0.05,Debit Card,Completed,2374.95,2025,7,Jul,2025-07,Tuesday
+ORD-10292,2025-08-19,CUST-0148,Skyler Smith,North,Furniture,Bookshelf,2,119.99,0.15,Credit Card,Shipped,203.98,2025,8,Aug,2025-08,Tuesday
+ORD-10026,2025-12-07,CUST-0260,Chris Hernandez,East,Office Supplies,Notebook Pack,5,18.99,0.05,Bank Transfer,Completed,90.2,2025,12,Dec,2025-12,Sunday
+ORD-10337,2025-01-19,CUST-0177,Chris Garcia,Central,Electronics,4K Monitor,2,349.99,0.1,Bank Transfer,Returned,629.98,2025,1,Jan,2025-01,Sunday
+ORD-10431,2025-03-18,CUST-0163,Quinn Jones,North,Clothing,Winter Jacket,1,120.0,0.1,PayPal,Completed,108.0,2025,3,Mar,2025-03,Tuesday
+ORD-10048,2025-05-17,CUST-0119,Alex Williams,North,Office Supplies,Stapler & Clips Set,7,14.99,0.2,Bank Transfer,Completed,83.94,2025,5,May,2025-05,Saturday
+ORD-10319,2025-08-15,CUST-0213,Alex Brown,North,Office Supplies,Gel Pen Set (12-pack),10,12.99,0.0,Credit Card,Completed,129.9,2025,8,Aug,2025-08,Friday
+ORD-10107,2025-06-26,CUST-0313,Quinn Rodriguez,West,Furniture,Standing Desk,2,499.99,0.1,Debit Card,Completed,899.98,2025,6,Jun,2025-06,Thursday
+ORD-10846,2025-08-21,CUST-0193,Morgan Williams,East,Furniture,Desk Lamp,1,34.99,0.1,Bank Transfer,Shipped,31.49,2025,8,Aug,2025-08,Thursday
+ORD-10056,2025-07-15,CUST-0270,Quinn Hernandez,South,Clothing,Cotton Hoodie,2,45.0,0.15,Unspecified,Completed,76.5,2025,7,Jul,2025-07,Tuesday
+ORD-10784,2025-01-12,CUST-0298,Jordan Gonzalez,West,Office Supplies,Whiteboard Markers,6,8.99,0.15,PayPal,Returned,45.85,2025,1,Jan,2025-01,Sunday
+ORD-10214,2025-02-20,CUST-0159,Taylor Jones,East,Clothing,Casual Polo Shirt,2,32.0,0.05,Bank Transfer,Cancelled,60.8,2025,2,Feb,2025-02,Thursday
+ORD-10121,2025-06-26,CUST-0306,Taylor Jones,West,Electronics,Bluetooth Speaker,4,49.99,0.2,Cash,Completed,159.97,2025,6,Jun,2025-06,Thursday
+ORD-10594,2025-05-18,CUST-0261,Avery Smith,Central,Electronics,Wireless Headphones,2,99.99,0.15,Bank Transfer,Completed,169.98,2025,5,May,2025-05,Sunday
+ORD-10536,2025-09-04,CUST-0198,Pat Johnson,Central,Office Supplies,Notebook Pack,5,18.99,0.1,Bank Transfer,Completed,85.46,2025,9,Sep,2025-09,Thursday
+ORD-10549,2025-12-31,CUST-0234,Cameron Martinez,West,Electronics,Smart Watch,9,199.99,0.15,Bank Transfer,Completed,1529.92,2025,12,Dec,2025-12,Wednesday
+ORD-10073,2025-11-06,CUST-0304,Reese Johnson,West,Furniture,Desk Lamp,8,34.99,0.25,Bank Transfer,Completed,209.94,2025,11,Nov,2025-11,Thursday
+ORD-10788,2025-12-21,CUST-0343,Pat Smith,Central,Office Supplies,Paper Reams (5-Pack),4,24.99,0.05,PayPal,Cancelled,94.96,2025,12,Dec,2025-12,Sunday
+ORD-10597,2025-02-13,CUST-0255,Taylor Williams,South,Office Supplies,Notebook Pack,5,18.99,0.1,Credit Card,Completed,85.46,2025,2,Feb,2025-02,Thursday
+ORD-10546,2025-12-16,CUST-0181,Skyler Brown,Central,Clothing,Winter Jacket,6,120.0,0.0,Bank Transfer,Completed,720.0,2025,12,Dec,2025-12,Tuesday
+ORD-10945,2025-02-25,CUST-0175,Avery Rodriguez,North,Office Supplies,Gel Pen Set (12-pack),3,12.99,0.25,Bank Transfer,Returned,29.23,2025,2,Feb,2025-02,Tuesday
+ORD-11199,2025-06-06,CUST-0268,Casey Garcia,West,Electronics,Smart Watch,9,199.99,0.25,Cash,Completed,1349.93,2025,6,Jun,2025-06,Friday
+ORD-10583,2025-01-27,CUST-0183,Morgan Jones,South,Electronics,4K Monitor,6,349.99,0.0,Cash,Completed,2099.94,2025,1,Jan,2025-01,Monday
+ORD-11145,2025-07-31,CUST-0253,Sam Jones,North,Electronics,4K Monitor,9,349.99,0.15,Debit Card,Completed,2677.42,2025,7,Jul,2025-07,Thursday
+ORD-10584,2025-06-19,CUST-0308,Chris Lopez,East,Office Supplies,Gel Pen Set (12-pack),2,12.99,0.25,Credit Card,Returned,19.48,2025,6,Jun,2025-06,Thursday
+ORD-10530,2025-12-23,CUST-0337,Quinn Lopez,West,Furniture,Bookshelf,10,119.99,0.2,PayPal,Returned,959.92,2025,12,Dec,2025-12,Tuesday
+ORD-10326,2025-03-16,CUST-0296,Chris Miller,East,Office Supplies,Stapler & Clips Set,3,14.99,0.2,Cash,Completed,35.98,2025,3,Mar,2025-03,Sunday
+ORD-11103,2025-02-03,CUST-0133,Reese Jones,Central,Electronics,USB-C Hub,7,29.99,0.2,Debit Card,Completed,167.94,2025,2,Feb,2025-02,Monday
+ORD-10978,2025-10-28,CUST-0203,Dakota Martinez,West,Office Supplies,Paper Reams (5-Pack),4,24.99,0.1,PayPal,Completed,89.96,2025,10,Oct,2025-10,Tuesday
+ORD-10317,2025-07-24,CUST-0299,Reese Williams,South,Clothing,Denim Jeans,4,55.0,0.25,PayPal,Cancelled,165.0,2025,7,Jul,2025-07,Thursday
+ORD-10652,2025-06-04,CUST-0329,Casey Gonzalez,East,Clothing,Cotton Hoodie,1,45.0,0.15,PayPal,Completed,38.25,2025,6,Jun,2025-06,Wednesday
+ORD-11008,2025-07-28,CUST-0309,Reese Williams,South,Furniture,Ergonomic Office Chair,7,249.99,0.1,Debit Card,Shipped,1574.94,2025,7,Jul,2025-07,Monday
+ORD-11098,2025-01-06,CUST-0187,Jordan Miller,South,Office Supplies,Notebook Pack,9,18.99,0.0,Cash,Cancelled,170.91,2025,1,Jan,2025-01,Monday
+ORD-10721,2025-03-02,CUST-0176,Reese Hernandez,East,Office Supplies,Notebook Pack,5,18.99,0.05,Debit Card,Completed,90.2,2025,3,Mar,2025-03,Sunday
+ORD-11054,2025-06-12,CUST-0102,Chris Garcia,Central,Furniture,Desk Lamp,5,34.99,0.2,Bank Transfer,Shipped,139.96,2025,6,Jun,2025-06,Thursday
+ORD-11014,2025-10-25,CUST-0306,Sam Jones,West,Electronics,Mechanical Keyboard,3,89.99,0.2,Cash,Completed,215.98,2025,10,Oct,2025-10,Saturday
+ORD-11104,2025-07-31,CUST-0127,Quinn Brown,West,Furniture,Desk Lamp,10,34.99,0.2,PayPal,Shipped,279.92,2025,7,Jul,2025-07,Thursday
+ORD-10061,2025-06-04,CUST-0199,Skyler Davis,East,Clothing,Denim Jeans,5,55.0,0.25,Credit Card,Returned,206.25,2025,6,Jun,2025-06,Wednesday
+ORD-10760,2025-12-18,CUST-0296,Dakota Garcia,West,Clothing,Running Shoes,8,85.0,0.05,Credit Card,Completed,646.0,2025,12,Dec,2025-12,Thursday
+ORD-10093,2025-01-14,CUST-0202,Casey Garcia,South,Electronics,Bluetooth Speaker,6,49.99,0.0,Bank Transfer,Completed,299.94,2025,1,Jan,2025-01,Tuesday
+ORD-10909,2025-09-03,CUST-0303,Casey Miller,Central,Furniture,Standing Desk,2,499.99,0.0,Cash,Cancelled,999.98,2025,9,Sep,2025-09,Wednesday
+ORD-10991,2025-01-16,CUST-0143,Quinn Lopez,South,Electronics,Wireless Headphones,8,99.99,0.2,Credit Card,Returned,639.94,2025,1,Jan,2025-01,Thursday
+ORD-10352,2025-02-06,CUST-0237,Riley Miller,South,Furniture,File Cabinet,7,89.99,0.05,Cash,Completed,598.43,2025,2,Feb,2025-02,Thursday
+ORD-10988,2025-12-31,CUST-0135,Alex Rodriguez,South,Furniture,Standing Desk,10,499.99,0.0,Cash,Shipped,4999.9,2025,12,Dec,2025-12,Wednesday
+ORD-10281,2025-01-15,CUST-0167,Jordan Miller,East,Furniture,Standing Desk,9,499.99,0.1,Credit Card,Returned,4049.92,2025,1,Jan,2025-01,Wednesday
+ORD-10769,2025-07-16,CUST-0159,Alex Brown,North,Furniture,File Cabinet,9,89.99,0.2,Debit Card,Shipped,647.93,2025,7,Jul,2025-07,Wednesday
+ORD-10360,2025-10-23,CUST-0110,Avery Davis,West,Electronics,USB-C Hub,9,29.99,0.1,Credit Card,Shipped,242.92,2025,10,Oct,2025-10,Thursday
+ORD-10680,2025-05-30,CUST-0202,Riley Hernandez,East,Electronics,Wireless Headphones,6,99.99,0.05,Debit Card,Cancelled,569.94,2025,5,May,2025-05,Friday
+ORD-11100,2025-11-16,CUST-0123,Sam Johnson,South,Electronics,USB-C Hub,10,29.99,0.05,PayPal,Completed,284.9,2025,11,Nov,2025-11,Sunday
+ORD-10882,2025-09-18,CUST-0143,Pat Brown,Central,Electronics,Mechanical Keyboard,9,89.99,0.05,Debit Card,Completed,769.41,2025,9,Sep,2025-09,Thursday
+ORD-10555,2025-12-28,CUST-0262,Skyler Brown,East,Clothing,Cotton Hoodie,4,45.0,0.0,PayPal,Returned,180.0,2025,12,Dec,2025-12,Sunday
+ORD-10523,2025-10-11,CUST-0195,Jordan Gonzalez,West,Office Supplies,Stapler & Clips Set,1,14.99,0.0,Bank Transfer,Returned,14.99,2025,10,Oct,2025-10,Saturday
+ORD-11056,2025-12-27,CUST-0195,Sam Brown,South,Electronics,USB-C Hub,9,29.99,0.0,PayPal,Completed,269.91,2025,12,Dec,2025-12,Saturday
+ORD-10183,2025-05-18,CUST-0131,Quinn Smith,Central,Clothing,Casual Polo Shirt,10,32.0,0.15,Debit Card,Cancelled,272.0,2025,5,May,2025-05,Sunday
+ORD-10480,2025-07-13,CUST-0285,Skyler Martinez,West,Furniture,File Cabinet,3,89.99,0.1,Cash,Completed,242.97,2025,7,Jul,2025-07,Sunday
+ORD-10111,2025-06-10,CUST-0182,Reese Garcia,Central,Furniture,Bookshelf,8,119.99,0.15,Credit Card,Completed,815.93,2025,6,Jun,2025-06,Tuesday
+ORD-10371,2025-02-07,CUST-0116,Pat Miller,East,Electronics,Bluetooth Speaker,4,49.99,0.05,Credit Card,Cancelled,189.96,2025,2,Feb,2025-02,Friday
+ORD-10240,2025-12-10,CUST-0188,Chris Smith,Central,Clothing,Casual Polo Shirt,6,32.0,0.0,Unspecified,Completed,192.0,2025,12,Dec,2025-12,Wednesday
+ORD-10746,2025-06-04,CUST-0187,Pat Hernandez,East,Furniture,Bookshelf,1,119.99,0.15,Bank Transfer,Cancelled,101.99,2025,6,Jun,2025-06,Wednesday
+ORD-10712,2025-10-02,CUST-0141,Skyler Rodriguez,South,Furniture,Bookshelf,4,119.99,0.05,Credit Card,Cancelled,455.96,2025,10,Oct,2025-10,Thursday
+ORD-11024,2025-04-01,CUST-0234,Morgan Martinez,North,Clothing,Running Shoes,5,85.0,0.15,Cash,Completed,361.25,2025,4,Apr,2025-04,Tuesday
+ORD-10205,2025-03-24,CUST-0241,Cameron Johnson,West,Clothing,Cotton Hoodie,7,45.0,0.0,PayPal,Shipped,315.0,2025,3,Mar,2025-03,Monday
+ORD-10561,2025-09-03,CUST-0291,Jordan Gonzalez,West,Clothing,Winter Jacket,6,120.0,0.2,Credit Card,Cancelled,576.0,2025,9,Sep,2025-09,Wednesday
+ORD-10853,2025-03-19,CUST-0131,Casey Martinez,South,Clothing,Casual Polo Shirt,3,32.0,0.0,PayPal,Completed,96.0,2025,3,Mar,2025-03,Wednesday
+ORD-10262,2025-11-27,CUST-0316,Sam Williams,North,Furniture,Bookshelf,9,119.99,0.2,Cash,Completed,863.93,2025,11,Nov,2025-11,Thursday
+ORD-11006,2025-01-07,CUST-0197,Chris Davis,East,Clothing,Casual Polo Shirt,7,32.0,0.2,Bank Transfer,Cancelled,179.2,2025,1,Jan,2025-01,Tuesday
+ORD-11086,2025-12-29,CUST-0170,Avery Smith,South,Electronics,Bluetooth Speaker,9,49.99,0.2,Cash,Completed,359.93,2025,12,Dec,2025-12,Monday
+ORD-10340,2025-11-12,CUST-0206,Alex Garcia,South,Furniture,Ergonomic Office Chair,2,249.99,0.2,Credit Card,Completed,399.98,2025,11,Nov,2025-11,Wednesday
+ORD-11172,2025-08-14,CUST-0192,Pat Martinez,North,Furniture,Standing Desk,10,499.99,0.25,Credit Card,Completed,3749.92,2025,8,Aug,2025-08,Thursday
+ORD-10582,2025-04-29,CUST-0210,Riley Smith,North,Electronics,Bluetooth Speaker,6,49.99,0.05,Credit Card,Completed,284.94,2025,4,Apr,2025-04,Tuesday
+ORD-10611,2025-03-15,CUST-0180,Casey Gonzalez,North,Electronics,4K Monitor,5,349.99,0.1,Debit Card,Completed,1574.96,2025,3,Mar,2025-03,Saturday
+ORD-10184,2025-10-18,CUST-0141,Sam Gonzalez,Central,Electronics,Smart Watch,1,199.99,0.15,PayPal,Cancelled,169.99,2025,10,Oct,2025-10,Saturday
+ORD-10138,2025-08-19,CUST-0124,Casey Lopez,West,Electronics,Bluetooth Speaker,2,49.99,0.2,Cash,Completed,79.98,2025,8,Aug,2025-08,Tuesday
+ORD-11191,2025-02-14,CUST-0143,Cameron Smith,Central,Furniture,Desk Lamp,9,34.99,0.05,Credit Card,Completed,299.16,2025,2,Feb,2025-02,Friday
+ORD-10744,2025-08-26,CUST-0296,Cameron Johnson,West,Office Supplies,Gel Pen Set (12-pack),7,12.99,0.2,Bank Transfer,Shipped,72.74,2025,8,Aug,2025-08,Tuesday
+ORD-10667,2025-09-26,CUST-0117,Taylor Hernandez,South,Office Supplies,Stapler & Clips Set,5,14.99,0.0,Bank Transfer,Completed,74.95,2025,9,Sep,2025-09,Friday
+ORD-10081,2025-01-11,CUST-0144,Quinn Martinez,West,Office Supplies,Paper Reams (5-Pack),10,24.99,0.0,Debit Card,Completed,249.9,2025,1,Jan,2025-01,Saturday
+ORD-10529,2025-02-03,CUST-0172,Dakota Martinez,West,Electronics,Smart Watch,2,199.99,0.2,Credit Card,Returned,319.98,2025,2,Feb,2025-02,Monday
+ORD-10859,2025-09-18,CUST-0106,Quinn Williams,North,Electronics,Smart Watch,10,199.99,0.0,Credit Card,Returned,1999.9,2025,9,Sep,2025-09,Thursday
+ORD-10803,2025-02-02,CUST-0210,Dakota Smith,South,Furniture,Ergonomic Office Chair,2,249.99,0.1,Debit Card,Completed,449.98,2025,2,Feb,2025-02,Sunday
+ORD-10030,2025-08-26,CUST-0244,Avery Garcia,Central,Clothing,Denim Jeans,8,55.0,0.25,Bank Transfer,Completed,330.0,2025,8,Aug,2025-08,Tuesday
+ORD-10486,2025-02-03,CUST-0205,Dakota Brown,Central,Electronics,Bluetooth Speaker,4,49.99,0.25,Debit Card,Completed,149.97,2025,2,Feb,2025-02,Monday
+ORD-10472,2025-11-29,CUST-0151,Cameron Jones,South,Office Supplies,Stapler & Clips Set,4,14.99,0.2,Debit Card,Completed,47.97,2025,11,Nov,2025-11,Saturday
+ORD-10166,2025-08-16,CUST-0122,Avery Smith,North,Furniture,Bookshelf,3,119.99,0.2,Bank Transfer,Completed,287.98,2025,8,Aug,2025-08,Saturday
+ORD-10249,2025-11-05,CUST-0286,Morgan Jones,South,Electronics,Smart Watch,1,199.99,0.2,PayPal,Completed,159.99,2025,11,Nov,2025-11,Wednesday
+ORD-10308,2025-04-24,CUST-0119,Alex Brown,North,Electronics,4K Monitor,7,349.99,0.25,Cash,Completed,1837.45,2025,4,Apr,2025-04,Thursday
+ORD-10482,2025-04-09,CUST-0239,Avery Gonzalez,Central,Furniture,Desk Lamp,9,34.99,0.0,PayPal,Returned,314.91,2025,4,Apr,2025-04,Wednesday
+ORD-10761,2025-08-26,CUST-0275,Cameron Johnson,West,Clothing,Winter Jacket,4,120.0,0.2,Credit Card,Returned,384.0,2025,8,Aug,2025-08,Tuesday
+ORD-10347,2025-05-27,CUST-0182,Quinn Davis,South,Office Supplies,Gel Pen Set (12-pack),10,12.99,0.0,Debit Card,Completed,129.9,2025,5,May,2025-05,Tuesday
+ORD-10335,2025-07-29,CUST-0254,Avery Smith,Central,Office Supplies,Notebook Pack,3,18.99,0.25,PayPal,Returned,42.73,2025,7,Jul,2025-07,Tuesday
+ORD-10286,2025-05-13,CUST-0168,Morgan Jones,South,Office Supplies,Whiteboard Markers,6,8.99,0.15,PayPal,Shipped,45.85,2025,5,May,2025-05,Tuesday
+ORD-11007,2025-06-27,CUST-0115,Jordan Jones,Central,Electronics,USB-C Hub,4,29.99,0.2,Credit Card,Cancelled,95.97,2025,6,Jun,2025-06,Friday
+ORD-10098,2025-11-20,CUST-0135,Jordan Lopez,East,Clothing,Cotton Hoodie,1,45.0,0.1,Cash,Completed,40.5,2025,11,Nov,2025-11,Thursday
+ORD-11147,2025-07-04,CUST-0235,Quinn Brown,Central,Furniture,Desk Lamp,9,34.99,0.25,PayPal,Completed,236.18,2025,7,Jul,2025-07,Friday
+ORD-11067,2025-01-21,CUST-0172,Sam Brown,Central,Electronics,USB-C Hub,6,29.99,0.05,Cash,Cancelled,170.94,2025,1,Jan,2025-01,Tuesday
+ORD-10967,2025-01-03,CUST-0223,Alex Davis,North,Clothing,Denim Jeans,9,55.0,0.05,PayPal,Shipped,470.25,2025,1,Jan,2025-01,Friday
+ORD-11092,2025-02-06,CUST-0338,Pat Jones,North,Furniture,Standing Desk,6,499.99,0.25,Cash,Shipped,2249.96,2025,2,Feb,2025-02,Thursday
+ORD-10717,2025-08-17,CUST-0245,Jordan Hernandez,North,Furniture,Ergonomic Office Chair,8,249.99,0.0,Cash,Shipped,1999.92,2025,8,Aug,2025-08,Sunday
+ORD-10645,2025-04-14,CUST-0149,Jordan Jones,North,Office Supplies,Notebook Pack,2,18.99,0.15,Credit Card,Shipped,32.28,2025,4,Apr,2025-04,Monday
+ORD-10849,2025-08-20,CUST-0314,Quinn Martinez,East,Furniture,Standing Desk,7,499.99,0.15,Unspecified,Completed,2974.94,2025,8,Aug,2025-08,Wednesday
+ORD-10799,2025-10-20,CUST-0157,Casey Williams,North,Furniture,Standing Desk,5,499.99,0.0,Debit Card,Returned,2499.95,2025,10,Oct,2025-10,Monday
+ORD-10725,2025-03-06,CUST-0251,Dakota Gonzalez,West,Office Supplies,Notebook Pack,4,18.99,0.0,Cash,Completed,75.96,2025,3,Mar,2025-03,Thursday
+ORD-10066,2025-01-13,CUST-0342,Casey Garcia,West,Furniture,Ergonomic Office Chair,7,249.99,0.0,Debit Card,Completed,1749.93,2025,1,Jan,2025-01,Monday
+ORD-10837,2025-04-27,CUST-0315,Pat Smith,East,Furniture,File Cabinet,10,89.99,0.25,Debit Card,Completed,674.92,2025,4,Apr,2025-04,Sunday
+ORD-10906,2025-01-07,CUST-0271,Sam Martinez,East,Office Supplies,Gel Pen Set (12-pack),4,12.99,0.15,PayPal,Completed,44.17,2025,1,Jan,2025-01,Tuesday
+ORD-10599,2025-03-07,CUST-0199,Chris Garcia,Central,Clothing,Winter Jacket,4,120.0,0.2,Cash,Shipped,384.0,2025,3,Mar,2025-03,Friday
+ORD-11114,2025-09-04,CUST-0244,Taylor Brown,Central,Furniture,File Cabinet,1,89.99,0.1,Bank Transfer,Cancelled,80.99,2025,9,Sep,2025-09,Thursday
+ORD-11129,2025-09-05,CUST-0301,Quinn Gonzalez,East,Furniture,Standing Desk,10,499.99,0.25,Unspecified,Returned,3749.92,2025,9,Sep,2025-09,Friday
+ORD-10303,2025-06-23,CUST-0295,Dakota Smith,North,Furniture,File Cabinet,9,89.99,0.1,Bank Transfer,Completed,728.92,2025,6,Jun,2025-06,Monday
+ORD-10255,2025-06-19,CUST-0119,Alex Williams,South,Electronics,USB-C Hub,8,29.99,0.15,Bank Transfer,Shipped,203.93,2025,6,Jun,2025-06,Thursday
+ORD-11016,2025-02-22,CUST-0298,Casey Jones,South,Furniture,Standing Desk,4,499.99,0.05,Bank Transfer,Shipped,1899.96,2025,2,Feb,2025-02,Saturday
+ORD-10987,2025-07-12,CUST-0220,Cameron Johnson,South,Electronics,Mechanical Keyboard,9,89.99,0.0,Bank Transfer,Shipped,809.91,2025,7,Jul,2025-07,Saturday
+ORD-10313,2025-10-20,CUST-0110,Riley Garcia,Central,Office Supplies,Whiteboard Markers,5,8.99,0.15,PayPal,Returned,38.21,2025,10,Oct,2025-10,Monday
+ORD-10586,2025-10-14,CUST-0330,Chris Davis,North,Electronics,4K Monitor,9,349.99,0.05,PayPal,Shipped,2992.41,2025,10,Oct,2025-10,Tuesday
+ORD-10222,2025-12-18,CUST-0301,Riley Hernandez,Central,Office Supplies,Gel Pen Set (12-pack),3,12.99,0.25,PayPal,Completed,29.23,2025,12,Dec,2025-12,Thursday
+ORD-10478,2025-11-05,CUST-0129,Jordan Garcia,South,Electronics,USB-C Hub,6,29.99,0.0,PayPal,Shipped,179.94,2025,11,Nov,2025-11,Wednesday
+ORD-10389,2025-02-12,CUST-0104,Reese Lopez,East,Furniture,Standing Desk,2,499.99,0.25,Bank Transfer,Returned,749.98,2025,2,Feb,2025-02,Wednesday
+ORD-10236,2025-02-27,CUST-0213,Alex Johnson,Central,Office Supplies,Paper Reams (5-Pack),10,24.99,0.25,Cash,Returned,187.42,2025,2,Feb,2025-02,Thursday
+ORD-10889,2025-08-27,CUST-0350,Alex Martinez,East,Electronics,Bluetooth Speaker,5,49.99,0.1,PayPal,Completed,224.96,2025,8,Aug,2025-08,Wednesday
+ORD-10306,2025-11-14,CUST-0285,Jordan Hernandez,Central,Clothing,Running Shoes,3,85.0,0.1,Debit Card,Shipped,229.5,2025,11,Nov,2025-11,Friday
+ORD-10814,2025-08-24,CUST-0234,Alex Miller,South,Clothing,Cotton Hoodie,6,45.0,0.15,Bank Transfer,Completed,229.5,2025,8,Aug,2025-08,Sunday
+ORD-10971,2025-01-24,CUST-0276,Pat Williams,Central,Office Supplies,Paper Reams (5-Pack),2,24.99,0.0,Debit Card,Completed,49.98,2025,1,Jan,2025-01,Friday
+ORD-10250,2025-01-03,CUST-0282,Unknown Customer,North,Office Supplies,Notebook Pack,5,18.99,0.2,Credit Card,Completed,75.96,2025,1,Jan,2025-01,Friday
+ORD-10997,2025-01-03,CUST-0288,Sam Hernandez,South,Clothing,Winter Jacket,4,120.0,0.0,PayPal,Completed,480.0,2025,1,Jan,2025-01,Friday
+ORD-10072,2025-12-31,CUST-0119,Cameron Johnson,South,Furniture,Ergonomic Office Chair,9,249.99,0.15,Cash,Shipped,1912.42,2025,12,Dec,2025-12,Wednesday
+ORD-10095,2025-11-24,CUST-0218,Jordan Johnson,Central,Clothing,Denim Jeans,4,55.0,0.1,Cash,Shipped,198.0,2025,11,Nov,2025-11,Monday
+ORD-10576,2025-02-21,CUST-0151,Jordan Rodriguez,North,Furniture,Desk Lamp,5,34.99,0.15,Debit Card,Completed,148.71,2025,2,Feb,2025-02,Friday
+ORD-10034,2025-11-15,CUST-0333,Pat Martinez,West,Electronics,Wireless Headphones,1,99.99,0.1,Debit Card,Completed,89.99,2025,11,Nov,2025-11,Saturday
+ORD-10903,2025-10-16,CUST-0228,Chris Gonzalez,Central,Electronics,Mechanical Keyboard,9,89.99,0.0,Bank Transfer,Completed,809.91,2025,10,Oct,2025-10,Thursday
+ORD-10449,2025-10-27,CUST-0349,Alex Rodriguez,North,Furniture,Desk Lamp,2,34.99,0.0,Credit Card,Shipped,69.98,2025,10,Oct,2025-10,Monday
+ORD-10446,2025-06-10,CUST-0133,Riley Jones,East,Clothing,Casual Polo Shirt,5,32.0,0.15,Debit Card,Completed,136.0,2025,6,Jun,2025-06,Tuesday
+ORD-10917,2025-02-19,CUST-0276,Unknown Customer,North,Electronics,Wireless Headphones,5,99.99,0.05,Cash,Cancelled,474.95,2025,2,Feb,2025-02,Wednesday
+ORD-11074,2025-11-02,CUST-0300,Reese Martinez,South,Electronics,Wireless Headphones,5,99.99,0.1,Cash,Completed,449.96,2025,11,Nov,2025-11,Sunday
+ORD-10718,2025-10-18,CUST-0116,Quinn Davis,South,Office Supplies,Whiteboard Markers,10,8.99,0.0,PayPal,Cancelled,89.9,2025,10,Oct,2025-10,Saturday
+ORD-10078,2025-11-13,CUST-0121,Sam Davis,West,Clothing,Denim Jeans,9,55.0,0.15,Cash,Returned,420.75,2025,11,Nov,2025-11,Thursday
+ORD-10085,2025-01-22,CUST-0308,Avery Hernandez,South,Clothing,Denim Jeans,6,55.0,0.0,PayPal,Returned,330.0,2025,1,Jan,2025-01,Wednesday
+ORD-10756,2025-08-04,CUST-0185,Casey Miller,East,Electronics,Bluetooth Speaker,3,49.99,0.25,Cash,Returned,112.48,2025,8,Aug,2025-08,Monday
+ORD-10083,2025-12-02,CUST-0344,Quinn Hernandez,Central,Clothing,Denim Jeans,6,55.0,0.0,Debit Card,Shipped,330.0,2025,12,Dec,2025-12,Tuesday
+ORD-10458,2025-12-20,CUST-0306,Sam Johnson,North,Electronics,Smart Watch,4,199.99,0.05,PayPal,Completed,759.96,2025,12,Dec,2025-12,Saturday
+ORD-10778,2025-10-20,CUST-0183,Taylor Brown,Central,Furniture,Standing Desk,9,499.99,0.25,Bank Transfer,Completed,3374.93,2025,10,Oct,2025-10,Monday
+ORD-10437,2025-11-26,CUST-0109,Sam Johnson,West,Clothing,Winter Jacket,7,120.0,0.0,Debit Card,Completed,840.0,2025,11,Nov,2025-11,Wednesday
+ORD-10851,2025-06-11,CUST-0296,Avery Rodriguez,North,Electronics,Mechanical Keyboard,1,89.99,0.0,Credit Card,Completed,89.99,2025,6,Jun,2025-06,Wednesday
+ORD-10943,2025-02-12,CUST-0289,Alex Williams,South,Clothing,Cotton Hoodie,3,45.0,0.1,Debit Card,Cancelled,121.5,2025,2,Feb,2025-02,Wednesday
+ORD-10405,2025-06-04,CUST-0178,Riley Rodriguez,North,Furniture,Ergonomic Office Chair,8,249.99,0.25,Bank Transfer,Returned,1499.94,2025,6,Jun,2025-06,Wednesday
+ORD-11075,2025-03-08,CUST-0107,Sam Johnson,South,Furniture,Ergonomic Office Chair,7,249.99,0.2,PayPal,Completed,1399.94,2025,3,Mar,2025-03,Saturday
+ORD-10910,2025-03-16,CUST-0111,Chris Jones,East,Clothing,Casual Polo Shirt,5,32.0,0.15,Bank Transfer,Cancelled,136.0,2025,3,Mar,2025-03,Sunday
+ORD-10683,2025-07-16,CUST-0348,Jordan Smith,North,Clothing,Winter Jacket,1,120.0,0.15,Bank Transfer,Returned,102.0,2025,7,Jul,2025-07,Wednesday
+ORD-10105,2025-02-03,CUST-0175,Cameron Jones,Central,Furniture,Bookshelf,3,119.99,0.0,Cash,Completed,359.97,2025,2,Feb,2025-02,Monday
+ORD-10567,2025-07-14,CUST-0255,Morgan Johnson,Central,Electronics,Mechanical Keyboard,2,89.99,0.1,PayPal,Completed,161.98,2025,7,Jul,2025-07,Monday
+ORD-10637,2025-05-26,CUST-0235,Morgan Johnson,West,Electronics,USB-C Hub,6,29.99,0.0,Bank Transfer,Completed,179.94,2025,5,May,2025-05,Monday
+ORD-10063,2025-11-27,CUST-0302,Riley Smith,East,Furniture,Ergonomic Office Chair,4,249.99,0.2,Debit Card,Completed,799.97,2025,11,Nov,2025-11,Thursday
+ORD-10282,2025-06-25,CUST-0339,Taylor Davis,East,Furniture,File Cabinet,4,89.99,0.05,PayPal,Completed,341.96,2025,6,Jun,2025-06,Wednesday
+ORD-10797,2025-10-04,CUST-0254,Reese Rodriguez,East,Electronics,Wireless Headphones,2,99.99,0.15,Bank Transfer,Shipped,169.98,2025,10,Oct,2025-10,Saturday
+ORD-10239,2025-09-13,CUST-0131,Riley Lopez,West,Electronics,4K Monitor,2,349.99,0.2,Cash,Returned,559.98,2025,9,Sep,2025-09,Saturday
+ORD-10224,2025-09-14,CUST-0275,Pat Rodriguez,South,Electronics,Smart Watch,10,199.99,0.15,PayPal,Completed,1699.92,2025,9,Sep,2025-09,Sunday
+ORD-10146,2025-07-13,CUST-0115,Dakota Smith,West,Electronics,4K Monitor,2,349.99,0.0,Cash,Completed,699.98,2025,7,Jul,2025-07,Sunday
+ORD-11149,2025-08-16,CUST-0281,Alex Miller,North,Office Supplies,Whiteboard Markers,4,8.99,0.25,Cash,Completed,26.97,2025,8,Aug,2025-08,Saturday
+ORD-10374,2025-07-03,CUST-0178,Pat Smith,Central,Electronics,Bluetooth Speaker,8,49.99,0.1,PayPal,Completed,359.93,2025,7,Jul,2025-07,Thursday
+ORD-10119,2025-02-01,CUST-0233,Morgan Rodriguez,West,Clothing,Denim Jeans,9,55.0,0.1,Debit Card,Completed,445.5,2025,2,Feb,2025-02,Saturday
+ORD-10850,2025-07-17,CUST-0145,Sam Lopez,Central,Furniture,Desk Lamp,7,34.99,0.05,PayPal,Completed,232.68,2025,7,Jul,2025-07,Thursday
+ORD-10251,2025-09-27,CUST-0148,Casey Johnson,Central,Furniture,Desk Lamp,4,34.99,0.25,Debit Card,Cancelled,104.97,2025,9,Sep,2025-09,Saturday
+ORD-11187,2025-08-24,CUST-0317,Dakota Hernandez,North,Clothing,Cotton Hoodie,3,45.0,0.0,Cash,Completed,135.0,2025,8,Aug,2025-08,Sunday
+ORD-10010,2025-02-05,CUST-0237,Quinn Williams,South,Clothing,Denim Jeans,7,55.0,0.2,PayPal,Completed,308.0,2025,2,Feb,2025-02,Wednesday
+ORD-10450,2025-02-24,CUST-0140,Alex Johnson,East,Clothing,Winter Jacket,1,120.0,0.15,Cash,Cancelled,102.0,2025,2,Feb,2025-02,Monday
+ORD-10926,2025-08-05,CUST-0161,Alex Gonzalez,North,Electronics,Wireless Headphones,9,99.99,0.15,Debit Card,Completed,764.92,2025,8,Aug,2025-08,Tuesday
+ORD-10390,2025-10-26,CUST-0217,Riley Gonzalez,East,Clothing,Running Shoes,1,85.0,0.0,Debit Card,Completed,85.0,2025,10,Oct,2025-10,Sunday
+ORD-10711,2025-11-09,CUST-0255,Casey Smith,North,Electronics,4K Monitor,6,349.99,0.2,Credit Card,Completed,1679.95,2025,11,Nov,2025-11,Sunday
+ORD-10954,2025-09-29,CUST-0157,Skyler Davis,North,Electronics,4K Monitor,5,349.99,0.2,Credit Card,Returned,1399.96,2025,9,Sep,2025-09,Monday
+ORD-10558,2025-04-11,CUST-0103,Chris Lopez,South,Electronics,Mechanical Keyboard,3,89.99,0.0,Bank Transfer,Completed,269.97,2025,4,Apr,2025-04,Friday
+ORD-10461,2025-09-20,CUST-0257,Cameron Hernandez,North,Clothing,Running Shoes,6,85.0,0.1,Bank Transfer,Completed,459.0,2025,9,Sep,2025-09,Saturday
+ORD-11135,2025-02-14,CUST-0326,Reese Gonzalez,Central,Clothing,Denim Jeans,7,55.0,0.0,Credit Card,Shipped,385.0,2025,2,Feb,2025-02,Friday
+ORD-10145,2025-05-10,CUST-0169,Quinn Miller,Central,Clothing,Winter Jacket,5,120.0,0.0,Credit Card,Completed,600.0,2025,5,May,2025-05,Saturday
+ORD-10502,2025-11-30,CUST-0180,Avery Rodriguez,East,Furniture,Desk Lamp,1,34.99,0.25,Credit Card,Cancelled,26.24,2025,11,Nov,2025-11,Sunday
+ORD-11138,2025-09-20,CUST-0216,Alex Gonzalez,East,Office Supplies,Whiteboard Markers,9,8.99,0.1,Credit Card,Cancelled,72.82,2025,9,Sep,2025-09,Saturday
+ORD-10540,2025-03-17,CUST-0255,Avery Hernandez,North,Electronics,Wireless Headphones,7,99.99,0.0,PayPal,Completed,699.93,2025,3,Mar,2025-03,Monday
+ORD-10178,2025-08-08,CUST-0136,Morgan Jones,Central,Furniture,File Cabinet,1,89.99,0.25,PayPal,Shipped,67.49,2025,8,Aug,2025-08,Friday
+ORD-11189,2025-12-25,CUST-0140,Skyler Davis,East,Electronics,Wireless Headphones,1,99.99,0.05,PayPal,Completed,94.99,2025,12,Dec,2025-12,Thursday
+ORD-10921,2025-09-09,CUST-0325,Casey Garcia,Central,Clothing,Denim Jeans,4,55.0,0.25,Bank Transfer,Completed,165.0,2025,9,Sep,2025-09,Tuesday
+ORD-10615,2025-02-25,CUST-0337,Pat Gonzalez,North,Clothing,Casual Polo Shirt,8,32.0,0.25,Debit Card,Shipped,192.0,2025,2,Feb,2025-02,Tuesday
+ORD-10008,2025-11-25,CUST-0176,Pat Williams,South,Office Supplies,Notebook Pack,5,18.99,0.2,PayPal,Completed,75.96,2025,11,Nov,2025-11,Tuesday
+ORD-11025,2025-01-30,CUST-0215,Cameron Williams,Central,Clothing,Running Shoes,2,85.0,0.15,Bank Transfer,Completed,144.5,2025,1,Jan,2025-01,Thursday
+ORD-10893,2025-11-17,CUST-0188,Casey Hernandez,South,Furniture,File Cabinet,7,89.99,0.15,Cash,Shipped,535.44,2025,11,Nov,2025-11,Monday
+ORD-10358,2025-05-28,CUST-0272,Unknown Customer,West,Electronics,Smart Watch,3,199.99,0.25,Bank Transfer,Returned,449.98,2025,5,May,2025-05,Wednesday
+ORD-10330,2025-09-23,CUST-0289,Alex Rodriguez,East,Electronics,Smart Watch,5,199.99,0.15,Credit Card,Completed,849.96,2025,9,Sep,2025-09,Tuesday
+ORD-10742,2025-01-28,CUST-0180,Quinn Gonzalez,West,Office Supplies,Stapler & Clips Set,3,14.99,0.05,Credit Card,Cancelled,42.72,2025,1,Jan,2025-01,Tuesday
+ORD-10880,2025-05-14,CUST-0115,Dakota Hernandez,South,Electronics,Mechanical Keyboard,4,89.99,0.05,Debit Card,Returned,341.96,2025,5,May,2025-05,Wednesday
+ORD-10259,2025-11-12,CUST-0150,Jordan Williams,West,Electronics,USB-C Hub,2,29.99,0.05,Bank Transfer,Completed,56.98,2025,11,Nov,2025-11,Wednesday
+ORD-10920,2025-11-04,CUST-0215,Morgan Brown,West,Electronics,4K Monitor,7,349.99,0.0,Debit Card,Returned,2449.93,2025,11,Nov,2025-11,Tuesday
+ORD-10944,2025-12-25,CUST-0247,Jordan Smith,North,Office Supplies,Whiteboard Markers,1,8.99,0.05,Bank Transfer,Completed,8.54,2025,12,Dec,2025-12,Thursday
+ORD-10819,2025-06-15,CUST-0214,Skyler Smith,North,Furniture,Bookshelf,4,119.99,0.05,PayPal,Completed,455.96,2025,6,Jun,2025-06,Sunday
+ORD-10632,2025-10-02,CUST-0232,Quinn Williams,South,Office Supplies,Paper Reams (5-Pack),2,24.99,0.05,Bank Transfer,Completed,47.48,2025,10,Oct,2025-10,Thursday
+ORD-10962,2025-08-26,CUST-0316,Jordan Martinez,South,Electronics,USB-C Hub,9,29.99,0.1,Credit Card,Returned,242.92,2025,8,Aug,2025-08,Tuesday
+ORD-10526,2025-12-12,CUST-0214,Reese Smith,East,Electronics,4K Monitor,1,349.99,0.05,Debit Card,Completed,332.49,2025,12,Dec,2025-12,Friday
+ORD-10862,2025-12-13,CUST-0321,Alex Davis,South,Electronics,Wireless Headphones,9,99.99,0.05,Credit Card,Cancelled,854.91,2025,12,Dec,2025-12,Saturday
+ORD-10693,2025-08-03,CUST-0132,Skyler Rodriguez,Central,Clothing,Denim Jeans,10,55.0,0.05,Debit Card,Completed,522.5,2025,8,Aug,2025-08,Sunday
+ORD-10922,2025-04-17,CUST-0191,Pat Jones,West,Office Supplies,Gel Pen Set (12-pack),1,12.99,0.2,Credit Card,Cancelled,10.39,2025,4,Apr,2025-04,Thursday
+ORD-11171,2025-04-10,CUST-0299,Quinn Williams,North,Clothing,Casual Polo Shirt,1,32.0,0.0,Cash,Cancelled,32.0,2025,4,Apr,2025-04,Thursday
+ORD-10441,2025-11-04,CUST-0123,Chris Williams,Central,Electronics,Wireless Headphones,8,99.99,0.15,PayPal,Cancelled,679.93,2025,11,Nov,2025-11,Tuesday
+ORD-10532,2025-11-03,CUST-0214,Reese Garcia,Central,Office Supplies,Paper Reams (5-Pack),5,24.99,0.05,Debit Card,Completed,118.7,2025,11,Nov,2025-11,Monday
+ORD-11113,2025-02-21,CUST-0334,Skyler Rodriguez,Central,Office Supplies,Notebook Pack,1,18.99,0.0,Bank Transfer,Completed,18.99,2025,2,Feb,2025-02,Friday
+ORD-10229,2025-05-11,CUST-0260,Alex Martinez,North,Electronics,Mechanical Keyboard,8,89.99,0.2,PayPal,Returned,575.94,2025,5,May,2025-05,Sunday
+ORD-11071,2025-12-05,CUST-0236,Quinn Davis,South,Furniture,File Cabinet,7,89.99,0.05,PayPal,Returned,598.43,2025,12,Dec,2025-12,Friday
+ORD-10213,2025-12-22,CUST-0202,Cameron Garcia,West,Electronics,Mechanical Keyboard,1,89.99,0.1,Bank Transfer,Returned,80.99,2025,12,Dec,2025-12,Monday
+ORD-10080,2025-04-28,CUST-0314,Dakota Gonzalez,West,Clothing,Cotton Hoodie,6,45.0,0.2,Bank Transfer,Completed,216.0,2025,4,Apr,2025-04,Monday
+ORD-10149,2025-06-24,CUST-0258,Avery Miller,East,Office Supplies,Paper Reams (5-Pack),4,24.99,0.15,Cash,Completed,84.97,2025,6,Jun,2025-06,Tuesday
+ORD-10623,2025-02-23,CUST-0105,Avery Miller,West,Electronics,Mechanical Keyboard,5,89.99,0.05,Bank Transfer,Completed,427.45,2025,2,Feb,2025-02,Sunday
+ORD-10940,2025-06-03,CUST-0166,Jordan Williams,West,Furniture,Standing Desk,9,499.99,0.15,Bank Transfer,Completed,3824.92,2025,6,Jun,2025-06,Tuesday
+ORD-10621,2025-12-14,CUST-0104,Unknown Customer,North,Office Supplies,Notebook Pack,8,18.99,0.1,Cash,Cancelled,136.73,2025,12,Dec,2025-12,Sunday
+ORD-10134,2025-05-22,CUST-0325,Reese Gonzalez,North,Clothing,Denim Jeans,10,55.0,0.2,Credit Card,Completed,440.0,2025,5,May,2025-05,Thursday
+ORD-10826,2025-11-04,CUST-0146,Unknown Customer,East,Clothing,Cotton Hoodie,10,45.0,0.25,Bank Transfer,Completed,337.5,2025,11,Nov,2025-11,Tuesday
+ORD-10409,2025-03-15,CUST-0233,Sam Garcia,South,Clothing,Casual Polo Shirt,4,32.0,0.2,Cash,Returned,102.4,2025,3,Mar,2025-03,Saturday
+ORD-10708,2025-04-23,CUST-0326,Cameron Gonzalez,East,Clothing,Winter Jacket,3,120.0,0.1,Debit Card,Returned,324.0,2025,4,Apr,2025-04,Wednesday
+ORD-10508,2025-05-06,CUST-0296,Avery Martinez,East,Office Supplies,Gel Pen Set (12-pack),5,12.99,0.2,Bank Transfer,Completed,51.96,2025,5,May,2025-05,Tuesday
+ORD-11050,2025-11-06,CUST-0134,Unknown Customer,South,Office Supplies,Gel Pen Set (12-pack),6,12.99,0.05,Cash,Cancelled,74.04,2025,11,Nov,2025-11,Thursday
+ORD-10505,2025-04-16,CUST-0312,Unknown Customer,Central,Office Supplies,Paper Reams (5-Pack),4,24.99,0.0,Credit Card,Completed,99.96,2025,4,Apr,2025-04,Wednesday
+ORD-11089,2025-05-29,CUST-0334,Jordan Martinez,East,Electronics,Wireless Headphones,3,99.99,0.15,Bank Transfer,Shipped,254.97,2025,5,May,2025-05,Thursday
+ORD-10348,2025-03-14,CUST-0306,Sam Martinez,Central,Electronics,Bluetooth Speaker,1,49.99,0.15,Credit Card,Completed,42.49,2025,3,Mar,2025-03,Friday
+ORD-10387,2025-03-22,CUST-0264,Avery Williams,West,Furniture,Ergonomic Office Chair,4,249.99,0.15,Bank Transfer,Completed,849.97,2025,3,Mar,2025-03,Saturday
+ORD-10001,2025-11-24,CUST-0290,Sam Brown,Central,Electronics,Mechanical Keyboard,1,89.99,0.05,Credit Card,Returned,85.49,2025,11,Nov,2025-11,Monday
+ORD-10361,2025-02-15,CUST-0262,Reese Hernandez,Central,Electronics,Mechanical Keyboard,1,89.99,0.2,Bank Transfer,Completed,71.99,2025,2,Feb,2025-02,Saturday
+ORD-11164,2025-02-28,CUST-0189,Skyler Williams,South,Electronics,Smart Watch,2,199.99,0.2,PayPal,Shipped,319.98,2025,2,Feb,2025-02,Friday
+ORD-10476,2025-08-06,CUST-0222,Morgan Davis,Central,Clothing,Denim Jeans,5,55.0,0.25,Bank Transfer,Completed,206.25,2025,8,Aug,2025-08,Wednesday
+ORD-10821,2025-05-14,CUST-0194,Quinn Gonzalez,South,Office Supplies,Whiteboard Markers,3,8.99,0.25,Cash,Completed,20.23,2025,5,May,2025-05,Wednesday
+ORD-11116,2025-09-30,CUST-0242,Chris Hernandez,South,Office Supplies,Notebook Pack,9,18.99,0.05,Debit Card,Cancelled,162.36,2025,9,Sep,2025-09,Tuesday
+ORD-10173,2025-10-17,CUST-0302,Chris Hernandez,West,Electronics,Wireless Headphones,3,99.99,0.0,Bank Transfer,Returned,299.97,2025,10,Oct,2025-10,Friday
+ORD-10451,2025-01-25,CUST-0173,Chris Gonzalez,Central,Electronics,USB-C Hub,3,29.99,0.15,PayPal,Cancelled,76.47,2025,1,Jan,2025-01,Saturday
+ORD-10126,2025-06-01,CUST-0294,Morgan Williams,Central,Clothing,Winter Jacket,2,120.0,0.05,Unspecified,Completed,228.0,2025,6,Jun,2025-06,Sunday
+ORD-10674,2025-07-19,CUST-0118,Skyler Williams,Central,Electronics,USB-C Hub,10,29.99,0.15,Cash,Completed,254.91,2025,7,Jul,2025-07,Saturday
+ORD-10531,2025-01-07,CUST-0258,Quinn Johnson,Central,Clothing,Running Shoes,8,85.0,0.05,Credit Card,Returned,646.0,2025,1,Jan,2025-01,Tuesday
+ORD-10091,2025-08-29,CUST-0150,Chris Hernandez,East,Clothing,Winter Jacket,7,120.0,0.05,PayPal,Completed,798.0,2025,8,Aug,2025-08,Friday
+ORD-11192,2025-10-22,CUST-0320,Riley Gonzalez,Central,Furniture,Bookshelf,4,119.99,0.05,Bank Transfer,Shipped,455.96,2025,10,Oct,2025-10,Wednesday
+ORD-10182,2025-05-03,CUST-0123,Cameron Miller,South,Electronics,Bluetooth Speaker,1,49.99,0.1,Debit Card,Completed,44.99,2025,5,May,2025-05,Saturday
+ORD-10694,2025-03-01,CUST-0214,Reese Miller,Central,Office Supplies,Notebook Pack,8,18.99,0.15,PayPal,Cancelled,129.13,2025,3,Mar,2025-03,Saturday
+ORD-10415,2025-07-14,CUST-0232,Morgan Miller,West,Office Supplies,Paper Reams (5-Pack),6,24.99,0.2,Credit Card,Completed,119.95,2025,7,Jul,2025-07,Monday
+ORD-10252,2025-11-13,CUST-0244,Skyler Gonzalez,East,Electronics,Wireless Headphones,10,99.99,0.05,Debit Card,Cancelled,949.9,2025,11,Nov,2025-11,Thursday
+ORD-10070,2025-05-09,CUST-0129,Dakota Smith,Central,Office Supplies,Gel Pen Set (12-pack),1,12.99,0.15,Credit Card,Cancelled,11.04,2025,5,May,2025-05,Friday
+ORD-10132,2025-04-03,CUST-0297,Dakota Lopez,West,Clothing,Casual Polo Shirt,7,32.0,0.25,Cash,Cancelled,168.0,2025,4,Apr,2025-04,Thursday
+ORD-10301,2025-06-09,CUST-0141,Dakota Lopez,West,Electronics,Bluetooth Speaker,1,49.99,0.05,PayPal,Completed,47.49,2025,6,Jun,2025-06,Monday
+ORD-10807,2025-11-10,CUST-0118,Alex Gonzalez,South,Furniture,Desk Lamp,4,34.99,0.05,Bank Transfer,Completed,132.96,2025,11,Nov,2025-11,Monday
+ORD-10327,2025-11-02,CUST-0276,Alex Garcia,Central,Clothing,Running Shoes,6,85.0,0.15,PayPal,Completed,433.5,2025,11,Nov,2025-11,Sunday
+ORD-10500,2025-11-03,CUST-0260,Alex Davis,Central,Clothing,Denim Jeans,1,55.0,0.1,Credit Card,Shipped,49.5,2025,11,Nov,2025-11,Monday
+ORD-10931,2025-09-07,CUST-0105,Morgan Miller,Central,Furniture,Desk Lamp,5,34.99,0.0,PayPal,Completed,174.95,2025,9,Sep,2025-09,Sunday
+ORD-11090,2025-03-29,CUST-0206,Alex Williams,East,Electronics,Mechanical Keyboard,9,89.99,0.0,Cash,Shipped,809.91,2025,3,Mar,2025-03,Saturday
+ORD-10496,2025-09-23,CUST-0193,Casey Gonzalez,East,Furniture,Ergonomic Office Chair,6,249.99,0.05,Cash,Returned,1424.94,2025,9,Sep,2025-09,Tuesday
+ORD-11108,2025-09-06,CUST-0107,Avery Hernandez,East,Office Supplies,Gel Pen Set (12-pack),3,12.99,0.15,Debit Card,Returned,33.12,2025,9,Sep,2025-09,Saturday
+ORD-10165,2025-05-28,CUST-0181,Skyler Davis,West,Office Supplies,Paper Reams (5-Pack),9,24.99,0.15,Bank Transfer,Cancelled,191.17,2025,5,May,2025-05,Wednesday
+ORD-10029,2025-10-22,CUST-0279,Pat Davis,North,Furniture,Ergonomic Office Chair,9,249.99,0.2,Credit Card,Cancelled,1799.93,2025,10,Oct,2025-10,Wednesday
+ORD-10517,2025-07-20,CUST-0153,Pat Johnson,North,Furniture,Desk Lamp,5,34.99,0.0,PayPal,Returned,174.95,2025,7,Jul,2025-07,Sunday
+ORD-10194,2025-06-19,CUST-0342,Riley Smith,West,Clothing,Winter Jacket,3,120.0,0.05,Bank Transfer,Completed,342.0,2025,6,Jun,2025-06,Thursday
+ORD-10668,2025-11-07,CUST-0248,Reese Rodriguez,East,Office Supplies,Gel Pen Set (12-pack),10,12.99,0.15,Credit Card,Completed,110.42,2025,11,Nov,2025-11,Friday
+ORD-10844,2025-03-28,CUST-0183,Chris Smith,South,Electronics,Mechanical Keyboard,1,89.99,0.2,PayPal,Completed,71.99,2025,3,Mar,2025-03,Friday
+ORD-10170,2025-02-18,CUST-0293,Quinn Miller,South,Office Supplies,Gel Pen Set (12-pack),4,12.99,0.25,PayPal,Completed,38.97,2025,2,Feb,2025-02,Tuesday
+ORD-10747,2025-02-24,CUST-0122,Chris Hernandez,South,Clothing,Cotton Hoodie,7,45.0,0.0,Bank Transfer,Completed,315.0,2025,2,Feb,2025-02,Monday
+ORD-10653,2025-05-06,CUST-0279,Pat Garcia,West,Electronics,Smart Watch,9,199.99,0.15,Cash,Returned,1529.92,2025,5,May,2025-05,Tuesday
+ORD-10174,2025-03-09,CUST-0178,Taylor Jones,North,Office Supplies,Whiteboard Markers,3,8.99,0.25,PayPal,Completed,20.23,2025,3,Mar,2025-03,Sunday
+ORD-10519,2025-07-20,CUST-0129,Taylor Rodriguez,South,Electronics,4K Monitor,7,349.99,0.25,Cash,Completed,1837.45,2025,7,Jul,2025-07,Sunday
+ORD-10974,2025-03-14,CUST-0146,Unknown Customer,West,Electronics,USB-C Hub,8,29.99,0.1,Bank Transfer,Completed,215.93,2025,3,Mar,2025-03,Friday
+ORD-10739,2025-07-03,CUST-0103,Taylor Miller,South,Office Supplies,Paper Reams (5-Pack),8,24.99,0.0,Cash,Shipped,199.92,2025,7,Jul,2025-07,Thursday
+ORD-10492,2025-07-18,CUST-0297,Quinn Lopez,East,Electronics,4K Monitor,4,349.99,0.1,Debit Card,Cancelled,1259.96,2025,7,Jul,2025-07,Friday
+ORD-10074,2025-07-11,CUST-0276,Cameron Davis,West,Electronics,Wireless Headphones,3,99.99,0.2,Cash,Completed,239.98,2025,7,Jul,2025-07,Friday
+ORD-11032,2025-04-29,CUST-0239,Morgan Johnson,East,Furniture,File Cabinet,10,89.99,0.0,Cash,Returned,899.9,2025,4,Apr,2025-04,Tuesday
+ORD-10588,2025-03-23,CUST-0252,Reese Smith,Central,Clothing,Denim Jeans,5,55.0,0.2,PayPal,Completed,220.0,2025,3,Mar,2025-03,Sunday
+ORD-10658,2025-05-14,CUST-0253,Sam Williams,South,Office Supplies,Notebook Pack,3,18.99,0.05,Credit Card,Returned,54.12,2025,5,May,2025-05,Wednesday
+ORD-10235,2025-03-23,CUST-0334,Avery Davis,Central,Clothing,Running Shoes,1,85.0,0.25,PayPal,Completed,63.75,2025,3,Mar,2025-03,Sunday
+ORD-10215,2025-09-22,CUST-0311,Alex Rodriguez,Central,Electronics,Bluetooth Speaker,9,49.99,0.0,PayPal,Completed,449.91,2025,9,Sep,2025-09,Monday
+ORD-11004,2025-06-15,CUST-0111,Cameron Miller,Central,Electronics,Wireless Headphones,6,99.99,0.0,Cash,Cancelled,599.94,2025,6,Jun,2025-06,Sunday
+ORD-10133,2025-06-28,CUST-0238,Pat Rodriguez,North,Furniture,Ergonomic Office Chair,9,249.99,0.15,PayPal,Completed,1912.42,2025,6,Jun,2025-06,Saturday
+ORD-10843,2025-01-13,CUST-0118,Skyler Brown,South,Office Supplies,Notebook Pack,1,18.99,0.0,Unspecified,Returned,18.99,2025,1,Jan,2025-01,Monday
+ORD-10772,2025-10-11,CUST-0317,Reese Rodriguez,Central,Electronics,4K Monitor,3,349.99,0.25,PayPal,Completed,787.48,2025,10,Oct,2025-10,Saturday
+ORD-11000,2025-06-24,CUST-0148,Sam Brown,North,Electronics,Mechanical Keyboard,5,89.99,0.2,Cash,Completed,359.96,2025,6,Jun,2025-06,Tuesday
+ORD-10186,2025-04-02,CUST-0233,Alex Miller,East,Clothing,Casual Polo Shirt,1,32.0,0.1,Debit Card,Completed,28.8,2025,4,Apr,2025-04,Wednesday
+ORD-10042,2025-09-29,CUST-0291,Casey Garcia,East,Clothing,Casual Polo Shirt,4,32.0,0.25,PayPal,Returned,96.0,2025,9,Sep,2025-09,Monday
+ORD-10109,2025-03-29,CUST-0285,Cameron Martinez,North,Electronics,Wireless Headphones,10,99.99,0.05,Bank Transfer,Completed,949.9,2025,3,Mar,2025-03,Saturday
+ORD-10900,2025-02-18,CUST-0133,Avery Hernandez,Central,Clothing,Cotton Hoodie,10,45.0,0.2,Credit Card,Completed,360.0,2025,2,Feb,2025-02,Tuesday
+ORD-10569,2025-02-20,CUST-0144,Chris Gonzalez,Central,Office Supplies,Notebook Pack,8,18.99,0.0,Cash,Returned,151.92,2025,2,Feb,2025-02,Thursday
+ORD-10887,2025-07-10,CUST-0207,Dakota Smith,East,Electronics,Wireless Headphones,4,99.99,0.25,Credit Card,Completed,299.97,2025,7,Jul,2025-07,Thursday
+ORD-11044,2025-06-17,CUST-0295,Chris Lopez,East,Clothing,Running Shoes,3,85.0,0.2,PayPal,Shipped,204.0,2025,6,Jun,2025-06,Tuesday
+ORD-10484,2025-10-05,CUST-0137,Taylor Jones,West,Furniture,Bookshelf,6,119.99,0.25,Bank Transfer,Completed,539.95,2025,10,Oct,2025-10,Sunday
+ORD-10469,2025-03-12,CUST-0206,Cameron Miller,West,Office Supplies,Paper Reams (5-Pack),9,24.99,0.0,Bank Transfer,Completed,224.91,2025,3,Mar,2025-03,Wednesday
+ORD-10025,2025-06-10,CUST-0231,Jordan Miller,North,Furniture,Bookshelf,9,119.99,0.25,PayPal,Completed,809.93,2025,6,Jun,2025-06,Tuesday
+ORD-10707,2025-10-26,CUST-0190,Riley Rodriguez,South,Furniture,Bookshelf,8,119.99,0.15,Cash,Completed,815.93,2025,10,Oct,2025-10,Sunday
+ORD-10715,2025-06-09,CUST-0209,Unknown Customer,South,Office Supplies,Stapler & Clips Set,10,14.99,0.1,PayPal,Shipped,134.91,2025,6,Jun,2025-06,Monday
+ORD-10794,2025-07-19,CUST-0105,Sam Lopez,South,Office Supplies,Paper Reams (5-Pack),1,24.99,0.05,Bank Transfer,Completed,23.74,2025,7,Jul,2025-07,Saturday
+ORD-11042,2025-05-24,CUST-0146,Quinn Lopez,East,Office Supplies,Whiteboard Markers,8,8.99,0.05,Cash,Returned,68.32,2025,5,May,2025-05,Saturday
+ORD-10367,2025-01-22,CUST-0237,Dakota Garcia,East,Clothing,Denim Jeans,2,55.0,0.2,PayPal,Shipped,88.0,2025,1,Jan,2025-01,Wednesday
+ORD-10890,2025-01-01,CUST-0112,Skyler Martinez,West,Clothing,Denim Jeans,1,55.0,0.0,Bank Transfer,Shipped,55.0,2025,1,Jan,2025-01,Wednesday
+ORD-10384,2025-01-27,CUST-0146,Unknown Customer,South,Electronics,Wireless Headphones,6,99.99,0.25,Debit Card,Completed,449.95,2025,1,Jan,2025-01,Monday
+ORD-10455,2025-01-24,CUST-0231,Pat Miller,East,Office Supplies,Whiteboard Markers,1,8.99,0.25,PayPal,Completed,6.74,2025,1,Jan,2025-01,Friday
+ORD-10265,2025-04-29,CUST-0195,Morgan Smith,West,Office Supplies,Stapler & Clips Set,1,14.99,0.1,Cash,Completed,13.49,2025,4,Apr,2025-04,Tuesday
+ORD-10817,2025-12-29,CUST-0187,Quinn Davis,East,Furniture,Standing Desk,5,499.99,0.25,Debit Card,Shipped,1874.96,2025,12,Dec,2025-12,Monday
+ORD-10233,2025-01-21,CUST-0193,Quinn Hernandez,North,Electronics,Wireless Headphones,3,99.99,0.15,Debit Card,Completed,254.97,2025,1,Jan,2025-01,Tuesday
+ORD-10445,2025-07-22,CUST-0134,Cameron Rodriguez,South,Furniture,Bookshelf,8,119.99,0.1,Bank Transfer,Completed,863.93,2025,7,Jul,2025-07,Tuesday
+ORD-10396,2025-11-27,CUST-0249,Chris Hernandez,Central,Office Supplies,Stapler & Clips Set,9,14.99,0.1,Debit Card,Completed,121.42,2025,11,Nov,2025-11,Thursday
+ORD-10858,2025-07-07,CUST-0319,Quinn Miller,East,Office Supplies,Gel Pen Set (12-pack),8,12.99,0.0,Credit Card,Completed,103.92,2025,7,Jul,2025-07,Monday
+ORD-10177,2025-11-29,CUST-0190,Reese Brown,Central,Furniture,Desk Lamp,2,34.99,0.05,Cash,Completed,66.48,2025,11,Nov,2025-11,Saturday
+ORD-10019,2025-10-11,CUST-0270,Jordan Williams,Central,Electronics,Mechanical Keyboard,4,89.99,0.05,Debit Card,Completed,341.96,2025,10,Oct,2025-10,Saturday
+ORD-11110,2025-10-20,CUST-0344,Sam Gonzalez,Central,Furniture,Standing Desk,3,499.99,0.1,Bank Transfer,Cancelled,1349.97,2025,10,Oct,2025-10,Monday
+ORD-10863,2025-06-14,CUST-0159,Taylor Miller,West,Office Supplies,Notebook Pack,7,18.99,0.1,Unspecified,Returned,119.64,2025,6,Jun,2025-06,Saturday
+ORD-10596,2025-07-17,CUST-0268,Sam Brown,West,Clothing,Cotton Hoodie,2,45.0,0.1,Cash,Completed,81.0,2025,7,Jul,2025-07,Thursday
+ORD-10062,2025-01-26,CUST-0291,Riley Jones,East,Furniture,File Cabinet,5,89.99,0.25,PayPal,Returned,337.46,2025,1,Jan,2025-01,Sunday
+ORD-10273,2025-05-26,CUST-0240,Pat Jones,Central,Electronics,USB-C Hub,4,29.99,0.1,Credit Card,Returned,107.96,2025,5,May,2025-05,Monday
+ORD-11156,2025-02-18,CUST-0268,Chris Martinez,East,Furniture,File Cabinet,6,89.99,0.1,Debit Card,Completed,485.95,2025,2,Feb,2025-02,Tuesday
+ORD-10279,2025-05-26,CUST-0244,Cameron Martinez,Central,Office Supplies,Gel Pen Set (12-pack),7,12.99,0.1,Cash,Completed,81.84,2025,5,May,2025-05,Monday
+ORD-10941,2025-02-11,CUST-0260,Riley Hernandez,West,Office Supplies,Paper Reams (5-Pack),7,24.99,0.0,Debit Card,Completed,174.93,2025,2,Feb,2025-02,Tuesday
+ORD-10695,2025-03-06,CUST-0163,Quinn Miller,East,Furniture,File Cabinet,2,89.99,0.15,PayPal,Returned,152.98,2025,3,Mar,2025-03,Thursday
+ORD-10369,2025-04-09,CUST-0259,Jordan Smith,North,Furniture,File Cabinet,10,89.99,0.25,Cash,Completed,674.92,2025,4,Apr,2025-04,Wednesday
+ORD-10939,2025-09-27,CUST-0275,Skyler Lopez,South,Office Supplies,Notebook Pack,8,18.99,0.2,Bank Transfer,Shipped,121.54,2025,9,Sep,2025-09,Saturday
+ORD-10868,2025-03-23,CUST-0345,Skyler Rodriguez,Central,Furniture,Desk Lamp,3,34.99,0.25,Credit Card,Completed,78.73,2025,3,Mar,2025-03,Sunday
+ORD-10911,2025-12-19,CUST-0244,Cameron Hernandez,East,Furniture,Desk Lamp,6,34.99,0.2,Debit Card,Completed,167.95,2025,12,Dec,2025-12,Friday
+ORD-10775,2025-08-15,CUST-0150,Avery Gonzalez,East,Clothing,Cotton Hoodie,8,45.0,0.1,Cash,Returned,324.0,2025,8,Aug,2025-08,Friday
+ORD-11002,2025-11-24,CUST-0319,Sam Brown,East,Furniture,Standing Desk,10,499.99,0.25,PayPal,Cancelled,3749.92,2025,11,Nov,2025-11,Monday
+ORD-10548,2025-01-24,CUST-0289,Chris Hernandez,Central,Clothing,Winter Jacket,8,120.0,0.25,Bank Transfer,Completed,720.0,2025,1,Jan,2025-01,Friday
+ORD-10932,2025-09-07,CUST-0283,Riley Garcia,West,Clothing,Running Shoes,3,85.0,0.0,Credit Card,Completed,255.0,2025,9,Sep,2025-09,Sunday
+ORD-10689,2025-04-05,CUST-0321,Riley Martinez,East,Furniture,Ergonomic Office Chair,6,249.99,0.0,Debit Card,Shipped,1499.94,2025,4,Apr,2025-04,Saturday
+ORD-10953,2025-02-02,CUST-0325,Pat Davis,Central,Furniture,Bookshelf,1,119.99,0.25,Debit Card,Completed,89.99,2025,2,Feb,2025-02,Sunday
+ORD-10457,2025-02-24,CUST-0105,Alex Miller,West,Furniture,Desk Lamp,10,34.99,0.1,Cash,Returned,314.91,2025,2,Feb,2025-02,Monday
+ORD-10394,2025-12-14,CUST-0331,Sam Davis,West,Electronics,Smart Watch,3,199.99,0.0,Debit Card,Completed,599.97,2025,12,Dec,2025-12,Sunday
+ORD-10676,2025-02-01,CUST-0119,Quinn Martinez,North,Electronics,Bluetooth Speaker,10,49.99,0.2,PayPal,Completed,399.92,2025,2,Feb,2025-02,Saturday
+ORD-10966,2025-12-20,CUST-0333,Casey Hernandez,East,Clothing,Cotton Hoodie,6,45.0,0.0,Credit Card,Shipped,270.0,2025,12,Dec,2025-12,Saturday
+ORD-11175,2025-07-21,CUST-0122,Avery Rodriguez,North,Office Supplies,Whiteboard Markers,5,8.99,0.0,Bank Transfer,Completed,44.95,2025,7,Jul,2025-07,Monday
+ORD-10376,2025-02-02,CUST-0265,Sam Davis,North,Clothing,Cotton Hoodie,1,45.0,0.05,Cash,Returned,42.75,2025,2,Feb,2025-02,Sunday
+ORD-10413,2025-04-05,CUST-0108,Jordan Williams,East,Office Supplies,Notebook Pack,10,18.99,0.2,Cash,Shipped,151.92,2025,4,Apr,2025-04,Saturday
+ORD-10075,2025-07-30,CUST-0271,Quinn Miller,Central,Electronics,Bluetooth Speaker,9,49.99,0.25,Credit Card,Shipped,337.43,2025,7,Jul,2025-07,Wednesday
+ORD-11152,2025-12-16,CUST-0101,Cameron Johnson,East,Furniture,Desk Lamp,6,34.99,0.0,Bank Transfer,Returned,209.94,2025,12,Dec,2025-12,Tuesday
+ORD-11010,2025-01-10,CUST-0342,Morgan Smith,West,Furniture,Bookshelf,1,119.99,0.25,Debit Card,Completed,89.99,2025,1,Jan,2025-01,Friday
+ORD-10501,2025-02-04,CUST-0316,Morgan Martinez,West,Office Supplies,Whiteboard Markers,3,8.99,0.0,Debit Card,Shipped,26.97,2025,2,Feb,2025-02,Tuesday
+ORD-10848,2025-04-16,CUST-0283,Morgan Martinez,Central,Office Supplies,Stapler & Clips Set,6,14.99,0.05,Bank Transfer,Returned,85.44,2025,4,Apr,2025-04,Wednesday
+ORD-10617,2025-08-05,CUST-0263,Taylor Johnson,North,Office Supplies,Stapler & Clips Set,7,14.99,0.25,PayPal,Completed,78.7,2025,8,Aug,2025-08,Tuesday
+ORD-10115,2025-06-23,CUST-0194,Quinn Williams,North,Clothing,Denim Jeans,6,55.0,0.2,Cash,Completed,264.0,2025,6,Jun,2025-06,Monday
+ORD-10418,2025-06-23,CUST-0317,Pat Johnson,East,Clothing,Winter Jacket,10,120.0,0.25,Debit Card,Shipped,900.0,2025,6,Jun,2025-06,Monday
+ORD-10602,2025-12-23,CUST-0196,Alex Lopez,Central,Electronics,4K Monitor,6,349.99,0.05,Cash,Completed,1994.94,2025,12,Dec,2025-12,Tuesday
+ORD-10605,2025-04-19,CUST-0115,Morgan Miller,West,Electronics,Mechanical Keyboard,7,89.99,0.05,Debit Card,Completed,598.43,2025,4,Apr,2025-04,Saturday
+ORD-10090,2025-12-21,CUST-0308,Cameron Williams,East,Electronics,4K Monitor,8,349.99,0.25,PayPal,Completed,2099.94,2025,12,Dec,2025-12,Sunday
+ORD-10874,2025-05-20,CUST-0225,Chris Martinez,Central,Furniture,Standing Desk,1,499.99,0.05,Cash,Cancelled,474.99,2025,5,May,2025-05,Tuesday
+ORD-11179,2025-06-23,CUST-0328,Taylor Lopez,South,Office Supplies,Stapler & Clips Set,6,14.99,0.05,PayPal,Completed,85.44,2025,6,Jun,2025-06,Monday
+ORD-10499,2025-12-22,CUST-0133,Alex Gonzalez,West,Office Supplies,Notebook Pack,9,18.99,0.15,Cash,Completed,145.27,2025,12,Dec,2025-12,Monday
+ORD-10928,2025-11-08,CUST-0247,Quinn Jones,North,Clothing,Running Shoes,10,85.0,0.0,Unspecified,Completed,850.0,2025,11,Nov,2025-11,Saturday
+ORD-10935,2025-03-05,CUST-0295,Riley Miller,Central,Electronics,Mechanical Keyboard,2,89.99,0.05,Bank Transfer,Returned,170.98,2025,3,Mar,2025-03,Wednesday
+ORD-10933,2025-12-01,CUST-0120,Avery Jones,West,Clothing,Cotton Hoodie,5,45.0,0.0,Credit Card,Returned,225.0,2025,12,Dec,2025-12,Monday
+ORD-10012,2025-06-19,CUST-0161,Sam Hernandez,Central,Furniture,File Cabinet,7,89.99,0.0,Debit Card,Completed,629.93,2025,6,Jun,2025-06,Thursday
+ORD-10397,2025-04-27,CUST-0349,Sam Gonzalez,East,Furniture,Bookshelf,3,119.99,0.1,PayPal,Returned,323.97,2025,4,Apr,2025-04,Sunday
+ORD-11095,2025-07-20,CUST-0272,Cameron Davis,North,Electronics,Bluetooth Speaker,2,49.99,0.0,Bank Transfer,Completed,99.98,2025,7,Jul,2025-07,Sunday
+ORD-10556,2025-07-20,CUST-0309,Dakota Williams,West,Clothing,Casual Polo Shirt,7,32.0,0.2,Debit Card,Completed,179.2,2025,7,Jul,2025-07,Sunday
+ORD-10043,2025-09-05,CUST-0251,Quinn Rodriguez,East,Electronics,Smart Watch,1,199.99,0.05,Credit Card,Returned,189.99,2025,9,Sep,2025-09,Friday
+ORD-10168,2025-08-19,CUST-0321,Skyler Johnson,South,Electronics,Smart Watch,6,199.99,0.2,PayPal,Cancelled,959.95,2025,8,Aug,2025-08,Tuesday
+ORD-10417,2025-04-02,CUST-0273,Riley Hernandez,North,Clothing,Denim Jeans,10,55.0,0.25,PayPal,Completed,412.5,2025,4,Apr,2025-04,Wednesday
+ORD-10577,2025-10-02,CUST-0128,Riley Hernandez,East,Furniture,Standing Desk,4,499.99,0.0,Bank Transfer,Completed,1999.96,2025,10,Oct,2025-10,Thursday
+ORD-10268,2025-02-28,CUST-0223,Riley Brown,South,Clothing,Cotton Hoodie,3,45.0,0.0,Cash,Completed,135.0,2025,2,Feb,2025-02,Friday
+ORD-11076,2025-01-31,CUST-0259,Alex Davis,West,Electronics,4K Monitor,4,349.99,0.1,Credit Card,Completed,1259.96,2025,1,Jan,2025-01,Friday
+ORD-10427,2025-01-25,CUST-0247,Pat Gonzalez,Central,Electronics,Mechanical Keyboard,2,89.99,0.2,PayPal,Completed,143.98,2025,1,Jan,2025-01,Saturday
+ORD-10691,2025-07-11,CUST-0350,Unknown Customer,East,Office Supplies,Paper Reams (5-Pack),1,24.99,0.05,Cash,Returned,23.74,2025,7,Jul,2025-07,Friday
+ORD-10545,2025-12-07,CUST-0111,Jordan Brown,Central,Electronics,4K Monitor,5,349.99,0.15,Cash,Completed,1487.46,2025,12,Dec,2025-12,Sunday
+ORD-11153,2025-01-26,CUST-0129,Chris Brown,Central,Furniture,Bookshelf,10,119.99,0.15,Bank Transfer,Completed,1019.91,2025,1,Jan,2025-01,Sunday
+ORD-10675,2025-10-26,CUST-0335,Unknown Customer,East,Office Supplies,Stapler & Clips Set,1,14.99,0.2,Debit Card,Returned,11.99,2025,10,Oct,2025-10,Sunday
+ORD-10690,2025-08-16,CUST-0120,Morgan Brown,North,Office Supplies,Stapler & Clips Set,3,14.99,0.2,Debit Card,Returned,35.98,2025,8,Aug,2025-08,Saturday
+ORD-11085,2025-03-01,CUST-0251,Riley Hernandez,North,Office Supplies,Paper Reams (5-Pack),4,24.99,0.2,Cash,Cancelled,79.97,2025,3,Mar,2025-03,Saturday
+ORD-10160,2025-04-16,CUST-0190,Riley Johnson,North,Clothing,Casual Polo Shirt,2,32.0,0.1,PayPal,Returned,57.6,2025,4,Apr,2025-04,Wednesday
+ORD-10936,2025-08-14,CUST-0263,Sam Williams,Central,Furniture,Ergonomic Office Chair,1,249.99,0.0,PayPal,Completed,249.99,2025,8,Aug,2025-08,Thursday
+ORD-10258,2025-10-11,CUST-0137,Unknown Customer,Central,Clothing,Denim Jeans,6,55.0,0.25,PayPal,Completed,247.5,2025,10,Oct,2025-10,Saturday
+ORD-11036,2025-05-01,CUST-0256,Casey Jones,South,Electronics,Smart Watch,6,199.99,0.2,PayPal,Shipped,959.95,2025,5,May,2025-05,Thursday
+ORD-10336,2025-10-23,CUST-0177,Chris Johnson,South,Clothing,Running Shoes,10,85.0,0.2,Bank Transfer,Completed,680.0,2025,10,Oct,2025-10,Thursday
+ORD-10016,2025-09-15,CUST-0236,Taylor Smith,North,Electronics,Smart Watch,4,199.99,0.2,Cash,Completed,639.97,2025,9,Sep,2025-09,Monday
+ORD-11063,2025-04-23,CUST-0201,Sam Brown,East,Office Supplies,Whiteboard Markers,8,8.99,0.25,Bank Transfer,Cancelled,53.94,2025,4,Apr,2025-04,Wednesday
+ORD-10325,2025-10-25,CUST-0305,Morgan Williams,South,Furniture,Desk Lamp,3,34.99,0.2,Credit Card,Cancelled,83.98,2025,10,Oct,2025-10,Saturday
+ORD-10608,2025-07-20,CUST-0350,Taylor Lopez,Central,Office Supplies,Stapler & Clips Set,3,14.99,0.15,Credit Card,Completed,38.22,2025,7,Jul,2025-07,Sunday
+ORD-11084,2025-06-30,CUST-0235,Morgan Williams,North,Clothing,Cotton Hoodie,7,45.0,0.1,Unspecified,Completed,283.5,2025,6,Jun,2025-06,Monday
+ORD-11186,2025-07-02,CUST-0137,Cameron Johnson,Central,Clothing,Cotton Hoodie,6,45.0,0.25,PayPal,Shipped,202.5,2025,7,Jul,2025-07,Wednesday
+ORD-10223,2025-12-02,CUST-0191,Morgan Lopez,East,Clothing,Casual Polo Shirt,2,32.0,0.25,Cash,Completed,48.0,2025,12,Dec,2025-12,Tuesday
+ORD-10180,2025-10-19,CUST-0240,Dakota Williams,Central,Electronics,Wireless Headphones,1,99.99,0.15,Cash,Completed,84.99,2025,10,Oct,2025-10,Sunday
+ORD-10100,2025-07-08,CUST-0233,Sam Gonzalez,West,Clothing,Cotton Hoodie,9,45.0,0.0,Debit Card,Shipped,405.0,2025,7,Jul,2025-07,Tuesday
+ORD-10758,2025-03-21,CUST-0143,Avery Garcia,East,Clothing,Cotton Hoodie,4,45.0,0.2,Cash,Completed,144.0,2025,3,Mar,2025-03,Friday
+ORD-10522,2025-04-04,CUST-0125,Pat Lopez,East,Furniture,Standing Desk,2,499.99,0.25,Bank Transfer,Cancelled,749.98,2025,4,Apr,2025-04,Friday
+ORD-10762,2025-07-29,CUST-0184,Avery Brown,East,Clothing,Cotton Hoodie,7,45.0,0.05,PayPal,Returned,299.25,2025,7,Jul,2025-07,Tuesday
+ORD-10023,2025-02-25,CUST-0110,Skyler Davis,East,Clothing,Casual Polo Shirt,4,32.0,0.05,Debit Card,Cancelled,121.6,2025,2,Feb,2025-02,Tuesday
+ORD-10357,2025-08-10,CUST-0201,Dakota Garcia,West,Clothing,Winter Jacket,8,120.0,0.2,Debit Card,Completed,768.0,2025,8,Aug,2025-08,Sunday
+ORD-10734,2025-12-23,CUST-0339,Riley Johnson,North,Electronics,Smart Watch,1,199.99,0.0,Debit Card,Returned,199.99,2025,12,Dec,2025-12,Tuesday
+ORD-11139,2025-09-16,CUST-0317,Avery Williams,North,Office Supplies,Stapler & Clips Set,1,14.99,0.15,Debit Card,Completed,12.74,2025,9,Sep,2025-09,Tuesday
+ORD-11142,2025-10-15,CUST-0293,Alex Johnson,Central,Office Supplies,Paper Reams (5-Pack),2,24.99,0.25,PayPal,Returned,37.48,2025,10,Oct,2025-10,Wednesday
+ORD-10612,2025-12-30,CUST-0167,Riley Jones,North,Clothing,Running Shoes,6,85.0,0.15,Cash,Completed,433.5,2025,12,Dec,2025-12,Tuesday
+ORD-11049,2025-05-17,CUST-0139,Reese Hernandez,North,Office Supplies,Paper Reams (5-Pack),7,24.99,0.0,Cash,Completed,174.93,2025,5,May,2025-05,Saturday
+ORD-10341,2025-06-24,CUST-0246,Avery Smith,East,Furniture,Bookshelf,8,119.99,0.25,PayPal,Cancelled,719.94,2025,6,Jun,2025-06,Tuesday
+ORD-10432,2025-09-06,CUST-0115,Skyler Johnson,West,Office Supplies,Paper Reams (5-Pack),2,24.99,0.25,PayPal,Returned,37.48,2025,9,Sep,2025-09,Saturday
+ORD-10827,2025-03-12,CUST-0147,Jordan Jones,West,Clothing,Casual Polo Shirt,4,32.0,0.25,Debit Card,Completed,96.0,2025,3,Mar,2025-03,Wednesday
+ORD-10218,2025-11-30,CUST-0106,Skyler Gonzalez,South,Electronics,4K Monitor,1,349.99,0.2,Debit Card,Returned,279.99,2025,11,Nov,2025-11,Sunday
+ORD-10204,2025-07-13,CUST-0197,Jordan Davis,West,Furniture,Standing Desk,5,499.99,0.1,Credit Card,Completed,2249.96,2025,7,Jul,2025-07,Sunday
+ORD-10959,2025-05-09,CUST-0334,Cameron Martinez,South,Electronics,Wireless Headphones,9,99.99,0.25,Debit Card,Cancelled,674.93,2025,5,May,2025-05,Friday
+ORD-10977,2025-09-12,CUST-0101,Taylor Smith,East,Clothing,Denim Jeans,2,55.0,0.25,Debit Card,Completed,82.5,2025,9,Sep,2025-09,Friday
+ORD-10094,2025-12-28,CUST-0258,Unknown Customer,Central,Furniture,Standing Desk,7,499.99,0.1,Credit Card,Completed,3149.94,2025,12,Dec,2025-12,Sunday
+ORD-10845,2025-10-16,CUST-0106,Dakota Davis,Central,Clothing,Casual Polo Shirt,4,32.0,0.2,Bank Transfer,Completed,102.4,2025,10,Oct,2025-10,Thursday
+ORD-10069,2025-06-20,CUST-0133,Quinn Martinez,South,Furniture,File Cabinet,3,89.99,0.0,PayPal,Shipped,269.97,2025,6,Jun,2025-06,Friday
+ORD-10948,2025-08-11,CUST-0339,Dakota Hernandez,West,Office Supplies,Gel Pen Set (12-pack),7,12.99,0.0,Debit Card,Cancelled,90.93,2025,8,Aug,2025-08,Monday
+ORD-10285,2025-09-15,CUST-0321,Dakota Gonzalez,Central,Electronics,Mechanical Keyboard,1,89.99,0.15,Debit Card,Cancelled,76.49,2025,9,Sep,2025-09,Monday
+ORD-10697,2025-03-09,CUST-0236,Cameron Miller,West,Office Supplies,Gel Pen Set (12-pack),5,12.99,0.1,Cash,Returned,58.46,2025,3,Mar,2025-03,Sunday
+ORD-10086,2025-08-13,CUST-0235,Casey Martinez,West,Office Supplies,Whiteboard Markers,10,8.99,0.25,Credit Card,Shipped,67.43,2025,8,Aug,2025-08,Wednesday
+ORD-10435,2025-07-05,CUST-0195,Unknown Customer,North,Electronics,Mechanical Keyboard,4,89.99,0.15,Debit Card,Returned,305.97,2025,7,Jul,2025-07,Saturday
+ORD-10842,2025-03-20,CUST-0344,Sam Williams,West,Furniture,Ergonomic Office Chair,9,249.99,0.05,Debit Card,Completed,2137.41,2025,3,Mar,2025-03,Thursday
+ORD-10154,2025-11-30,CUST-0135,Sam Garcia,East,Furniture,Desk Lamp,6,34.99,0.25,Cash,Completed,157.45,2025,11,Nov,2025-11,Sunday
+ORD-10076,2025-07-08,CUST-0172,Avery Brown,East,Electronics,USB-C Hub,5,29.99,0.0,PayPal,Completed,149.95,2025,7,Jul,2025-07,Tuesday
+ORD-11073,2025-03-10,CUST-0174,Unknown Customer,East,Furniture,Bookshelf,2,119.99,0.25,PayPal,Shipped,179.98,2025,3,Mar,2025-03,Monday
+ORD-10790,2025-06-28,CUST-0184,Skyler Garcia,East,Furniture,Standing Desk,4,499.99,0.05,Credit Card,Completed,1899.96,2025,6,Jun,2025-06,Saturday
+ORD-10581,2025-10-30,CUST-0139,Morgan Johnson,South,Electronics,Bluetooth Speaker,10,49.99,0.0,Cash,Returned,499.9,2025,10,Oct,2025-10,Thursday
+ORD-10447,2025-03-19,CUST-0337,Dakota Hernandez,South,Electronics,Smart Watch,8,199.99,0.25,Credit Card,Completed,1199.94,2025,3,Mar,2025-03,Wednesday
+ORD-10704,2025-04-24,CUST-0184,Taylor Rodriguez,North,Clothing,Denim Jeans,1,55.0,0.25,Debit Card,Shipped,41.25,2025,4,Apr,2025-04,Thursday
+ORD-10189,2025-07-31,CUST-0196,Riley Lopez,South,Electronics,USB-C Hub,10,29.99,0.15,PayPal,Completed,254.91,2025,7,Jul,2025-07,Thursday
+ORD-10272,2025-01-23,CUST-0210,Morgan Gonzalez,Central,Clothing,Casual Polo Shirt,10,32.0,0.05,PayPal,Completed,304.0,2025,1,Jan,2025-01,Thursday
+ORD-10237,2025-11-13,CUST-0270,Reese Brown,Central,Clothing,Running Shoes,1,85.0,0.05,Bank Transfer,Cancelled,80.75,2025,11,Nov,2025-11,Thursday
+ORD-10488,2025-11-14,CUST-0349,Taylor Smith,Central,Clothing,Casual Polo Shirt,6,32.0,0.05,Cash,Completed,182.4,2025,11,Nov,2025-11,Friday
+ORD-11190,2025-06-08,CUST-0219,Dakota Brown,East,Electronics,USB-C Hub,2,29.99,0.05,Cash,Returned,56.98,2025,6,Jun,2025-06,Sunday
+ORD-10560,2025-12-10,CUST-0300,Riley Hernandez,North,Clothing,Casual Polo Shirt,8,32.0,0.2,Cash,Shipped,204.8,2025,12,Dec,2025-12,Wednesday
+ORD-10118,2025-11-14,CUST-0198,Taylor Hernandez,North,Electronics,Smart Watch,7,199.99,0.15,Cash,Cancelled,1189.94,2025,11,Nov,2025-11,Friday
+ORD-10638,2025-08-04,CUST-0216,Taylor Martinez,Central,Clothing,Running Shoes,10,85.0,0.15,Bank Transfer,Shipped,722.5,2025,8,Aug,2025-08,Monday
+ORD-11107,2025-04-27,CUST-0238,Quinn Gonzalez,West,Clothing,Running Shoes,3,85.0,0.2,Debit Card,Completed,204.0,2025,4,Apr,2025-04,Sunday
+ORD-10802,2025-08-21,CUST-0240,Riley Johnson,South,Office Supplies,Whiteboard Markers,8,8.99,0.15,Debit Card,Completed,61.13,2025,8,Aug,2025-08,Thursday
+ORD-10751,2025-01-19,CUST-0202,Morgan Williams,South,Electronics,Smart Watch,5,199.99,0.15,PayPal,Cancelled,849.96,2025,1,Jan,2025-01,Sunday
+ORD-10513,2025-06-20,CUST-0185,Sam Jones,Central,Office Supplies,Gel Pen Set (12-pack),9,12.99,0.0,Debit Card,Cancelled,116.91,2025,6,Jun,2025-06,Friday
+ORD-10634,2025-10-26,CUST-0251,Sam Williams,West,Clothing,Winter Jacket,6,120.0,0.2,PayPal,Completed,576.0,2025,10,Oct,2025-10,Sunday
+ORD-10830,2025-04-01,CUST-0309,Unknown Customer,North,Electronics,USB-C Hub,5,29.99,0.25,Cash,Completed,112.46,2025,4,Apr,2025-04,Tuesday
+ORD-11046,2025-06-14,CUST-0298,Dakota Jones,South,Furniture,Ergonomic Office Chair,9,249.99,0.0,Credit Card,Shipped,2249.91,2025,6,Jun,2025-06,Saturday
+ORD-10904,2025-02-04,CUST-0168,Cameron Hernandez,South,Clothing,Denim Jeans,2,55.0,0.0,PayPal,Shipped,110.0,2025,2,Feb,2025-02,Tuesday
+ORD-10127,2025-05-01,CUST-0169,Chris Jones,East,Electronics,Bluetooth Speaker,2,49.99,0.05,Cash,Returned,94.98,2025,5,May,2025-05,Thursday
+ORD-10791,2025-03-05,CUST-0197,Alex Davis,North,Furniture,Desk Lamp,4,34.99,0.2,Credit Card,Shipped,111.97,2025,3,Mar,2025-03,Wednesday
+ORD-10117,2025-02-26,CUST-0250,Sam Gonzalez,West,Electronics,USB-C Hub,10,29.99,0.25,Bank Transfer,Returned,224.92,2025,2,Feb,2025-02,Wednesday
+ORD-10474,2025-08-18,CUST-0289,Alex Davis,Central,Furniture,File Cabinet,9,89.99,0.05,Debit Card,Cancelled,769.41,2025,8,Aug,2025-08,Monday
+ORD-10741,2025-05-18,CUST-0203,Avery Smith,Central,Furniture,Bookshelf,4,119.99,0.2,PayPal,Cancelled,383.97,2025,5,May,2025-05,Sunday
+ORD-11041,2025-04-06,CUST-0303,Morgan Garcia,East,Office Supplies,Paper Reams (5-Pack),10,24.99,0.15,Credit Card,Completed,212.41,2025,4,Apr,2025-04,Sunday
+ORD-10058,2025-09-07,CUST-0110,Avery Johnson,North,Office Supplies,Gel Pen Set (12-pack),2,12.99,0.25,Credit Card,Cancelled,19.48,2025,9,Sep,2025-09,Sunday
+ORD-10604,2025-09-15,CUST-0202,Skyler Miller,East,Clothing,Denim Jeans,4,55.0,0.05,Credit Card,Completed,209.0,2025,9,Sep,2025-09,Monday
+ORD-10787,2025-11-09,CUST-0149,Quinn Johnson,West,Clothing,Casual Polo Shirt,3,32.0,0.0,Cash,Shipped,96.0,2025,11,Nov,2025-11,Sunday
+ORD-10831,2025-09-12,CUST-0140,Avery Garcia,North,Clothing,Winter Jacket,4,120.0,0.05,Bank Transfer,Completed,456.0,2025,9,Sep,2025-09,Friday
+ORD-10120,2025-05-07,CUST-0177,Morgan Jones,East,Furniture,Desk Lamp,5,34.99,0.2,Bank Transfer,Completed,139.96,2025,5,May,2025-05,Wednesday
+ORD-10657,2025-12-07,CUST-0244,Taylor Johnson,West,Furniture,Standing Desk,4,499.99,0.1,Bank Transfer,Completed,1799.96,2025,12,Dec,2025-12,Sunday
+ORD-11182,2025-02-02,CUST-0332,Sam Williams,East,Office Supplies,Whiteboard Markers,1,8.99,0.2,Debit Card,Cancelled,7.19,2025,2,Feb,2025-02,Sunday
+ORD-10106,2025-10-10,CUST-0327,Jordan Johnson,West,Clothing,Denim Jeans,2,55.0,0.1,Bank Transfer,Shipped,99.0,2025,10,Oct,2025-10,Friday
+ORD-10636,2025-07-03,CUST-0156,Dakota Garcia,North,Office Supplies,Paper Reams (5-Pack),6,24.99,0.2,PayPal,Completed,119.95,2025,7,Jul,2025-07,Thursday
+ORD-10370,2025-02-26,CUST-0165,Sam Davis,West,Electronics,Mechanical Keyboard,7,89.99,0.25,Debit Card,Cancelled,472.45,2025,2,Feb,2025-02,Wednesday
+ORD-10269,2025-05-13,CUST-0233,Pat Martinez,East,Electronics,Mechanical Keyboard,10,89.99,0.15,Bank Transfer,Cancelled,764.92,2025,5,May,2025-05,Tuesday
+ORD-10656,2025-08-21,CUST-0173,Skyler Martinez,North,Clothing,Casual Polo Shirt,1,32.0,0.05,Debit Card,Shipped,30.4,2025,8,Aug,2025-08,Thursday
+ORD-10820,2025-05-05,CUST-0320,Avery Davis,Central,Clothing,Denim Jeans,3,55.0,0.2,Cash,Completed,132.0,2025,5,May,2025-05,Monday
+ORD-10823,2025-02-03,CUST-0144,Alex Rodriguez,West,Electronics,Bluetooth Speaker,6,49.99,0.25,Debit Card,Returned,224.96,2025,2,Feb,2025-02,Monday
+ORD-10047,2025-08-29,CUST-0160,Sam Lopez,South,Clothing,Cotton Hoodie,10,45.0,0.05,Cash,Completed,427.5,2025,8,Aug,2025-08,Friday
+ORD-10350,2025-08-28,CUST-0180,Dakota Hernandez,South,Clothing,Winter Jacket,10,120.0,0.1,Debit Card,Completed,1080.0,2025,8,Aug,2025-08,Thursday
+ORD-10774,2025-01-27,CUST-0263,Jordan Brown,West,Clothing,Cotton Hoodie,4,45.0,0.1,Cash,Completed,162.0,2025,1,Jan,2025-01,Monday
+ORD-10196,2025-07-03,CUST-0301,Riley Garcia,East,Office Supplies,Stapler & Clips Set,4,14.99,0.1,Bank Transfer,Cancelled,53.96,2025,7,Jul,2025-07,Thursday
+ORD-10103,2025-07-10,CUST-0120,Avery Williams,East,Clothing,Casual Polo Shirt,3,32.0,0.15,Credit Card,Completed,81.6,2025,7,Jul,2025-07,Thursday
+ORD-10005,2025-01-29,CUST-0109,Quinn Garcia,Central,Electronics,Smart Watch,8,199.99,0.25,Debit Card,Returned,1199.94,2025,1,Jan,2025-01,Wednesday
+ORD-10620,2025-01-02,CUST-0342,Skyler Williams,South,Electronics,Wireless Headphones,9,99.99,0.2,Debit Card,Completed,719.93,2025,1,Jan,2025-01,Thursday
+ORD-10572,2025-01-06,CUST-0209,Dakota Rodriguez,West,Furniture,Desk Lamp,9,34.99,0.0,PayPal,Returned,314.91,2025,1,Jan,2025-01,Monday
+ORD-10053,2025-08-25,CUST-0266,Skyler Williams,East,Office Supplies,Notebook Pack,8,18.99,0.2,PayPal,Shipped,121.54,2025,8,Aug,2025-08,Monday
+ORD-10264,2025-12-06,CUST-0347,Quinn Martinez,South,Furniture,Desk Lamp,3,34.99,0.15,Credit Card,Completed,89.22,2025,12,Dec,2025-12,Saturday
+ORD-11123,2025-03-05,CUST-0217,Casey Rodriguez,Central,Clothing,Denim Jeans,9,55.0,0.05,Cash,Completed,470.25,2025,3,Mar,2025-03,Wednesday
+ORD-10444,2025-02-07,CUST-0116,Alex Garcia,Central,Clothing,Casual Polo Shirt,10,32.0,0.0,Cash,Completed,320.0,2025,2,Feb,2025-02,Friday
+ORD-11027,2025-06-10,CUST-0339,Taylor Brown,West,Clothing,Cotton Hoodie,1,45.0,0.05,Credit Card,Completed,42.75,2025,6,Jun,2025-06,Tuesday
+ORD-10783,2025-06-16,CUST-0288,Pat Williams,South,Office Supplies,Notebook Pack,6,18.99,0.25,Cash,Returned,85.46,2025,6,Jun,2025-06,Monday
+ORD-10838,2025-08-01,CUST-0197,Sam Brown,Central,Clothing,Casual Polo Shirt,1,32.0,0.15,PayPal,Completed,27.2,2025,8,Aug,2025-08,Friday
+ORD-11184,2025-10-29,CUST-0169,Taylor Miller,East,Office Supplies,Paper Reams (5-Pack),4,24.99,0.05,Credit Card,Completed,94.96,2025,10,Oct,2025-10,Wednesday
+ORD-10692,2025-09-18,CUST-0283,Chris Brown,South,Electronics,Mechanical Keyboard,2,89.99,0.05,Cash,Returned,170.98,2025,9,Sep,2025-09,Thursday
+ORD-10305,2025-11-03,CUST-0242,Taylor Johnson,East,Clothing,Casual Polo Shirt,9,32.0,0.05,Cash,Cancelled,273.6,2025,11,Nov,2025-11,Monday
+ORD-10342,2025-10-02,CUST-0219,Quinn Miller,East,Electronics,USB-C Hub,9,29.99,0.05,Debit Card,Cancelled,256.41,2025,10,Oct,2025-10,Thursday
+ORD-10919,2025-05-19,CUST-0132,Jordan Brown,West,Furniture,Standing Desk,4,499.99,0.0,Debit Card,Cancelled,1999.96,2025,5,May,2025-05,Monday
+ORD-10314,2025-06-16,CUST-0145,Riley Lopez,East,Electronics,USB-C Hub,7,29.99,0.0,Debit Card,Cancelled,209.93,2025,6,Jun,2025-06,Monday
+ORD-10150,2025-11-13,CUST-0164,Reese Johnson,South,Furniture,Desk Lamp,2,34.99,0.1,Debit Card,Completed,62.98,2025,11,Nov,2025-11,Thursday
+ORD-10125,2025-05-26,CUST-0265,Casey Rodriguez,West,Furniture,File Cabinet,6,89.99,0.15,Unspecified,Completed,458.95,2025,5,May,2025-05,Monday
+ORD-11093,2025-07-11,CUST-0103,Casey Williams,Central,Electronics,Bluetooth Speaker,8,49.99,0.05,Bank Transfer,Completed,379.92,2025,7,Jul,2025-07,Friday
+ORD-10575,2025-11-26,CUST-0329,Alex Davis,East,Clothing,Cotton Hoodie,5,45.0,0.0,PayPal,Completed,225.0,2025,11,Nov,2025-11,Wednesday
+ORD-10698,2025-01-24,CUST-0336,Chris Davis,East,Clothing,Winter Jacket,3,120.0,0.2,Cash,Completed,288.0,2025,1,Jan,2025-01,Friday
+ORD-10665,2025-12-25,CUST-0222,Riley Jones,West,Electronics,USB-C Hub,7,29.99,0.0,Bank Transfer,Completed,209.93,2025,12,Dec,2025-12,Thursday
+ORD-10051,2025-06-11,CUST-0130,Quinn Miller,Central,Electronics,Mechanical Keyboard,9,89.99,0.15,Credit Card,Shipped,688.42,2025,6,Jun,2025-06,Wednesday
+ORD-10912,2025-05-28,CUST-0159,Chris Garcia,East,Furniture,Bookshelf,7,119.99,0.2,PayPal,Cancelled,671.94,2025,5,May,2025-05,Wednesday
+ORD-10727,2025-06-09,CUST-0182,Casey Johnson,East,Furniture,Standing Desk,9,499.99,0.25,Credit Card,Completed,3374.93,2025,6,Jun,2025-06,Monday
+ORD-10800,2025-06-04,CUST-0350,Riley Hernandez,East,Office Supplies,Gel Pen Set (12-pack),10,12.99,0.0,Bank Transfer,Cancelled,129.9,2025,6,Jun,2025-06,Wednesday
+ORD-10834,2025-05-28,CUST-0279,Alex Rodriguez,East,Furniture,Ergonomic Office Chair,10,249.99,0.25,Credit Card,Completed,1874.93,2025,5,May,2025-05,Wednesday
+ORD-10354,2025-02-05,CUST-0276,Skyler Martinez,West,Clothing,Casual Polo Shirt,4,32.0,0.2,Credit Card,Returned,102.4,2025,2,Feb,2025-02,Wednesday
+ORD-11183,2025-06-24,CUST-0203,Avery Williams,West,Office Supplies,Notebook Pack,3,18.99,0.0,Debit Card,Completed,56.97,2025,6,Jun,2025-06,Tuesday
+ORD-10143,2025-01-25,CUST-0206,Taylor Hernandez,South,Furniture,Ergonomic Office Chair,10,249.99,0.2,Unspecified,Shipped,1999.92,2025,1,Jan,2025-01,Saturday
+ORD-10471,2025-06-10,CUST-0103,Skyler Jones,West,Furniture,Desk Lamp,10,34.99,0.25,Debit Card,Cancelled,262.42,2025,6,Jun,2025-06,Tuesday
+ORD-10654,2025-06-28,CUST-0201,Avery Miller,South,Office Supplies,Whiteboard Markers,6,8.99,0.0,Bank Transfer,Cancelled,53.94,2025,6,Jun,2025-06,Saturday
+ORD-10400,2025-06-01,CUST-0175,Quinn Martinez,North,Clothing,Casual Polo Shirt,3,32.0,0.0,Bank Transfer,Completed,96.0,2025,6,Jun,2025-06,Sunday
+ORD-10951,2025-01-05,CUST-0283,Chris Gonzalez,North,Office Supplies,Paper Reams (5-Pack),9,24.99,0.05,Cash,Completed,213.66,2025,1,Jan,2025-01,Sunday
+ORD-10970,2025-11-28,CUST-0101,Jordan Miller,Central,Office Supplies,Gel Pen Set (12-pack),2,12.99,0.05,Credit Card,Completed,24.68,2025,11,Nov,2025-11,Friday
+ORD-10321,2025-04-13,CUST-0259,Sam Smith,West,Electronics,Wireless Headphones,6,99.99,0.0,Bank Transfer,Completed,599.94,2025,4,Apr,2025-04,Sunday
+ORD-10020,2025-01-27,CUST-0209,Skyler Jones,East,Office Supplies,Gel Pen Set (12-pack),7,12.99,0.0,PayPal,Cancelled,90.93,2025,1,Jan,2025-01,Monday
+ORD-10685,2025-07-18,CUST-0339,Dakota Jones,Central,Clothing,Winter Jacket,5,120.0,0.15,PayPal,Completed,510.0,2025,7,Jul,2025-07,Friday
+ORD-10036,2025-01-11,CUST-0162,Taylor Davis,East,Furniture,Desk Lamp,10,34.99,0.25,PayPal,Completed,262.42,2025,1,Jan,2025-01,Saturday
+ORD-10825,2025-10-04,CUST-0251,Chris Smith,East,Electronics,Mechanical Keyboard,2,89.99,0.2,PayPal,Completed,143.98,2025,10,Oct,2025-10,Saturday
+ORD-10506,2025-03-31,CUST-0168,Reese Williams,South,Furniture,Standing Desk,2,499.99,0.25,Credit Card,Completed,749.98,2025,3,Mar,2025-03,Monday
+ORD-10828,2025-09-26,CUST-0326,Avery Smith,East,Electronics,Mechanical Keyboard,9,89.99,0.1,Credit Card,Shipped,728.92,2025,9,Sep,2025-09,Friday
+ORD-11101,2025-04-30,CUST-0285,Pat Smith,East,Furniture,Ergonomic Office Chair,7,249.99,0.0,PayPal,Completed,1749.93,2025,4,Apr,2025-04,Wednesday
+ORD-10408,2025-09-21,CUST-0261,Taylor Gonzalez,East,Furniture,File Cabinet,5,89.99,0.25,Credit Card,Completed,337.46,2025,9,Sep,2025-09,Sunday
+ORD-10818,2025-04-02,CUST-0279,Jordan Brown,South,Clothing,Casual Polo Shirt,7,32.0,0.15,Debit Card,Completed,190.4,2025,4,Apr,2025-04,Wednesday
+ORD-10867,2025-11-20,CUST-0194,Alex Miller,Central,Furniture,Standing Desk,1,499.99,0.05,Unspecified,Completed,474.99,2025,11,Nov,2025-11,Thursday
+ORD-10538,2025-11-25,CUST-0119,Pat Smith,Central,Electronics,4K Monitor,5,349.99,0.25,Bank Transfer,Completed,1312.46,2025,11,Nov,2025-11,Tuesday
+ORD-10759,2025-02-19,CUST-0155,Jordan Martinez,Central,Furniture,Desk Lamp,7,34.99,0.1,Debit Card,Returned,220.44,2025,2,Feb,2025-02,Wednesday
+ORD-11099,2025-04-24,CUST-0203,Casey Lopez,South,Electronics,4K Monitor,3,349.99,0.2,Cash,Completed,839.98,2025,4,Apr,2025-04,Thursday
+ORD-10946,2025-05-26,CUST-0319,Chris Hernandez,East,Clothing,Winter Jacket,7,120.0,0.05,Debit Card,Completed,798.0,2025,5,May,2025-05,Monday
+ORD-10039,2025-04-01,CUST-0348,Dakota Jones,West,Clothing,Winter Jacket,6,120.0,0.0,Bank Transfer,Completed,720.0,2025,4,Apr,2025-04,Tuesday
+ORD-10176,2025-02-15,CUST-0127,Jordan Garcia,West,Office Supplies,Gel Pen Set (12-pack),3,12.99,0.25,Cash,Shipped,29.23,2025,2,Feb,2025-02,Saturday
+ORD-10246,2025-12-30,CUST-0292,Cameron Rodriguez,Central,Clothing,Cotton Hoodie,1,45.0,0.05,PayPal,Returned,42.75,2025,12,Dec,2025-12,Tuesday
+ORD-10811,2025-08-04,CUST-0127,Skyler Gonzalez,Central,Office Supplies,Whiteboard Markers,5,8.99,0.0,Bank Transfer,Completed,44.95,2025,8,Aug,2025-08,Monday
+ORD-11115,2025-03-26,CUST-0209,Jordan Williams,South,Furniture,Ergonomic Office Chair,8,249.99,0.15,Cash,Cancelled,1699.93,2025,3,Mar,2025-03,Wednesday
+ORD-11020,2025-02-17,CUST-0198,Avery Miller,North,Electronics,Smart Watch,2,199.99,0.25,PayPal,Completed,299.98,2025,2,Feb,2025-02,Monday
+ORD-10785,2025-05-13,CUST-0292,Cameron Smith,West,Clothing,Winter Jacket,9,120.0,0.2,Cash,Completed,864.0,2025,5,May,2025-05,Tuesday
+ORD-10490,2025-12-29,CUST-0163,Dakota Garcia,East,Clothing,Denim Jeans,1,55.0,0.0,PayPal,Returned,55.0,2025,12,Dec,2025-12,Monday
+ORD-10155,2025-07-12,CUST-0302,Pat Garcia,Central,Furniture,File Cabinet,1,89.99,0.15,PayPal,Completed,76.49,2025,7,Jul,2025-07,Saturday
+ORD-10639,2025-09-28,CUST-0266,Alex Johnson,East,Clothing,Casual Polo Shirt,2,32.0,0.1,Credit Card,Returned,57.6,2025,9,Sep,2025-09,Sunday
+ORD-10663,2025-01-04,CUST-0260,Reese Brown,Central,Electronics,Smart Watch,4,199.99,0.0,Cash,Completed,799.96,2025,1,Jan,2025-01,Saturday
+ORD-10854,2025-07-14,CUST-0297,Alex Martinez,Central,Office Supplies,Stapler & Clips Set,1,14.99,0.25,Debit Card,Completed,11.24,2025,7,Jul,2025-07,Monday
+ORD-10288,2025-11-19,CUST-0285,Chris Gonzalez,Central,Office Supplies,Notebook Pack,3,18.99,0.1,Credit Card,Completed,51.27,2025,11,Nov,2025-11,Wednesday
+ORD-10626,2025-04-09,CUST-0201,Skyler Smith,West,Clothing,Running Shoes,6,85.0,0.15,PayPal,Returned,433.5,2025,4,Apr,2025-04,Wednesday
+ORD-11157,2025-01-31,CUST-0225,Unknown Customer,Central,Electronics,4K Monitor,9,349.99,0.2,Bank Transfer,Completed,2519.93,2025,1,Jan,2025-01,Friday
+ORD-10686,2025-05-24,CUST-0344,Sam Johnson,Central,Office Supplies,Whiteboard Markers,6,8.99,0.1,Unspecified,Completed,48.55,2025,5,May,2025-05,Saturday
+ORD-11047,2025-09-05,CUST-0151,Casey Lopez,North,Furniture,Bookshelf,7,119.99,0.1,Credit Card,Completed,755.94,2025,9,Sep,2025-09,Friday
+ORD-10925,2025-08-20,CUST-0137,Skyler Miller,West,Furniture,Standing Desk,4,499.99,0.2,PayPal,Completed,1599.97,2025,8,Aug,2025-08,Wednesday
+ORD-10570,2025-03-06,CUST-0246,Reese Jones,Central,Office Supplies,Gel Pen Set (12-pack),8,12.99,0.15,Debit Card,Shipped,88.33,2025,3,Mar,2025-03,Thursday
+ORD-11174,2025-02-11,CUST-0152,Jordan Miller,West,Electronics,Bluetooth Speaker,7,49.99,0.15,Credit Card,Returned,297.44,2025,2,Feb,2025-02,Tuesday
+ORD-10735,2025-05-07,CUST-0275,Dakota Brown,North,Furniture,Bookshelf,5,119.99,0.1,PayPal,Completed,539.95,2025,5,May,2025-05,Wednesday
+ORD-10793,2025-02-27,CUST-0105,Alex Miller,East,Clothing,Cotton Hoodie,2,45.0,0.25,Credit Card,Cancelled,67.5,2025,2,Feb,2025-02,Thursday
+ORD-10018,2025-02-07,CUST-0230,Sam Williams,East,Electronics,Smart Watch,9,199.99,0.2,Unspecified,Cancelled,1439.93,2025,2,Feb,2025-02,Friday
+ORD-10128,2025-06-09,CUST-0264,Cameron Jones,South,Furniture,Standing Desk,10,499.99,0.25,Bank Transfer,Cancelled,3749.92,2025,6,Jun,2025-06,Monday
+ORD-10323,2025-01-10,CUST-0191,Chris Hernandez,East,Office Supplies,Paper Reams (5-Pack),1,24.99,0.1,Debit Card,Returned,22.49,2025,1,Jan,2025-01,Friday
+ORD-10256,2025-01-04,CUST-0259,Jordan Gonzalez,North,Electronics,Mechanical Keyboard,5,89.99,0.1,Debit Card,Completed,404.96,2025,1,Jan,2025-01,Saturday
+ORD-10999,2025-06-08,CUST-0165,Jordan Davis,West,Clothing,Casual Polo Shirt,6,32.0,0.0,PayPal,Completed,192.0,2025,6,Jun,2025-06,Sunday
+ORD-10191,2025-10-02,CUST-0298,Morgan Davis,North,Office Supplies,Paper Reams (5-Pack),10,24.99,0.1,PayPal,Completed,224.91,2025,10,Oct,2025-10,Thursday
+ORD-10116,2025-06-17,CUST-0182,Taylor Miller,East,Office Supplies,Notebook Pack,8,18.99,0.1,Credit Card,Returned,136.73,2025,6,Jun,2025-06,Tuesday
+ORD-10942,2025-09-07,CUST-0226,Cameron Miller,South,Clothing,Winter Jacket,3,120.0,0.2,Bank Transfer,Completed,288.0,2025,9,Sep,2025-09,Sunday
+ORD-10607,2025-11-23,CUST-0162,Sam Johnson,West,Electronics,USB-C Hub,5,29.99,0.1,Bank Transfer,Completed,134.95,2025,11,Nov,2025-11,Sunday
+ORD-10181,2025-12-26,CUST-0264,Casey Rodriguez,East,Office Supplies,Paper Reams (5-Pack),3,24.99,0.15,Credit Card,Completed,63.72,2025,12,Dec,2025-12,Friday
+ORD-10302,2025-01-08,CUST-0171,Avery Johnson,North,Furniture,Ergonomic Office Chair,10,249.99,0.0,Bank Transfer,Shipped,2499.9,2025,1,Jan,2025-01,Wednesday
+ORD-10497,2025-04-26,CUST-0209,Jordan Brown,North,Office Supplies,Whiteboard Markers,8,8.99,0.0,Debit Card,Completed,71.92,2025,4,Apr,2025-04,Saturday
+ORD-10349,2025-02-14,CUST-0146,Reese Martinez,East,Clothing,Denim Jeans,9,55.0,0.15,Credit Card,Returned,420.75,2025,2,Feb,2025-02,Friday
+ORD-11066,2025-09-08,CUST-0341,Dakota Davis,South,Clothing,Casual Polo Shirt,6,32.0,0.1,Cash,Completed,172.8,2025,9,Sep,2025-09,Monday
+ORD-10037,2025-10-24,CUST-0180,Avery Hernandez,South,Clothing,Winter Jacket,4,120.0,0.1,Cash,Cancelled,432.0,2025,10,Oct,2025-10,Friday
+ORD-10745,2025-01-14,CUST-0256,Taylor Gonzalez,Central,Office Supplies,Whiteboard Markers,7,8.99,0.25,Bank Transfer,Completed,47.2,2025,1,Jan,2025-01,Tuesday
+ORD-11112,2025-03-02,CUST-0176,Taylor Gonzalez,West,Clothing,Winter Jacket,6,120.0,0.0,Credit Card,Returned,720.0,2025,3,Mar,2025-03,Sunday
+ORD-11097,2025-01-24,CUST-0338,Pat Lopez,Central,Clothing,Winter Jacket,10,120.0,0.1,Debit Card,Completed,1080.0,2025,1,Jan,2025-01,Friday
+ORD-10518,2025-11-05,CUST-0148,Morgan Johnson,South,Clothing,Casual Polo Shirt,2,32.0,0.1,PayPal,Completed,57.6,2025,11,Nov,2025-11,Wednesday
+ORD-10373,2025-07-19,CUST-0280,Chris Miller,West,Clothing,Winter Jacket,2,120.0,0.0,Bank Transfer,Shipped,240.0,2025,7,Jul,2025-07,Saturday
+ORD-10046,2025-06-02,CUST-0210,Sam Martinez,South,Electronics,Smart Watch,4,199.99,0.0,Bank Transfer,Shipped,799.96,2025,6,Jun,2025-06,Monday
+ORD-10477,2025-08-02,CUST-0137,Casey Williams,Central,Clothing,Running Shoes,4,85.0,0.0,Cash,Completed,340.0,2025,8,Aug,2025-08,Saturday
+ORD-10158,2025-10-16,CUST-0274,Dakota Miller,North,Office Supplies,Stapler & Clips Set,9,14.99,0.2,Cash,Completed,107.93,2025,10,Oct,2025-10,Thursday
+ORD-11158,2025-12-23,CUST-0223,Casey Jones,South,Furniture,Standing Desk,10,499.99,0.1,Unspecified,Completed,4499.91,2025,12,Dec,2025-12,Tuesday
+ORD-10172,2025-02-17,CUST-0218,Dakota Hernandez,West,Electronics,USB-C Hub,4,29.99,0.1,Debit Card,Completed,107.96,2025,2,Feb,2025-02,Monday
+ORD-10017,2025-08-03,CUST-0245,Casey Garcia,South,Furniture,Bookshelf,5,119.99,0.0,Cash,Completed,599.95,2025,8,Aug,2025-08,Sunday
+ORD-10512,2025-04-02,CUST-0168,Dakota Johnson,Central,Electronics,Bluetooth Speaker,5,49.99,0.0,Debit Card,Completed,249.95,2025,4,Apr,2025-04,Wednesday
+ORD-10049,2025-08-10,CUST-0255,Sam Smith,East,Electronics,Mechanical Keyboard,3,89.99,0.25,Debit Card,Shipped,202.48,2025,8,Aug,2025-08,Sunday
+ORD-10192,2025-09-20,CUST-0177,Unknown Customer,Central,Clothing,Winter Jacket,8,120.0,0.05,Credit Card,Completed,912.0,2025,9,Sep,2025-09,Saturday
+ORD-10547,2025-01-14,CUST-0323,Casey Jones,West,Furniture,Bookshelf,8,119.99,0.25,Unspecified,Completed,719.94,2025,1,Jan,2025-01,Tuesday
+ORD-10516,2025-07-01,CUST-0208,Pat Hernandez,Central,Office Supplies,Whiteboard Markers,3,8.99,0.1,Cash,Shipped,24.27,2025,7,Jul,2025-07,Tuesday
+ORD-10659,2025-08-25,CUST-0197,Quinn Miller,Central,Clothing,Casual Polo Shirt,8,32.0,0.15,Bank Transfer,Shipped,217.6,2025,8,Aug,2025-08,Monday
+ORD-10994,2025-12-05,CUST-0163,Pat Garcia,Central,Electronics,Bluetooth Speaker,7,49.99,0.05,Debit Card,Completed,332.43,2025,12,Dec,2025-12,Friday
+ORD-10829,2025-10-16,CUST-0118,Taylor Brown,Central,Clothing,Running Shoes,3,85.0,0.2,Bank Transfer,Cancelled,204.0,2025,10,Oct,2025-10,Thursday
+ORD-11034,2025-02-13,CUST-0144,Taylor Brown,North,Office Supplies,Gel Pen Set (12-pack),6,12.99,0.1,Bank Transfer,Returned,70.15,2025,2,Feb,2025-02,Thursday
+ORD-10481,2025-07-18,CUST-0202,Chris Rodriguez,North,Clothing,Casual Polo Shirt,10,32.0,0.25,Credit Card,Completed,240.0,2025,7,Jul,2025-07,Friday
+ORD-10960,2025-08-10,CUST-0232,Quinn Gonzalez,Central,Furniture,Standing Desk,2,499.99,0.25,Bank Transfer,Completed,749.98,2025,8,Aug,2025-08,Sunday
+ORD-11159,2025-08-23,CUST-0318,Skyler Williams,South,Electronics,Smart Watch,2,199.99,0.15,PayPal,Completed,339.98,2025,8,Aug,2025-08,Saturday
+ORD-10284,2025-09-10,CUST-0326,Cameron Martinez,Central,Clothing,Running Shoes,10,85.0,0.2,Bank Transfer,Completed,680.0,2025,9,Sep,2025-09,Wednesday
+ORD-11102,2025-06-04,CUST-0168,Jordan Martinez,South,Office Supplies,Paper Reams (5-Pack),10,24.99,0.0,Bank Transfer,Returned,249.9,2025,6,Jun,2025-06,Wednesday
+ORD-10798,2025-08-14,CUST-0255,Unknown Customer,East,Clothing,Winter Jacket,6,120.0,0.25,Bank Transfer,Cancelled,540.0,2025,8,Aug,2025-08,Thursday
+ORD-10995,2025-07-09,CUST-0194,Sam Williams,Central,Clothing,Cotton Hoodie,1,45.0,0.05,Cash,Shipped,42.75,2025,7,Jul,2025-07,Wednesday
+ORD-10226,2025-08-08,CUST-0199,Alex Smith,East,Office Supplies,Paper Reams (5-Pack),1,24.99,0.25,PayPal,Completed,18.74,2025,8,Aug,2025-08,Friday
+ORD-10027,2025-11-12,CUST-0204,Casey Smith,Central,Furniture,Desk Lamp,8,34.99,0.05,PayPal,Completed,265.92,2025,11,Nov,2025-11,Wednesday
+ORD-10283,2025-04-28,CUST-0164,Skyler Martinez,North,Electronics,Wireless Headphones,10,99.99,0.2,Bank Transfer,Completed,799.92,2025,4,Apr,2025-04,Monday
+ORD-11180,2025-12-20,CUST-0121,Reese Garcia,North,Clothing,Winter Jacket,6,120.0,0.25,Cash,Completed,540.0,2025,12,Dec,2025-12,Saturday
+ORD-11198,2025-11-22,CUST-0223,Skyler Gonzalez,North,Electronics,USB-C Hub,8,29.99,0.0,Debit Card,Shipped,239.92,2025,11,Nov,2025-11,Saturday
+ORD-10365,2025-09-11,CUST-0206,Quinn Miller,South,Clothing,Running Shoes,1,85.0,0.0,Bank Transfer,Completed,85.0,2025,9,Sep,2025-09,Thursday
+ORD-10230,2025-11-19,CUST-0208,Dakota Johnson,Central,Office Supplies,Notebook Pack,2,18.99,0.2,Credit Card,Completed,30.38,2025,11,Nov,2025-11,Wednesday
+ORD-10038,2025-10-17,CUST-0189,Casey Miller,East,Electronics,USB-C Hub,8,29.99,0.1,Bank Transfer,Completed,215.93,2025,10,Oct,2025-10,Friday
+ORD-10670,2025-01-20,CUST-0119,Riley Gonzalez,East,Electronics,Smart Watch,3,199.99,0.2,PayPal,Completed,479.98,2025,1,Jan,2025-01,Monday
+ORD-10750,2025-11-03,CUST-0165,Pat Garcia,East,Electronics,USB-C Hub,1,29.99,0.1,Cash,Returned,26.99,2025,11,Nov,2025-11,Monday
+ORD-10375,2025-12-05,CUST-0279,Pat Johnson,North,Office Supplies,Stapler & Clips Set,4,14.99,0.0,Cash,Completed,59.96,2025,12,Dec,2025-12,Friday
+ORD-10470,2025-08-11,CUST-0295,Alex Hernandez,North,Furniture,File Cabinet,9,89.99,0.15,Cash,Returned,688.42,2025,8,Aug,2025-08,Monday
+ORD-10883,2025-05-14,CUST-0267,Unknown Customer,South,Clothing,Running Shoes,2,85.0,0.05,Cash,Completed,161.5,2025,5,May,2025-05,Wednesday
+ORD-11055,2025-09-09,CUST-0347,Skyler Lopez,West,Furniture,Desk Lamp,5,34.99,0.05,PayPal,Shipped,166.2,2025,9,Sep,2025-09,Tuesday
+ORD-10688,2025-05-22,CUST-0242,Chris Johnson,East,Office Supplies,Whiteboard Markers,3,8.99,0.2,PayPal,Completed,21.58,2025,5,May,2025-05,Thursday
+ORD-10033,2025-06-30,CUST-0200,Skyler Miller,South,Furniture,Desk Lamp,7,34.99,0.25,PayPal,Completed,183.7,2025,6,Jun,2025-06,Monday
+ORD-10640,2025-08-21,CUST-0265,Cameron Johnson,South,Electronics,Wireless Headphones,2,99.99,0.25,PayPal,Completed,149.98,2025,8,Aug,2025-08,Thursday
+ORD-11069,2025-02-12,CUST-0252,Riley Johnson,West,Electronics,Smart Watch,3,199.99,0.05,Bank Transfer,Cancelled,569.97,2025,2,Feb,2025-02,Wednesday
+ORD-10195,2025-11-11,CUST-0163,Dakota Jones,North,Clothing,Cotton Hoodie,4,45.0,0.2,Cash,Completed,144.0,2025,11,Nov,2025-11,Tuesday
+ORD-11136,2025-07-08,CUST-0341,Jordan Gonzalez,East,Office Supplies,Notebook Pack,8,18.99,0.25,PayPal,Completed,113.94,2025,7,Jul,2025-07,Tuesday
+ORD-11144,2025-12-01,CUST-0230,Avery Gonzalez,South,Office Supplies,Whiteboard Markers,10,8.99,0.15,Cash,Cancelled,76.42,2025,12,Dec,2025-12,Monday
+ORD-11009,2025-07-28,CUST-0111,Skyler Garcia,West,Office Supplies,Gel Pen Set (12-pack),1,12.99,0.0,PayPal,Cancelled,12.99,2025,7,Jul,2025-07,Monday
+ORD-10504,2025-06-03,CUST-0142,Jordan Davis,South,Electronics,4K Monitor,4,349.99,0.05,Debit Card,Completed,1329.96,2025,6,Jun,2025-06,Tuesday
+ORD-10916,2025-09-08,CUST-0222,Pat Miller,North,Furniture,Standing Desk,1,499.99,0.0,Cash,Completed,499.99,2025,9,Sep,2025-09,Monday
+ORD-11031,2025-10-29,CUST-0147,Jordan Hernandez,Central,Clothing,Running Shoes,8,85.0,0.25,PayPal,Cancelled,510.0,2025,10,Oct,2025-10,Wednesday
+ORD-11118,2025-08-18,CUST-0238,Avery Gonzalez,North,Clothing,Denim Jeans,7,55.0,0.05,PayPal,Completed,365.75,2025,8,Aug,2025-08,Monday
+ORD-10801,2025-04-12,CUST-0104,Unknown Customer,West,Furniture,Standing Desk,8,499.99,0.05,Cash,Completed,3799.92,2025,4,Apr,2025-04,Saturday
+ORD-10580,2025-11-13,CUST-0231,Taylor Brown,South,Electronics,Bluetooth Speaker,8,49.99,0.0,Cash,Completed,399.92,2025,11,Nov,2025-11,Thursday
+ORD-10161,2025-05-05,CUST-0242,Taylor Garcia,West,Clothing,Running Shoes,7,85.0,0.25,PayPal,Completed,446.25,2025,5,May,2025-05,Monday
+ORD-11167,2025-12-25,CUST-0156,Jordan Rodriguez,Central,Furniture,File Cabinet,9,89.99,0.1,Credit Card,Completed,728.92,2025,12,Dec,2025-12,Thursday
+ORD-10681,2025-10-10,CUST-0268,Morgan Rodriguez,Central,Office Supplies,Notebook Pack,7,18.99,0.2,Credit Card,Completed,106.34,2025,10,Oct,2025-10,Friday
+ORD-10957,2025-04-15,CUST-0193,Jordan Gonzalez,Central,Office Supplies,Notebook Pack,3,18.99,0.0,Credit Card,Cancelled,56.97,2025,4,Apr,2025-04,Tuesday
+ORD-11161,2025-08-04,CUST-0112,Unknown Customer,East,Clothing,Denim Jeans,2,55.0,0.15,PayPal,Completed,93.5,2025,8,Aug,2025-08,Monday
+ORD-10163,2025-06-10,CUST-0257,Pat Martinez,Central,Office Supplies,Stapler & Clips Set,5,14.99,0.2,PayPal,Completed,59.96,2025,6,Jun,2025-06,Tuesday
+ORD-10822,2025-09-17,CUST-0238,Chris Johnson,Central,Furniture,Bookshelf,5,119.99,0.0,Bank Transfer,Completed,599.95,2025,9,Sep,2025-09,Wednesday
+ORD-10706,2025-03-09,CUST-0325,Jordan Rodriguez,West,Furniture,Ergonomic Office Chair,4,249.99,0.0,Debit Card,Returned,999.96,2025,3,Mar,2025-03,Sunday
+ORD-11048,2025-04-14,CUST-0287,Taylor Garcia,West,Furniture,Desk Lamp,2,34.99,0.15,Debit Card,Shipped,59.48,2025,4,Apr,2025-04,Monday
+ORD-10878,2025-10-17,CUST-0111,Cameron Rodriguez,North,Furniture,Desk Lamp,2,34.99,0.25,Debit Card,Completed,52.48,2025,10,Oct,2025-10,Friday
+ORD-10896,2025-06-05,CUST-0239,Dakota Johnson,North,Furniture,Ergonomic Office Chair,3,249.99,0.25,Debit Card,Completed,562.48,2025,6,Jun,2025-06,Thursday
+ORD-10914,2025-11-03,CUST-0313,Chris Williams,South,Clothing,Casual Polo Shirt,10,32.0,0.1,Cash,Completed,288.0,2025,11,Nov,2025-11,Monday
+ORD-10153,2025-07-04,CUST-0164,Reese Hernandez,North,Furniture,Desk Lamp,7,34.99,0.2,Debit Card,Completed,195.94,2025,7,Jul,2025-07,Friday
+ORD-10510,2025-07-25,CUST-0303,Unknown Customer,West,Furniture,Standing Desk,5,499.99,0.15,Debit Card,Completed,2124.96,2025,7,Jul,2025-07,Friday
+ORD-10112,2025-11-12,CUST-0347,Skyler Williams,South,Office Supplies,Gel Pen Set (12-pack),8,12.99,0.0,Bank Transfer,Completed,103.92,2025,11,Nov,2025-11,Wednesday
+ORD-10227,2025-06-09,CUST-0199,Casey Martinez,East,Electronics,Wireless Headphones,9,99.99,0.1,PayPal,Completed,809.92,2025,6,Jun,2025-06,Monday
+ORD-11035,2025-05-16,CUST-0139,Reese Johnson,Central,Furniture,Ergonomic Office Chair,8,249.99,0.0,Cash,Completed,1999.92,2025,5,May,2025-05,Friday
+ORD-10852,2025-04-14,CUST-0346,Morgan Jones,East,Office Supplies,Notebook Pack,8,18.99,0.05,Credit Card,Completed,144.32,2025,4,Apr,2025-04,Monday
+ORD-10104,2025-12-27,CUST-0257,Sam Lopez,North,Clothing,Running Shoes,3,85.0,0.15,Debit Card,Returned,216.75,2025,12,Dec,2025-12,Saturday
+ORD-10422,2025-09-09,CUST-0180,Reese Miller,West,Electronics,USB-C Hub,10,29.99,0.2,Cash,Completed,239.92,2025,9,Sep,2025-09,Tuesday
+ORD-10420,2025-04-02,CUST-0274,Chris Williams,Central,Electronics,Wireless Headphones,4,99.99,0.15,Debit Card,Cancelled,339.97,2025,4,Apr,2025-04,Wednesday
+ORD-10968,2025-12-25,CUST-0262,Quinn Smith,Central,Furniture,Standing Desk,9,499.99,0.2,PayPal,Completed,3599.93,2025,12,Dec,2025-12,Thursday
+ORD-10625,2025-08-01,CUST-0102,Unknown Customer,East,Electronics,Smart Watch,10,199.99,0.05,Bank Transfer,Completed,1899.9,2025,8,Aug,2025-08,Friday
+ORD-10587,2025-02-01,CUST-0278,Morgan Lopez,Central,Clothing,Denim Jeans,9,55.0,0.15,Debit Card,Completed,420.75,2025,2,Feb,2025-02,Saturday
+ORD-11091,2025-09-16,CUST-0300,Avery Davis,West,Electronics,Wireless Headphones,9,99.99,0.2,Cash,Cancelled,719.93,2025,9,Sep,2025-09,Tuesday
+ORD-10054,2025-03-11,CUST-0171,Quinn Gonzalez,East,Office Supplies,Notebook Pack,5,18.99,0.2,Bank Transfer,Completed,75.96,2025,3,Mar,2025-03,Tuesday
+ORD-10152,2025-10-14,CUST-0163,Avery Rodriguez,South,Clothing,Running Shoes,3,85.0,0.15,Debit Card,Completed,216.75,2025,10,Oct,2025-10,Tuesday
+ORD-10404,2025-10-30,CUST-0123,Alex Miller,South,Office Supplies,Stapler & Clips Set,3,14.99,0.15,Bank Transfer,Cancelled,38.22,2025,10,Oct,2025-10,Thursday
+ORD-10208,2025-04-06,CUST-0168,Riley Davis,North,Office Supplies,Notebook Pack,2,18.99,0.1,Bank Transfer,Shipped,34.18,2025,4,Apr,2025-04,Sunday
+ORD-11165,2025-03-05,CUST-0333,Unknown Customer,North,Office Supplies,Notebook Pack,9,18.99,0.2,Cash,Returned,136.73,2025,3,Mar,2025-03,Wednesday
+ORD-10009,2025-10-04,CUST-0337,Casey Smith,North,Clothing,Cotton Hoodie,5,45.0,0.05,Credit Card,Completed,213.75,2025,10,Oct,2025-10,Saturday
+ORD-11015,2025-11-16,CUST-0197,Skyler Gonzalez,Central,Clothing,Cotton Hoodie,6,45.0,0.25,PayPal,Shipped,202.5,2025,11,Nov,2025-11,Sunday
+ORD-10453,2025-09-01,CUST-0254,Pat Johnson,South,Office Supplies,Notebook Pack,1,18.99,0.15,PayPal,Shipped,16.14,2025,9,Sep,2025-09,Monday
+ORD-10254,2025-10-03,CUST-0261,Jordan Brown,North,Furniture,Desk Lamp,7,34.99,0.0,Unspecified,Returned,244.93,2025,10,Oct,2025-10,Friday
+ORD-10897,2025-08-05,CUST-0270,Pat Smith,West,Office Supplies,Whiteboard Markers,10,8.99,0.15,Cash,Completed,76.42,2025,8,Aug,2025-08,Tuesday
+ORD-11079,2025-03-12,CUST-0165,Unknown Customer,North,Electronics,USB-C Hub,9,29.99,0.0,Bank Transfer,Completed,269.91,2025,3,Mar,2025-03,Wednesday
+ORD-10881,2025-12-10,CUST-0231,Quinn Jones,North,Clothing,Denim Jeans,4,55.0,0.0,Credit Card,Completed,220.0,2025,12,Dec,2025-12,Wednesday
+ORD-11163,2025-05-04,CUST-0306,Cameron Williams,East,Furniture,Desk Lamp,5,34.99,0.15,Cash,Completed,148.71,2025,5,May,2025-05,Sunday
+ORD-10624,2025-04-11,CUST-0344,Jordan Garcia,West,Clothing,Winter Jacket,4,120.0,0.1,Debit Card,Cancelled,432.0,2025,4,Apr,2025-04,Friday
+ORD-10346,2025-09-25,CUST-0180,Cameron Smith,West,Electronics,Bluetooth Speaker,5,49.99,0.1,PayPal,Completed,224.96,2025,9,Sep,2025-09,Thursday
+ORD-11061,2025-06-16,CUST-0140,Avery Martinez,South,Furniture,Desk Lamp,6,34.99,0.2,Debit Card,Shipped,167.95,2025,6,Jun,2025-06,Monday
+ORD-10263,2025-10-10,CUST-0329,Casey Davis,West,Furniture,Bookshelf,5,119.99,0.2,Bank Transfer,Completed,479.96,2025,10,Oct,2025-10,Friday
+ORD-10151,2025-04-06,CUST-0243,Casey Rodriguez,East,Electronics,Wireless Headphones,6,99.99,0.0,Bank Transfer,Returned,599.94,2025,4,Apr,2025-04,Sunday
+ORD-10473,2025-01-12,CUST-0304,Casey Martinez,Central,Office Supplies,Stapler & Clips Set,6,14.99,0.2,Credit Card,Completed,71.95,2025,1,Jan,2025-01,Sunday
+ORD-10641,2025-07-08,CUST-0238,Alex Lopez,North,Office Supplies,Paper Reams (5-Pack),5,24.99,0.2,Bank Transfer,Completed,99.96,2025,7,Jul,2025-07,Tuesday
+ORD-11160,2025-05-27,CUST-0238,Sam Williams,South,Furniture,File Cabinet,6,89.99,0.0,Credit Card,Returned,539.94,2025,5,May,2025-05,Tuesday
+ORD-10551,2025-03-05,CUST-0337,Casey Hernandez,East,Electronics,Mechanical Keyboard,10,89.99,0.1,Bank Transfer,Cancelled,809.91,2025,3,Mar,2025-03,Wednesday
+ORD-10929,2025-09-28,CUST-0274,Quinn Miller,West,Clothing,Denim Jeans,6,55.0,0.2,Bank Transfer,Shipped,264.0,2025,9,Sep,2025-09,Sunday
+ORD-10489,2025-10-01,CUST-0177,Jordan Miller,East,Furniture,File Cabinet,9,89.99,0.1,Debit Card,Cancelled,728.92,2025,10,Oct,2025-10,Wednesday
+ORD-11111,2025-03-08,CUST-0148,Quinn Miller,North,Office Supplies,Paper Reams (5-Pack),10,24.99,0.0,Bank Transfer,Completed,249.9,2025,3,Mar,2025-03,Saturday
+ORD-10147,2025-02-08,CUST-0172,Cameron Rodriguez,East,Electronics,Smart Watch,3,199.99,0.25,Credit Card,Shipped,449.98,2025,2,Feb,2025-02,Saturday
+ORD-10403,2025-08-01,CUST-0174,Taylor Gonzalez,South,Clothing,Winter Jacket,3,120.0,0.15,Cash,Completed,306.0,2025,8,Aug,2025-08,Friday
+ORD-10955,2025-11-24,CUST-0297,Avery Hernandez,Central,Furniture,File Cabinet,4,89.99,0.15,Debit Card,Returned,305.97,2025,11,Nov,2025-11,Monday
+ORD-11196,2025-04-13,CUST-0293,Sam Williams,South,Furniture,Standing Desk,9,499.99,0.0,Debit Card,Completed,4499.91,2025,4,Apr,2025-04,Sunday
+ORD-10660,2025-01-14,CUST-0208,Jordan Gonzalez,Central,Office Supplies,Gel Pen Set (12-pack),9,12.99,0.1,Bank Transfer,Returned,105.22,2025,1,Jan,2025-01,Tuesday
+ORD-10464,2025-03-22,CUST-0126,Quinn Miller,South,Clothing,Casual Polo Shirt,1,32.0,0.1,PayPal,Cancelled,28.8,2025,3,Mar,2025-03,Saturday
+ORD-10187,2025-08-26,CUST-0349,Riley Gonzalez,North,Furniture,Standing Desk,9,499.99,0.25,Unspecified,Returned,3374.93,2025,8,Aug,2025-08,Tuesday
+ORD-10609,2025-12-16,CUST-0327,Dakota Johnson,South,Furniture,Standing Desk,9,499.99,0.25,Cash,Completed,3374.93,2025,12,Dec,2025-12,Tuesday
+ORD-10144,2025-10-10,CUST-0105,Casey Lopez,Central,Office Supplies,Paper Reams (5-Pack),3,24.99,0.0,PayPal,Shipped,74.97,2025,10,Oct,2025-10,Friday
+ORD-10752,2025-09-26,CUST-0111,Jordan Garcia,North,Furniture,File Cabinet,2,89.99,0.25,Bank Transfer,Completed,134.98,2025,9,Sep,2025-09,Friday
+ORD-10982,2025-02-21,CUST-0250,Morgan Martinez,East,Clothing,Casual Polo Shirt,3,32.0,0.0,Unspecified,Completed,96.0,2025,2,Feb,2025-02,Friday
+ORD-10198,2025-03-30,CUST-0252,Chris Gonzalez,North,Office Supplies,Notebook Pack,10,18.99,0.2,Bank Transfer,Completed,151.92,2025,3,Mar,2025-03,Sunday
+ORD-10884,2025-12-20,CUST-0327,Avery Jones,South,Electronics,Mechanical Keyboard,5,89.99,0.0,PayPal,Cancelled,449.95,2025,12,Dec,2025-12,Saturday
+ORD-10280,2025-09-15,CUST-0343,Jordan Gonzalez,Central,Office Supplies,Notebook Pack,7,18.99,0.05,Bank Transfer,Shipped,126.28,2025,9,Sep,2025-09,Monday
+ORD-10294,2025-09-01,CUST-0323,Casey Jones,South,Furniture,File Cabinet,10,89.99,0.25,Debit Card,Completed,674.92,2025,9,Sep,2025-09,Monday
+ORD-11119,2025-04-09,CUST-0243,Casey Miller,East,Electronics,4K Monitor,1,349.99,0.0,Bank Transfer,Cancelled,349.99,2025,4,Apr,2025-04,Wednesday
+ORD-10401,2025-08-17,CUST-0184,Alex Martinez,South,Furniture,Bookshelf,8,119.99,0.0,Bank Transfer,Completed,959.92,2025,8,Aug,2025-08,Sunday
+ORD-10123,2025-07-28,CUST-0326,Cameron Davis,East,Furniture,Bookshelf,2,119.99,0.05,Credit Card,Completed,227.98,2025,7,Jul,2025-07,Monday
+ORD-10203,2025-11-24,CUST-0186,Riley Smith,East,Furniture,Ergonomic Office Chair,1,249.99,0.15,PayPal,Completed,212.49,2025,11,Nov,2025-11,Monday
+ORD-10247,2025-05-09,CUST-0116,Reese Gonzalez,West,Electronics,Bluetooth Speaker,9,49.99,0.25,Bank Transfer,Cancelled,337.43,2025,5,May,2025-05,Friday
+ORD-11170,2025-01-07,CUST-0263,Morgan Smith,South,Furniture,Standing Desk,6,499.99,0.05,Credit Card,Returned,2849.94,2025,1,Jan,2025-01,Tuesday
+ORD-10385,2025-06-16,CUST-0161,Reese Miller,North,Clothing,Running Shoes,7,85.0,0.2,Bank Transfer,Completed,476.0,2025,6,Jun,2025-06,Monday
+ORD-10855,2025-02-05,CUST-0260,Sam Hernandez,South,Furniture,Ergonomic Office Chair,2,249.99,0.0,Cash,Completed,499.98,2025,2,Feb,2025-02,Wednesday
+ORD-10220,2025-11-08,CUST-0276,Jordan Davis,East,Office Supplies,Whiteboard Markers,5,8.99,0.2,Credit Card,Cancelled,35.96,2025,11,Nov,2025-11,Saturday
+ORD-10642,2025-03-12,CUST-0131,Taylor Garcia,North,Clothing,Winter Jacket,8,120.0,0.1,Bank Transfer,Completed,864.0,2025,3,Mar,2025-03,Wednesday
+ORD-10002,2025-11-29,CUST-0208,Morgan Davis,West,Electronics,Smart Watch,6,199.99,0.15,Debit Card,Cancelled,1019.95,2025,11,Nov,2025-11,Saturday
+ORD-10113,2025-04-21,CUST-0113,Alex Jones,Central,Clothing,Casual Polo Shirt,3,32.0,0.25,Bank Transfer,Completed,72.0,2025,4,Apr,2025-04,Monday
+ORD-10699,2025-10-31,CUST-0273,Dakota Davis,Central,Clothing,Running Shoes,2,85.0,0.15,Cash,Shipped,144.5,2025,10,Oct,2025-10,Friday
+ORD-10952,2025-09-28,CUST-0257,Cameron Martinez,Central,Electronics,4K Monitor,8,349.99,0.0,Cash,Cancelled,2799.92,2025,9,Sep,2025-09,Sunday
+ORD-11109,2025-10-13,CUST-0211,Riley Miller,South,Clothing,Casual Polo Shirt,5,32.0,0.1,Bank Transfer,Completed,144.0,2025,10,Oct,2025-10,Monday
+ORD-10442,2025-05-17,CUST-0227,Pat Williams,South,Furniture,File Cabinet,4,89.99,0.15,Credit Card,Completed,305.97,2025,5,May,2025-05,Saturday
+ORD-10664,2025-03-04,CUST-0224,Taylor Brown,West,Office Supplies,Notebook Pack,7,18.99,0.0,PayPal,Returned,132.93,2025,3,Mar,2025-03,Tuesday
+ORD-11126,2025-03-22,CUST-0246,Morgan Williams,Central,Electronics,Mechanical Keyboard,3,89.99,0.0,PayPal,Completed,269.97,2025,3,Mar,2025-03,Saturday
+ORD-10318,2025-08-09,CUST-0337,Avery Johnson,East,Clothing,Winter Jacket,10,120.0,0.1,Debit Card,Cancelled,1080.0,2025,8,Aug,2025-08,Saturday
+ORD-10649,2025-11-02,CUST-0101,Jordan Williams,South,Clothing,Casual Polo Shirt,3,32.0,0.15,Credit Card,Completed,81.6,2025,11,Nov,2025-11,Sunday
+ORD-10710,2025-08-15,CUST-0167,Cameron Smith,North,Furniture,Bookshelf,10,119.99,0.2,Credit Card,Shipped,959.92,2025,8,Aug,2025-08,Friday
+ORD-10973,2025-12-06,CUST-0226,Sam Miller,West,Electronics,4K Monitor,1,349.99,0.2,Bank Transfer,Completed,279.99,2025,12,Dec,2025-12,Saturday
+ORD-10628,2025-10-20,CUST-0291,Reese Williams,South,Office Supplies,Gel Pen Set (12-pack),4,12.99,0.05,Bank Transfer,Returned,49.36,2025,10,Oct,2025-10,Monday
+ORD-10633,2025-06-28,CUST-0267,Sam Davis,Central,Clothing,Winter Jacket,5,120.0,0.25,Debit Card,Completed,450.0,2025,6,Jun,2025-06,Saturday
+ORD-11137,2025-11-05,CUST-0120,Jordan Rodriguez,North,Furniture,Bookshelf,3,119.99,0.05,Cash,Completed,341.97,2025,11,Nov,2025-11,Wednesday
+ORD-10796,2025-09-12,CUST-0204,Dakota Garcia,East,Office Supplies,Notebook Pack,1,18.99,0.0,PayPal,Completed,18.99,2025,9,Sep,2025-09,Friday
+ORD-10646,2025-08-20,CUST-0131,Cameron Rodriguez,South,Clothing,Running Shoes,6,85.0,0.1,Credit Card,Returned,459.0,2025,8,Aug,2025-08,Wednesday
+ORD-11013,2025-10-09,CUST-0236,Taylor Miller,Central,Furniture,Bookshelf,6,119.99,0.0,Credit Card,Shipped,719.94,2025,10,Oct,2025-10,Thursday
+ORD-10557,2025-12-25,CUST-0201,Jordan Williams,East,Electronics,Mechanical Keyboard,3,89.99,0.15,PayPal,Cancelled,229.47,2025,12,Dec,2025-12,Thursday
+ORD-10682,2025-09-24,CUST-0290,Casey Brown,South,Furniture,Ergonomic Office Chair,8,249.99,0.0,Credit Card,Shipped,1999.92,2025,9,Sep,2025-09,Wednesday
+ORD-10578,2025-01-17,CUST-0151,Riley Hernandez,West,Electronics,4K Monitor,3,349.99,0.15,Bank Transfer,Completed,892.47,2025,1,Jan,2025-01,Friday
+ORD-10525,2025-03-24,CUST-0105,Avery Johnson,West,Electronics,USB-C Hub,1,29.99,0.05,PayPal,Completed,28.49,2025,3,Mar,2025-03,Monday
+ORD-11060,2025-04-04,CUST-0346,Jordan Hernandez,South,Electronics,4K Monitor,4,349.99,0.25,PayPal,Completed,1049.97,2025,4,Apr,2025-04,Friday
+ORD-10541,2025-08-07,CUST-0178,Casey Rodriguez,East,Clothing,Denim Jeans,2,55.0,0.2,Debit Card,Completed,88.0,2025,8,Aug,2025-08,Thursday
+ORD-10749,2025-12-12,CUST-0102,Chris Lopez,Central,Furniture,File Cabinet,1,89.99,0.0,Bank Transfer,Completed,89.99,2025,12,Dec,2025-12,Friday
+ORD-11140,2025-08-24,CUST-0312,Taylor Jones,Central,Clothing,Running Shoes,6,85.0,0.0,Credit Card,Returned,510.0,2025,8,Aug,2025-08,Sunday
+ORD-10485,2025-07-31,CUST-0167,Pat Johnson,Central,Furniture,File Cabinet,9,89.99,0.0,Debit Card,Completed,809.91,2025,7,Jul,2025-07,Thursday
+ORD-10096,2025-08-02,CUST-0272,Jordan Rodriguez,Central,Electronics,USB-C Hub,9,29.99,0.0,Bank Transfer,Completed,269.91,2025,8,Aug,2025-08,Saturday
+ORD-11021,2025-10-20,CUST-0337,Quinn Johnson,West,Furniture,Bookshelf,5,119.99,0.1,Credit Card,Cancelled,539.95,2025,10,Oct,2025-10,Monday
+ORD-10564,2025-05-31,CUST-0214,Taylor Martinez,East,Office Supplies,Notebook Pack,2,18.99,0.0,PayPal,Cancelled,37.98,2025,5,May,2025-05,Saturday
+ORD-10743,2025-04-15,CUST-0286,Morgan Williams,West,Office Supplies,Paper Reams (5-Pack),9,24.99,0.25,Bank Transfer,Cancelled,168.68,2025,4,Apr,2025-04,Tuesday
+ORD-10864,2025-05-09,CUST-0142,Jordan Smith,Central,Office Supplies,Paper Reams (5-Pack),8,24.99,0.25,Debit Card,Completed,149.94,2025,5,May,2025-05,Friday
+ORD-10892,2025-09-11,CUST-0205,Chris Miller,East,Office Supplies,Gel Pen Set (12-pack),8,12.99,0.25,Credit Card,Cancelled,77.94,2025,9,Sep,2025-09,Thursday
+ORD-11039,2025-04-06,CUST-0258,Riley Jones,North,Electronics,USB-C Hub,8,29.99,0.2,Cash,Shipped,191.94,2025,4,Apr,2025-04,Sunday
+ORD-10207,2025-01-14,CUST-0264,Sam Johnson,West,Electronics,Bluetooth Speaker,5,49.99,0.2,Debit Card,Completed,199.96,2025,1,Jan,2025-01,Tuesday
+ORD-10393,2025-04-18,CUST-0295,Morgan Garcia,West,Office Supplies,Notebook Pack,6,18.99,0.2,Credit Card,Shipped,91.15,2025,4,Apr,2025-04,Friday
+ORD-10795,2025-11-02,CUST-0322,Reese Hernandez,West,Clothing,Running Shoes,3,85.0,0.25,Credit Card,Completed,191.25,2025,11,Nov,2025-11,Sunday
+ORD-10871,2025-06-10,CUST-0331,Riley Gonzalez,East,Office Supplies,Notebook Pack,6,18.99,0.2,PayPal,Shipped,91.15,2025,6,Jun,2025-06,Tuesday
+ORD-10398,2025-12-08,CUST-0142,Morgan Johnson,South,Office Supplies,Notebook Pack,4,18.99,0.0,Debit Card,Completed,75.96,2025,12,Dec,2025-12,Monday
+ORD-10767,2025-11-25,CUST-0218,Cameron Lopez,East,Furniture,Bookshelf,8,119.99,0.2,Credit Card,Completed,767.94,2025,11,Nov,2025-11,Tuesday
+ORD-11173,2025-11-08,CUST-0342,Taylor Martinez,North,Furniture,Ergonomic Office Chair,9,249.99,0.0,Bank Transfer,Shipped,2249.91,2025,11,Nov,2025-11,Saturday
+ORD-11029,2025-06-01,CUST-0252,Alex Lopez,South,Office Supplies,Paper Reams (5-Pack),1,24.99,0.0,Debit Card,Completed,24.99,2025,6,Jun,2025-06,Sunday
+ORD-10643,2025-06-01,CUST-0191,Casey Brown,North,Furniture,Ergonomic Office Chair,1,249.99,0.15,PayPal,Completed,212.49,2025,6,Jun,2025-06,Sunday
+ORD-10613,2025-08-14,CUST-0317,Avery Garcia,West,Clothing,Denim Jeans,1,55.0,0.25,PayPal,Shipped,41.25,2025,8,Aug,2025-08,Thursday
+ORD-10961,2025-07-18,CUST-0195,Unknown Customer,Central,Furniture,Ergonomic Office Chair,6,249.99,0.15,Credit Card,Cancelled,1274.95,2025,7,Jul,2025-07,Friday
+ORD-10726,2025-09-01,CUST-0183,Jordan Smith,West,Clothing,Winter Jacket,2,120.0,0.15,Bank Transfer,Completed,204.0,2025,9,Sep,2025-09,Monday
+ORD-10684,2025-06-06,CUST-0296,Chris Smith,Central,Office Supplies,Whiteboard Markers,10,8.99,0.15,Credit Card,Shipped,76.42,2025,6,Jun,2025-06,Friday
+ORD-10099,2025-11-28,CUST-0192,Skyler Gonzalez,North,Office Supplies,Whiteboard Markers,7,8.99,0.15,PayPal,Completed,53.49,2025,11,Nov,2025-11,Friday
+ORD-10805,2025-09-30,CUST-0159,Reese Rodriguez,South,Furniture,Ergonomic Office Chair,4,249.99,0.25,Cash,Completed,749.97,2025,9,Sep,2025-09,Tuesday
+ORD-10407,2025-10-22,CUST-0167,Taylor Martinez,South,Office Supplies,Stapler & Clips Set,6,14.99,0.0,Debit Card,Completed,89.94,2025,10,Oct,2025-10,Wednesday
+ORD-10503,2025-10-14,CUST-0209,Chris Brown,East,Furniture,Ergonomic Office Chair,8,249.99,0.1,Cash,Shipped,1799.93,2025,10,Oct,2025-10,Tuesday
+ORD-11072,2025-06-04,CUST-0127,Taylor Gonzalez,North,Furniture,Ergonomic Office Chair,7,249.99,0.05,Credit Card,Completed,1662.43,2025,6,Jun,2025-06,Wednesday
+ORD-11057,2025-04-13,CUST-0325,Unknown Customer,North,Office Supplies,Notebook Pack,2,18.99,0.15,PayPal,Shipped,32.28,2025,4,Apr,2025-04,Sunday
+ORD-10930,2025-07-28,CUST-0320,Riley Williams,Central,Furniture,Ergonomic Office Chair,2,249.99,0.15,Debit Card,Completed,424.98,2025,7,Jul,2025-07,Monday
+ORD-10780,2025-01-29,CUST-0191,Dakota Gonzalez,North,Clothing,Casual Polo Shirt,5,32.0,0.0,Bank Transfer,Completed,160.0,2025,1,Jan,2025-01,Wednesday
+ORD-10201,2025-11-24,CUST-0267,Chris Williams,Central,Office Supplies,Gel Pen Set (12-pack),5,12.99,0.0,Cash,Cancelled,64.95,2025,11,Nov,2025-11,Monday
+ORD-10135,2025-07-25,CUST-0239,Morgan Gonzalez,Central,Electronics,Smart Watch,10,199.99,0.2,Debit Card,Completed,1599.92,2025,7,Jul,2025-07,Friday
+ORD-11052,2025-05-24,CUST-0187,Reese Martinez,Central,Office Supplies,Whiteboard Markers,5,8.99,0.0,Bank Transfer,Completed,44.95,2025,5,May,2025-05,Saturday
+ORD-10041,2025-04-08,CUST-0285,Pat Davis,West,Furniture,Desk Lamp,5,34.99,0.25,Cash,Shipped,131.21,2025,4,Apr,2025-04,Tuesday
+ORD-11018,2025-04-27,CUST-0157,Chris Hernandez,Central,Office Supplies,Gel Pen Set (12-pack),1,12.99,0.1,Debit Card,Returned,11.69,2025,4,Apr,2025-04,Sunday
+ORD-10231,2025-04-12,CUST-0300,Sam Rodriguez,East,Office Supplies,Stapler & Clips Set,4,14.99,0.15,Unspecified,Completed,50.97,2025,4,Apr,2025-04,Saturday
+ORD-10379,2025-10-22,CUST-0183,Skyler Gonzalez,South,Electronics,USB-C Hub,3,29.99,0.05,Cash,Completed,85.47,2025,10,Oct,2025-10,Wednesday
+ORD-10289,2025-05-14,CUST-0244,Casey Gonzalez,North,Electronics,4K Monitor,10,349.99,0.2,Cash,Cancelled,2799.92,2025,5,May,2025-05,Wednesday
+ORD-10419,2025-07-27,CUST-0231,Sam Williams,East,Electronics,Wireless Headphones,3,99.99,0.25,Credit Card,Completed,224.98,2025,7,Jul,2025-07,Sunday
+ORD-10392,2025-08-27,CUST-0194,Chris Williams,South,Electronics,USB-C Hub,9,29.99,0.15,Cash,Returned,229.42,2025,8,Aug,2025-08,Wednesday
+ORD-10593,2025-05-06,CUST-0266,Pat Johnson,Central,Furniture,Ergonomic Office Chair,2,249.99,0.25,PayPal,Completed,374.98,2025,5,May,2025-05,Tuesday
+ORD-11087,2025-11-07,CUST-0227,Dakota Brown,Central,Furniture,Desk Lamp,7,34.99,0.2,Credit Card,Completed,195.94,2025,11,Nov,2025-11,Friday
+ORD-10648,2025-02-03,CUST-0171,Morgan Martinez,West,Clothing,Winter Jacket,5,120.0,0.05,Debit Card,Returned,570.0,2025,2,Feb,2025-02,Monday
+ORD-10521,2025-02-16,CUST-0326,Cameron Davis,Central,Office Supplies,Stapler & Clips Set,7,14.99,0.2,Bank Transfer,Returned,83.94,2025,2,Feb,2025-02,Sunday
+ORD-10065,2025-10-13,CUST-0303,Pat Smith,East,Electronics,4K Monitor,10,349.99,0.25,Credit Card,Completed,2624.92,2025,10,Oct,2025-10,Monday
+ORD-10015,2025-08-21,CUST-0279,Reese Gonzalez,South,Clothing,Running Shoes,10,85.0,0.0,Credit Card,Completed,850.0,2025,8,Aug,2025-08,Thursday
+ORD-11065,2025-06-17,CUST-0344,Casey Rodriguez,North,Furniture,Ergonomic Office Chair,1,249.99,0.0,Credit Card,Shipped,249.99,2025,6,Jun,2025-06,Tuesday
+ORD-10493,2025-11-11,CUST-0307,Reese Brown,North,Clothing,Casual Polo Shirt,10,32.0,0.05,Bank Transfer,Completed,304.0,2025,11,Nov,2025-11,Tuesday
+ORD-10380,2025-10-25,CUST-0126,Quinn Hernandez,West,Furniture,Ergonomic Office Chair,2,249.99,0.2,Bank Transfer,Cancelled,399.98,2025,10,Oct,2025-10,Saturday
+ORD-10188,2025-07-12,CUST-0287,Sam Johnson,West,Furniture,Desk Lamp,3,34.99,0.0,PayPal,Shipped,104.97,2025,7,Jul,2025-07,Saturday
+ORD-10764,2025-11-25,CUST-0255,Skyler Garcia,West,Furniture,Standing Desk,1,499.99,0.15,Bank Transfer,Completed,424.99,2025,11,Nov,2025-11,Tuesday
+ORD-10217,2025-10-28,CUST-0189,Taylor Jones,North,Electronics,Bluetooth Speaker,10,49.99,0.05,PayPal,Completed,474.9,2025,10,Oct,2025-10,Tuesday
+ORD-10792,2025-10-24,CUST-0132,Taylor Gonzalez,East,Clothing,Denim Jeans,4,55.0,0.0,Debit Card,Shipped,220.0,2025,10,Oct,2025-10,Friday
+ORD-11077,2025-03-23,CUST-0276,Unknown Customer,South,Office Supplies,Paper Reams (5-Pack),6,24.99,0.15,Cash,Returned,127.45,2025,3,Mar,2025-03,Sunday
+ORD-10879,2025-02-11,CUST-0293,Jordan Davis,West,Electronics,USB-C Hub,3,29.99,0.0,Bank Transfer,Cancelled,89.97,2025,2,Feb,2025-02,Tuesday
+ORD-10338,2025-04-18,CUST-0128,Avery Lopez,Central,Electronics,4K Monitor,5,349.99,0.1,Cash,Completed,1574.96,2025,4,Apr,2025-04,Friday
+ORD-10720,2025-03-24,CUST-0132,Taylor Brown,West,Electronics,Wireless Headphones,9,99.99,0.25,Bank Transfer,Completed,674.93,2025,3,Mar,2025-03,Monday
+ORD-10296,2025-06-03,CUST-0211,Quinn Jones,East,Electronics,USB-C Hub,7,29.99,0.05,Bank Transfer,Completed,199.43,2025,6,Jun,2025-06,Tuesday
+ORD-11017,2025-01-29,CUST-0280,Alex Rodriguez,West,Clothing,Cotton Hoodie,1,45.0,0.05,Debit Card,Returned,42.75,2025,1,Jan,2025-01,Wednesday
+ORD-10456,2025-02-12,CUST-0281,Sam Garcia,Central,Clothing,Winter Jacket,3,120.0,0.0,Cash,Returned,360.0,2025,2,Feb,2025-02,Wednesday
+ORD-10816,2025-03-30,CUST-0320,Jordan Garcia,East,Furniture,Bookshelf,7,119.99,0.15,Bank Transfer,Cancelled,713.94,2025,3,Mar,2025-03,Sunday
+ORD-10270,2025-10-26,CUST-0147,Avery Hernandez,West,Furniture,Bookshelf,7,119.99,0.0,Cash,Shipped,839.93,2025,10,Oct,2025-10,Sunday
+ORD-10996,2025-07-01,CUST-0105,Quinn Martinez,North,Furniture,Standing Desk,2,499.99,0.1,Credit Card,Shipped,899.98,2025,7,Jul,2025-07,Tuesday
+ORD-10202,2025-10-18,CUST-0255,Chris Gonzalez,North,Furniture,File Cabinet,2,89.99,0.1,Credit Card,Returned,161.98,2025,10,Oct,2025-10,Saturday
+ORD-10162,2025-07-19,CUST-0155,Morgan Jones,North,Electronics,USB-C Hub,6,29.99,0.15,Bank Transfer,Returned,152.95,2025,7,Jul,2025-07,Saturday
+ORD-10730,2025-05-10,CUST-0115,Avery Smith,West,Clothing,Denim Jeans,9,55.0,0.0,Cash,Completed,495.0,2025,5,May,2025-05,Saturday
+ORD-10402,2025-11-05,CUST-0342,Alex Hernandez,East,Furniture,Desk Lamp,6,34.99,0.15,Credit Card,Completed,178.45,2025,11,Nov,2025-11,Wednesday
+ORD-10703,2025-08-21,CUST-0129,Reese Lopez,West,Electronics,4K Monitor,3,349.99,0.25,Debit Card,Returned,787.48,2025,8,Aug,2025-08,Thursday
+ORD-11130,2025-01-09,CUST-0293,Unknown Customer,Central,Office Supplies,Whiteboard Markers,6,8.99,0.0,Bank Transfer,Returned,53.94,2025,1,Jan,2025-01,Thursday
+ORD-10566,2025-08-06,CUST-0137,Casey Brown,East,Office Supplies,Gel Pen Set (12-pack),9,12.99,0.15,Debit Card,Completed,99.37,2025,8,Aug,2025-08,Wednesday
+ORD-11022,2025-03-26,CUST-0158,Alex Smith,West,Clothing,Denim Jeans,1,55.0,0.15,Credit Card,Completed,46.75,2025,3,Mar,2025-03,Wednesday
+ORD-11026,2025-03-24,CUST-0339,Avery Johnson,West,Office Supplies,Paper Reams (5-Pack),5,24.99,0.05,Bank Transfer,Completed,118.7,2025,3,Mar,2025-03,Monday
+ORD-11105,2025-07-22,CUST-0241,Riley Jones,East,Clothing,Denim Jeans,6,55.0,0.1,Credit Card,Shipped,297.0,2025,7,Jul,2025-07,Tuesday
+ORD-10035,2025-05-23,CUST-0313,Pat Jones,Central,Clothing,Cotton Hoodie,4,45.0,0.0,Credit Card,Completed,180.0,2025,5,May,2025-05,Friday
+ORD-10776,2025-06-03,CUST-0237,Morgan Garcia,North,Office Supplies,Stapler & Clips Set,8,14.99,0.2,PayPal,Cancelled,95.94,2025,6,Jun,2025-06,Tuesday
+ORD-10509,2025-08-29,CUST-0258,Jordan Williams,Central,Office Supplies,Stapler & Clips Set,6,14.99,0.15,Bank Transfer,Shipped,76.45,2025,8,Aug,2025-08,Friday
+ORD-10092,2025-11-25,CUST-0196,Casey Johnson,North,Electronics,Bluetooth Speaker,9,49.99,0.15,PayPal,Completed,382.42,2025,11,Nov,2025-11,Tuesday
+ORD-10898,2025-01-17,CUST-0190,Alex Jones,North,Clothing,Denim Jeans,6,55.0,0.25,Credit Card,Completed,247.5,2025,1,Jan,2025-01,Friday
+ORD-10565,2025-04-21,CUST-0255,Casey Brown,Central,Office Supplies,Gel Pen Set (12-pack),5,12.99,0.05,Credit Card,Returned,61.7,2025,4,Apr,2025-04,Monday
+ORD-10777,2025-08-10,CUST-0125,Cameron Davis,North,Furniture,Standing Desk,9,499.99,0.2,Debit Card,Completed,3599.93,2025,8,Aug,2025-08,Sunday
+ORD-10242,2025-04-21,CUST-0301,Morgan Lopez,Central,Clothing,Cotton Hoodie,8,45.0,0.2,Unspecified,Returned,288.0,2025,4,Apr,2025-04,Monday
+ORD-10014,2025-10-09,CUST-0267,Casey Smith,West,Furniture,Standing Desk,7,499.99,0.05,Bank Transfer,Cancelled,3324.93,2025,10,Oct,2025-10,Thursday
+ORD-10316,2025-07-21,CUST-0293,Avery Martinez,East,Furniture,Desk Lamp,6,34.99,0.2,Cash,Completed,167.95,2025,7,Jul,2025-07,Monday
+ORD-10601,2025-07-04,CUST-0322,Quinn Williams,West,Furniture,File Cabinet,1,89.99,0.0,PayPal,Completed,89.99,2025,7,Jul,2025-07,Friday
+ORD-10388,2025-05-07,CUST-0249,Morgan Martinez,North,Electronics,4K Monitor,9,349.99,0.2,Credit Card,Completed,2519.93,2025,5,May,2025-05,Wednesday
+ORD-10167,2025-10-21,CUST-0299,Casey Garcia,West,Electronics,Mechanical Keyboard,2,89.99,0.25,Debit Card,Completed,134.98,2025,10,Oct,2025-10,Tuesday
+ORD-10841,2025-12-22,CUST-0162,Pat Martinez,Central,Furniture,Desk Lamp,9,34.99,0.05,Debit Card,Completed,299.16,2025,12,Dec,2025-12,Monday
+ORD-10021,2025-07-09,CUST-0138,Pat Williams,East,Office Supplies,Paper Reams (5-Pack),2,24.99,0.2,Bank Transfer,Returned,39.98,2025,7,Jul,2025-07,Wednesday
+ORD-10647,2025-08-05,CUST-0149,Pat Williams,West,Clothing,Denim Jeans,4,55.0,0.05,Credit Card,Completed,209.0,2025,8,Aug,2025-08,Tuesday
+ORD-11155,2025-01-07,CUST-0330,Unknown Customer,North,Office Supplies,Gel Pen Set (12-pack),9,12.99,0.1,Cash,Shipped,105.22,2025,1,Jan,2025-01,Tuesday
+ORD-10832,2025-01-22,CUST-0335,Cameron Davis,North,Electronics,USB-C Hub,9,29.99,0.25,Bank Transfer,Returned,202.43,2025,1,Jan,2025-01,Wednesday
+ORD-10563,2025-04-16,CUST-0123,Casey Jones,North,Electronics,Wireless Headphones,9,99.99,0.0,Debit Card,Shipped,899.91,2025,4,Apr,2025-04,Wednesday
+ORD-10687,2025-10-19,CUST-0315,Sam Williams,North,Electronics,4K Monitor,8,349.99,0.2,Credit Card,Completed,2239.94,2025,10,Oct,2025-10,Sunday
+ORD-10958,2025-05-19,CUST-0130,Quinn Davis,North,Clothing,Denim Jeans,2,55.0,0.0,Bank Transfer,Shipped,110.0,2025,5,May,2025-05,Monday
+ORD-10190,2025-06-11,CUST-0201,Reese Lopez,South,Clothing,Casual Polo Shirt,10,32.0,0.0,Bank Transfer,Completed,320.0,2025,6,Jun,2025-06,Wednesday
+ORD-10976,2025-12-04,CUST-0180,Unknown Customer,East,Electronics,Smart Watch,9,199.99,0.2,Cash,Returned,1439.93,2025,12,Dec,2025-12,Thursday
+ORD-10700,2025-10-24,CUST-0338,Pat Jones,South,Office Supplies,Gel Pen Set (12-pack),4,12.99,0.1,Cash,Completed,46.76,2025,10,Oct,2025-10,Friday
+ORD-10511,2025-03-10,CUST-0176,Riley Rodriguez,Central,Electronics,4K Monitor,8,349.99,0.1,Debit Card,Completed,2519.93,2025,3,Mar,2025-03,Monday
+ORD-11083,2025-01-16,CUST-0244,Alex Garcia,West,Furniture,File Cabinet,8,89.99,0.15,Bank Transfer,Completed,611.93,2025,1,Jan,2025-01,Thursday
+ORD-10475,2025-10-21,CUST-0283,Pat Rodriguez,Central,Electronics,Bluetooth Speaker,6,49.99,0.05,Bank Transfer,Completed,284.94,2025,10,Oct,2025-10,Tuesday
+ORD-10857,2025-12-03,CUST-0121,Unknown Customer,Central,Electronics,Mechanical Keyboard,8,89.99,0.0,Debit Card,Completed,719.92,2025,12,Dec,2025-12,Wednesday
+ORD-10748,2025-06-05,CUST-0290,Dakota Johnson,East,Clothing,Denim Jeans,9,55.0,0.0,Bank Transfer,Completed,495.0,2025,6,Jun,2025-06,Thursday
+ORD-10253,2025-02-28,CUST-0239,Unknown Customer,Central,Office Supplies,Notebook Pack,4,18.99,0.0,PayPal,Cancelled,75.96,2025,2,Feb,2025-02,Friday
+ORD-10022,2025-03-21,CUST-0161,Skyler Williams,North,Furniture,Desk Lamp,7,34.99,0.25,Debit Card,Returned,183.7,2025,3,Mar,2025-03,Friday
+ORD-10460,2025-10-27,CUST-0176,Avery Miller,West,Electronics,Wireless Headphones,10,99.99,0.2,Credit Card,Completed,799.92,2025,10,Oct,2025-10,Monday
+ORD-11185,2025-06-08,CUST-0308,Alex Davis,South,Furniture,Desk Lamp,1,34.99,0.25,Credit Card,Shipped,26.24,2025,6,Jun,2025-06,Sunday
+ORD-10277,2025-07-25,CUST-0234,Sam Lopez,West,Electronics,Smart Watch,9,199.99,0.0,Cash,Completed,1799.91,2025,7,Jul,2025-07,Friday
+ORD-10956,2025-04-13,CUST-0210,Jordan Garcia,North,Clothing,Cotton Hoodie,5,45.0,0.1,Bank Transfer,Completed,202.5,2025,4,Apr,2025-04,Sunday
+ORD-10386,2025-04-10,CUST-0350,Sam Brown,Central,Electronics,Mechanical Keyboard,8,89.99,0.05,PayPal,Shipped,683.92,2025,4,Apr,2025-04,Thursday
+ORD-10344,2025-07-31,CUST-0325,Morgan Garcia,Central,Office Supplies,Gel Pen Set (12-pack),1,12.99,0.0,Credit Card,Shipped,12.99,2025,7,Jul,2025-07,Thursday
+ORD-10770,2025-09-14,CUST-0196,Pat Davis,West,Clothing,Running Shoes,2,85.0,0.1,PayPal,Cancelled,153.0,2025,9,Sep,2025-09,Sunday
+ORD-10131,2025-06-07,CUST-0202,Sam Smith,West,Electronics,Wireless Headphones,1,99.99,0.0,Bank Transfer,Completed,99.99,2025,6,Jun,2025-06,Saturday
+ORD-10872,2025-05-02,CUST-0164,Riley Martinez,Central,Electronics,Bluetooth Speaker,3,49.99,0.0,Bank Transfer,Returned,149.97,2025,5,May,2025-05,Friday
+ORD-11124,2025-09-04,CUST-0135,Skyler Davis,East,Clothing,Running Shoes,2,85.0,0.2,Bank Transfer,Completed,136.0,2025,9,Sep,2025-09,Thursday
+ORD-10088,2025-02-13,CUST-0197,Dakota Gonzalez,North,Furniture,File Cabinet,6,89.99,0.1,PayPal,Cancelled,485.95,2025,2,Feb,2025-02,Thursday
+ORD-10331,2025-08-26,CUST-0216,Jordan Lopez,Central,Furniture,File Cabinet,8,89.99,0.15,PayPal,Completed,611.93,2025,8,Aug,2025-08,Tuesday
+ORD-10467,2025-11-19,CUST-0153,Cameron Garcia,Central,Office Supplies,Stapler & Clips Set,3,14.99,0.1,Credit Card,Completed,40.47,2025,11,Nov,2025-11,Wednesday
+ORD-10122,2025-02-25,CUST-0251,Morgan Brown,North,Furniture,Standing Desk,8,499.99,0.0,Cash,Completed,3999.92,2025,2,Feb,2025-02,Tuesday
+ORD-11045,2025-12-18,CUST-0158,Skyler Rodriguez,East,Clothing,Casual Polo Shirt,9,32.0,0.15,Cash,Shipped,244.8,2025,12,Dec,2025-12,Thursday
+ORD-11096,2025-01-23,CUST-0242,Dakota Brown,Central,Office Supplies,Notebook Pack,6,18.99,0.15,Bank Transfer,Returned,96.85,2025,1,Jan,2025-01,Thursday
+ORD-11131,2025-07-19,CUST-0124,Jordan Smith,East,Clothing,Casual Polo Shirt,4,32.0,0.0,Cash,Completed,128.0,2025,7,Jul,2025-07,Saturday
+ORD-10861,2025-01-02,CUST-0276,Morgan Brown,East,Electronics,4K Monitor,4,349.99,0.15,PayPal,Returned,1189.97,2025,1,Jan,2025-01,Thursday
+ORD-11127,2025-01-09,CUST-0234,Pat Davis,North,Electronics,Wireless Headphones,9,99.99,0.25,Bank Transfer,Shipped,674.93,2025,1,Jan,2025-01,Thursday

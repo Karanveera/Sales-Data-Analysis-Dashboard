@@ -1,0 +1,166 @@
+{
+    "initial_raw_records": 1232,
+    "cleaned_records": 1193,
+    "duplicates_removed": 32,
+    "total_sales_revenue": 599289.65,
+    "effective_completed_sales_revenue": 425681.31,
+    "total_orders": 1193,
+    "total_units_sold": 6463,
+    "average_order_value": 502.34,
+    "total_customers": 247,
+    "top_products": [
+        {
+            "Product_Name": "Standing Desk",
+            "Total_Revenue": 160396.72,
+            "Units_Sold": 371,
+            "Order_Count": 66
+        },
+        {
+            "Product_Name": "4K Monitor",
+            "Total_Revenue": 74985.34,
+            "Units_Sold": 252,
+            "Order_Count": 49
+        },
+        {
+            "Product_Name": "Ergonomic Office Chair",
+            "Total_Revenue": 70709.64,
+            "Units_Sold": 317,
+            "Order_Count": 58
+        },
+        {
+            "Product_Name": "Smart Watch",
+            "Total_Revenue": 44767.73,
+            "Units_Sold": 256,
+            "Order_Count": 48
+        },
+        {
+            "Product_Name": "Winter Jacket",
+            "Total_Revenue": 32982.0,
+            "Units_Sold": 310,
+            "Order_Count": 61
+        }
+    ],
+    "regional_sales": [
+        {
+            "Region": "North",
+            "Total_Sales": 125572.48,
+            "Order_Count": 219
+        },
+        {
+            "Region": "South",
+            "Total_Sales": 121348.29,
+            "Order_Count": 234
+        },
+        {
+            "Region": "East",
+            "Total_Sales": 118494.43000000001,
+            "Order_Count": 239
+        },
+        {
+            "Region": "West",
+            "Total_Sales": 117501.81,
+            "Order_Count": 237
+        },
+        {
+            "Region": "Central",
+            "Total_Sales": 116372.64,
+            "Order_Count": 264
+        }
+    ],
+    "category_sales": [
+        {
+            "Category": "Furniture",
+            "Total_Sales": 297470.98,
+            "Order_Count": 297
+        },
+        {
+            "Category": "Electronics",
+            "Total_Sales": 188340.46,
+            "Order_Count": 305
+        },
+        {
+            "Category": "Clothing",
+            "Total_Sales": 90613.85,
+            "Order_Count": 311
+        },
+        {
+            "Category": "Office Supplies",
+            "Total_Sales": 22864.36,
+            "Order_Count": 280
+        }
+    ],
+    "monthly_sales": [
+        {
+            "Year_Month": "2025-01",
+            "Month_Name": "Jan",
+            "Total_Sales": 54694.88,
+            "Order_Count": 99
+        },
+        {
+            "Year_Month": "2025-02",
+            "Month_Name": "Feb",
+            "Total_Sales": 41354.44,
+            "Order_Count": 92
+        },
+        {
+            "Year_Month": "2025-03",
+            "Month_Name": "Mar",
+            "Total_Sales": 43432.49,
+            "Order_Count": 102
+        },
+        {
+            "Year_Month": "2025-04",
+            "Month_Name": "Apr",
+            "Total_Sales": 50939.89,
+            "Order_Count": 101
+        },
+        {
+            "Year_Month": "2025-05",
+            "Month_Name": "May",
+            "Total_Sales": 38095.8,
+            "Order_Count": 90
+        },
+        {
+            "Year_Month": "2025-06",
+            "Month_Name": "Jun",
+            "Total_Sales": 54226.76,
+            "Order_Count": 104
+        },
+        {
+            "Year_Month": "2025-07",
+            "Month_Name": "Jul",
+            "Total_Sales": 53731.54,
+            "Order_Count": 102
+        },
+        {
+            "Year_Month": "2025-08",
+            "Month_Name": "Aug",
+            "Total_Sales": 56482.1,
+            "Order_Count": 102
+        },
+        {
+            "Year_Month": "2025-09",
+            "Month_Name": "Sep",
+            "Total_Sales": 38409.67,
+            "Order_Count": 85
+        },
+        {
+            "Year_Month": "2025-10",
+            "Month_Name": "Oct",
+            "Total_Sales": 62191.43,
+            "Order_Count": 112
+        },
+        {
+            "Year_Month": "2025-11",
+            "Month_Name": "Nov",
+            "Total_Sales": 39821.23,
+            "Order_Count": 103
+        },
+        {
+            "Year_Month": "2025-12",
+            "Month_Name": "Dec",
+            "Total_Sales": 65909.42,
+            "Order_Count": 101
+        }
+    ]
+}

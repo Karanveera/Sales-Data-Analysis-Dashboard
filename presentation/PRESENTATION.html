@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Data Analysis - Final Presentation</title>
+    <style>
+        :root {
+            --primary: #2563EB;
+            --dark: #0F172A;
+            --light: #F8FAFC;
+            --accent: #10B981;
+            --gray: #64748B;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--dark);
+            color: #E2E8F0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .slide-container {
+            width: 90%;
+            max-width: 1000px;
+            height: 620px;
+            background-color: #1E293B;
+            border-radius: 16px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 40px;
+            box-sizing: border-box;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .slide {
+            display: none;
+            flex-direction: column;
+            height: 100%;
+            justify-content: space-between;
+        }
+
+        .slide.active {
+            display: flex;
+        }
+
+        .slide-title {
+            font-size: 32px;
+            font-weight: 700;
+            color: #FFFFFF;
+            margin: 0 0 10px 0;
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 10px;
+        }
+
+        .slide-subtitle {
+            font-size: 16px;
+            color: var(--gray);
+            margin-bottom: 20px;
+        }
+
+        .content-body {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+            margin-top: 20px;
+        }
+
+        .kpi-card {
+            background-color: #0F172A;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .kpi-val {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        .kpi-lbl {
+            font-size: 14px;
+            color: var(--gray);
+            margin-top: 6px;
+        }
+
+        .insight-list {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        .insight-item {
+            background-color: #0F172A;
+            border-left: 4px solid var(--accent);
+            padding: 14px 20px;
+            border-radius: 8px;
+        }
+
+        .insight-item h4 {
+            margin: 0 0 6px 0;
+            color: #F8FAFC;
+        }
+
+        .insight-item p {
+            margin: 0;
+            color: #94A3B8;
+            font-size: 14px;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid #334155;
+            padding-top: 15px;
+            margin-top: 10px;
+        }
+
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 22px;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .btn:hover {
+            background-color: #1D4ED8;
+        }
+
+        .page-num {
+            color: var(--gray);
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+
+<div class="slide-container">
+    
+    <!-- Slide 1: Cover -->
+    <div class="slide active">
+        <div>
+            <div style="font-size: 14px; color: var(--primary); font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Internship Mini Project</div>
+            <h1 style="font-size: 44px; margin: 15px 0 10px 0; color: white;">Sales Data Analysis Dashboard</h1>
+            <p style="font-size: 20px; color: var(--gray);">Data Cleaning, KPI Analysis, Visualization & Strategic Business Insights</p>
+        </div>
+        <div style="background: #0F172A; padding: 20px; border-radius: 12px; border-left: 4px solid var(--primary);">
+            <p style="margin: 0; font-size: 15px;"><strong>Dataset Period:</strong> FY 2025 | 1,193 Analyzed Transactions</p>
+            <p style="margin: 5px 0 0 0; font-size: 15px;"><strong>Tools:</strong> Python, Pandas, NumPy, Plotly, Streamlit</p>
+        </div>
+    </div>
+
+    <!-- Slide 2: Workflow & Data Cleaning -->
+    <div class="slide">
+        <div>
+            <h2 class="slide-title">Data Understanding & Preprocessing</h2>
+            <p class="slide-subtitle">Transforming messy raw records into a structured analytical dataset</p>
+        </div>
+        <div class="content-body">
+            <div class="kpi-grid">
+                <div class="kpi-card">
+                    <div class="kpi-val">1,232</div>
+                    <div class="kpi-lbl">Raw Records</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-val" style="color: #EF4444;">32</div>
+                    <div class="kpi-lbl">Duplicates Purged</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-val" style="color: #F59E0B;">142</div>
+                    <div class="kpi-lbl">Nulls Imputed</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-val" style="color: var(--accent);">1,193</div>
+                    <div class="kpi-lbl">Clean Records</div>
+                </div>
+            </div>
+            <div style="margin-top: 25px; background: #0F172A; padding: 18px; border-radius: 10px;">
+                <h4 style="margin: 0 0 8px 0; color: var(--primary);">Key Preprocessing Steps:</h4>
+                <ul style="margin: 0; padding-left: 20px; color: #94A3B8; font-size: 14px; line-height: 1.6;">
+                    <li>Standardized heterogeneous date string formats into ISO timestamps.</li>
+                    <li>Stripped whitespace anomalies from string columns.</li>
+                    <li>Filtered negative order quantities & pricing error anomalies.</li>
+                    <li>Engineered Total Sales Revenue column incorporating discount rates.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 3: KPIs & Performance Overview -->
+    <div class="slide">
+        <div>
+            <h2 class="slide-title">Key Performance Indicators (KPIs)</h2>
+            <p class="slide-subtitle">Financial & operational summary of FY 2025 sales performance</p>
+        </div>
+        <div class="content-body">
+            <div class="kpi-grid" style="grid-template-columns: repeat(3, 1fr);">
+                <div class="kpi-card">
+                    <div class="kpi-val">$599,289.65</div>
+                    <div class="kpi-lbl">Total Sales Revenue</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-val">1,193</div>
+                    <div class="kpi-lbl">Total Completed Orders</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-val">$502.34</div>
+                    <div class="kpi-lbl">Average Order Value (AOV)</div>
+                </div>
+            </div>
+            <div class="kpi-grid" style="grid-template-columns: repeat(2, 1fr); margin-top: 15px;">
+                <div class="kpi-card">
+                    <div class="kpi-val" style="color: var(--accent);">Standing Desk</div>
+                    <div class="kpi-lbl">Top Revenue Product ($160.3k)</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-val" style="color: var(--accent);">West Region</div>
+                    <div class="kpi-lbl">Leading Region ($142.5k Revenue)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 4: Business Insights -->
+    <div class="slide">
+        <div>
+            <h2 class="slide-title">Top Business Insights</h2>
+            <p class="slide-subtitle">Data-driven findings and strategic recommendations</p>
+        </div>
+        <div class="content-body">
+            <div class="insight-list">
+                <div class="insight-item">
+                    <h4>1. Electronics & Standing Desks Drive 65%+ Revenue</h4>
+                    <p>Focus B2B sales packages around core standing desks and 4K monitors with bundled office supplies.</p>
+                </div>
+                <div class="insight-item" style="border-left-color: var(--primary);">
+                    <h4>2. Regional Expansion Opportunity in Central Region</h4>
+                    <p>West & North regions outperform Central by 30%+. Reallocate regional ad spend to expand Central market presence.</p>
+                </div>
+                <div class="insight-item" style="border-left-color: #F59E0B;">
+                    <h4>3. Post-Purchase Order Tracking to Reduce 12% Cancellation Rate</h4>
+                    <p>Implement post-purchase tracking notifications to lower ~$70k in cancellation and return losses.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 5: Conclusion & Dashboard -->
+    <div class="slide">
+        <div>
+            <h2 class="slide-title">Interactive Dashboard & Next Steps</h2>
+            <p class="slide-subtitle">Streamlit Web Application & Repository Submission</p>
+        </div>
+        <div class="content-body" style="text-align: center;">
+            <div style="background: #0F172A; padding: 30px; border-radius: 12px; border: 1px solid var(--primary);">
+                <h3 style="color: white; margin-top: 0;">🚀 Interactive Streamlit Dashboard Ready</h3>
+                <p style="color: #94A3B8;">Full dynamic filtering by Date Range, Region, Category, and Order Status.</p>
+                <code style="background: #1E293B; padding: 10px 18px; border-radius: 6px; color: var(--accent); font-size: 16px;">streamlit run app.py</code>
+            </div>
+            <p style="margin-top: 25px; color: var(--gray);">Thank you! Project submission complete.</p>
+        </div>
+    </div>
+
+    <!-- Slide Navigation Controls -->
+    <div class="controls">
+        <button class="btn" id="prevBtn" onclick="moveSlide(-1)">Previous</button>
+        <span class="page-num" id="slideNum">Slide 1 of 5</span>
+        <button class="btn" id="nextBtn" onclick="moveSlide(1)">Next</button>
+    </div>
+
+</div>
+
+<script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.slide');
+    const slideNum = document.getElementById('slideNum');
+
+    function showSlide(index) {
+        slides.forEach((slide, i) => {
+            slide.classList.toggle('active', i === index);
+        });
+        slideNum.textContent = `Slide ${index + 1} of ${slides.length}`;
+    }
+
+    function moveSlide(direction) {
+        currentSlide += direction;
+        if (currentSlide < 0) currentSlide = 0;
+        if (currentSlide >= slides.length) currentSlide = slides.length - 1;
+        showSlide(currentSlide);
+    }
+</script>
+
+</body>
+</html>
